@@ -1,0 +1,13 @@
+ACCT,115,Financial Accounting Foundations,4.00,,,TERMS-OFFERED,0
+ACCT,116,Managerial Accounting Foundations,4.00,ACCT115,,TERMS-OFFERED,0
+ACCT,321,Financial Reporting I,4.00,ACCT115,,TERMS-OFFERED,0
+ACCT,323,Financial Reporting III,4.00,ACCT322,,TERMS-OFFERED,0
+ACCT,341,Principles of Auditing,4.00,ACCT322,,TERMS-OFFERED,0
+ACCT,604,International Financial Reporting,3.00,,,TERMS-OFFERED,0
+ACCT,608,Government and Not-for-Profit Accounting,3.00,,,TERMS-OFFERED,0
+ACCT,631,Cost Accounting,3.00,ACCT601,,TERMS-OFFERED,0
+ACCT,990,ST:Applied ACCT Research,0.50 to 9.00,,,TERMS-OFFERED,0
+ACCT,331,Cost Accounting,4.00,ACCT116,,TERMS-OFFERED,0
+ACCT,605,Assurance Services,3.00,,,TERMS-OFFERED,0
+ACCT,627,Financial Accounting Theory III,3.00,ACCT626,,TERMS-OFFERED,0
+ACCT,640,Auditing Theory and Philosophy,3.00,,,TERMS-OFFERED,0

@@ -1,0 +1,25 @@
+CHE,201,Process Material Balances,3.00,TDEC121 or CHEM102 or CHEM162,,1010,0
+CHE,202,Process Energy Balances,3.00,CHE201,CHE206,0101,0
+CHE,206,Basic Chemical Engineering Thermodynamics,3,CHE201 and MATH200,CHE202,0001,0
+CHE,301,Process Thermodynamics,3.00,ENGR210 or CHE206 and CHE201 and CHE202,,1010,0
+CHE,302,Process Fluid Mechanics,4.00,TDEC221 or MATH210 or MATH262 or ENGR232,,0101,0
+CHE,303,Process Heat Transfer,3,CHE302 and CHE201,,1110,0
+CHE,304,Process Mass Transfer,4.00,CHE303 and CHE201 and CHE202,,0101,0
+CHE,305,Process Separations,4.00,CHE301 and CHE201 and CHE202,,1010,0
+CHE,307,Process Modeling I,4.00,CHE201 and CHE202,,1010,0
+CHE,308,Process Modeling II,4.00,CHE305 and CHE307,CHE304,0101,0
+CHE,332,Chemical Engineering Laboratory,2.00,CHE301 and CHE302,,0101,0
+CHE,332,Chemical Engineering Laboratory,2.00,CHE301,,0101,0
+CHE,333,Chemical Engineering Laboratory II,2.00,CHE303,,1010,0
+CHE,334,Chemical Engineering Laboratory III,2.00,CHE303 and CHE304,,0101,0
+CHE,334,Chemical Engineering Laboratory III,2.00,CHE305,,0101,0
+CHE,335,Statistics and Design of Experiments,3.00,MATH210 or MATH262 or ENGR232,,0101,0
+CHE,335,Statistics and Design of Experiments,3.00,MATH210 or MATH262 or TDEC221 or ENGR232,,0101,0
+CHE,335,Statistics & Design Experimnts,3.00,MATH210 or MATH262 or ENGR232,,0101,0
+CHE,360,BioProcess Principles,3.00,BIO214 and BIO215,,0100,0
+CHE,420,Process Systems Engineering,3.00,CHE201 and CHE202 and CHE303,,1000,0
+CHE,424,Chemical Kinetics and Reactor Design,4.00,CHE304 and CHE201 and CHE202,,1000,0
+CHE,451,Safety Engineering,3.00,CHE482,,0010,0
+CHE,481,Process Design I,3.00,CHE304 and CHE308,CHE424,1000,0
+CHE,482,Process Design II,3.00,CHE481,,0100,0
+CHE,483,Process Design III,3.00,CHE482,,0010,0

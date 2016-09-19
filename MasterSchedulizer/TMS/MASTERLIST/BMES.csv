@@ -1,0 +1,54 @@
+BMES,125,Foundations of Biomedical Engineering,2.00,,,1010,0
+BMES,130,Problem Solving in Biomedical Engineering,2,,,0010,0
+BMES,201,Programming and Modeling for Biomedical Engineers I,3,MATH200 and PHYS102 and BIO122,,1110,0
+BMES,202,Programming and Modeling for Biomedical Engineers II,3,BMES201,,0101,0
+BMES,212,The Body Synthetic,3.00,BIO122 and BMES130 or BMES125,,0101,0
+BMES,212,The Body Synthetic,3.00,BIO122 and BMES130,,0101,0
+BMES,301,Laboratory I: Experimental Biomechanics,2.00,MATH200 and PHYS201 and ENGR231 and MEM202,,1010,0
+BMES,302,Laboratory II: Biomeasurements,2.00,BIO201 and ECE201 and ENGR103,,1010,0
+BMES,303,Laboratory III: Biomedical Electronics,2.00,ECE201 and ENGR232,,0101,0
+BMES,304,Laboratory IV: Ultrasound Images,2.00,BIO201 and ECE201 and ENGR103,,1010,0
+BMES,305,Laboratory V: Musculoskeletal Anatomy for Biomedical Engineers,2.00,BIO201 and MEM202,,1010,0
+BMES,310,Biomedical Statistics,4.00,ENGR231,,0101,0
+BMES,315,Experimental Design in Biomedical Research,4.00,BMES310,,1010,0
+BMES,325,Principles of Biomedical Engineering I,3.00,BIO122 and CHEM102 and BIO203 and MEM202 and ENGR220 and ENGR232,,1010,0
+BMES,326,Principles of Biomedical Engineering II,3.00,BMES325 and BIO201 and BMES201 and BMES202,,0101,0
+BMES,326,Principles of Biomedical Engineering II,3.00,BMES325 and BIO201 and BMES202 or ENGR202,,0101,0
+BMES,338,Biomedical Ethics and Law,3.00,,,1010,0
+BMES,340,Health Care Administration,3.00,,,0101,0
+BMES,345,Mechanics of Biological Systems,3,,,0101,0
+BMES,372,Biosimulation,3.00,BIO201 and BIO203 and ENGR231 and ENGR232 and BMES201 and BMES202 or ENGR201 and ENGR202,,1010,0
+BMES,375,Computational Bioengineering,4.00,BIO203 and BMES325 and BMES372 and ENGR231 and TDEC221 or ENGR232,,0101,0
+BMES,381,Junior Design Seminar I,2.00,,,1010,0
+BMES,382,Junior Design Seminar II,2.00,BMES381,,0101,0
+BMES,391,Biomedical Instrumentation I,3.00,ECE201 and ENGR210 and TDEC221 or ENGR231 and ENGR232 and BIO203,,1000,0
+BMES,392,Biomedical Instrumentation II,3.00,BMES391,,0100,0
+BMES,401,Biosensors I,4.00,BMES326 and ENGR210 and TDEC221 or ENGR231 and ECE201 and ENGR232,,1010,0
+BMES,405,Physiological Control Systems,3.00,BIO201 and BIO203 and ECES356 and BMES372,,0101,0
+BMES,409,Entrepreneurship for BMES,3.00,,,1111,0
+BMES,411,Chronoengineering I: Biological Rhythms in Health and Performance,3.00,BIO203 and BMES326,,1010,0
+BMES,412,Chronoengineering II: Sleep Functions in Health and Performance,3.00,BMES411,,0101,0
+BMES,421,Biomedical Imaging Systems I: Images,4,BMES325,,1000,0
+BMES,422,Biomedical Imaging Systems II: Ultrasound,4.00,BMES421,,0100,0
+BMES,423,Biomedical Imaging Systems III,4.00,BMES422,,0010,0
+BMES,430,Neural Aspects of Posture and Locomotion,3.00,BIO201 and BIO203 and BMES201 and BMES202 or ENGR201 and ENGR202 and MEM202,,1010,0
+BMES,440,Introduction to Biodynamics,3,BMES345,,1000,0
+BMES,441,Biomechanics I: Introduction to Biomechanics,4.00,MEM202 and MEM230 or BMES345 and MEM238 and BMES326 and BIO203,BMES440,1000,0
+BMES,442,Biomechanics II: Musculoskeletal Modeling and Human Performance,4.00,BMES441,,0100,0
+BMES,444,Biofluid Mechanics,3.00,BMES451,,0010,0
+BMES,451,Transport Phenomena in Living Systems,4.00,PHYS201 and BMES326 and BIO203 and ENGR210 and ENGR232,,1101,0
+BMES,460,Biomaterials I,4.00,MEM230 or BMES345 and CHEM241 and CHEM242,,1000,0
+BMES,461,Biomaterials II,4.00,BMES460,,0100,0
+BMES,471,Cellular and Molecular Foundations of Tissue Engineering,4.00,BIO218 and BIO122 and BIO219 and CHEM242 and MEM230 or BMES345,,1000,0
+BMES,472,Developmental and Evolutionary Foundations of Tissue Engineering,4.00,BMES471,,0100,0
+BMES,475,Biomaterials and Tissue Engineering III,4.00,BMES460 and BMES461 and BMES471 and BMES472,,0010,0
+BMES,477,Neuroengineering I: Neural Signals,3.00,ECES302 and ECES304 and ECES356 and BIO203 and BMES405 and BMES430,,0100,0
+BMES,478,Neuroengineering II: Principles of Neuroengineering,3.00,BMES477,,0010,0
+BMES,483,Quantitative Systems Biology,4.50,ENGR232 and BIO203 and BMES202 or ENGR202 and BMES372 and BMES375 and CS172,,0100,0
+BMES,484,Genome Information Engineering,4.50,BMES483,,0010,0
+BMES,488,Medical Device Development,3.00,BMES391 and BMES392,,0010,0
+BMES,491,Senior Design Project I,3.00,,,1000,0
+BMES,492,Senior Design Project II,2.00,,,0100,0
+BMES,493,Senior Design Project III,3.00,,,0010,0
+BMES,494,Clinical Practicum I,3.00,,,1000,0
+BMES,496,Clinical Practicum III,3.00,,,0010,0

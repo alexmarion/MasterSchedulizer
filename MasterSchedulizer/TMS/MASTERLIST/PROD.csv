@@ -1,0 +1,18 @@
+PROD,101,History and Analysis of Product Design,3.00,,,1000,0
+PROD,205,Applied Making I,3.00,PROD101,,1000,0
+PROD,210,Introduction to Product Design,3.00,PROD101,,1000,0
+PROD,215,Design Thinking in Product Design,4.00,,,0000,0
+PROD,220,Product Design Form Studio,4.00,PROD210 and PROD205 and PROD235,,0100,0
+PROD,225,Computer Aided Imagining in Product Design,3.00,MEM201,,0010,0
+PROD,230,Product Design Process Studio,4.00,PROD220,,0010,0
+PROD,230,Product Design Process Studio,4.00,PROD210,,0010,0
+PROD,235,Applied Design Visualization,3.00,,,1000,0
+PROD,245,Seminar Professional Landscape,3.00,PROD220,,0001,0
+PROD,255,Applied Materials in Product Design,3.00,PROD235 and ENGR220,,0001,0
+PROD,340,Interdisciplinary Product Design Studio,4.00,PROD230,,1000,0
+PROD,345,Applied Human Centered Design,3.00,PSY101,,0100,0
+PROD,425,Applied Design Research,3.00,COM220 and PROD345,,1000,0
+PROD,460,Research Synthesis Studio,4.00,PROD340,,1000,0
+PROD,470,Create Build Studio,4.00,PROD460,,0100,0
+PROD,475,Professional Practice in Product Design,3.00,PROD460,,0010,0
+PROD,480,Exhibition Studio,4.00,PROD470,,0010,0

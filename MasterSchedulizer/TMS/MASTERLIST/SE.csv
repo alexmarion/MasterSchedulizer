@@ -1,0 +1,9 @@
+SE,101,Foundations of Software Engineering I,3.00,,EXAM080,1000,0
+SE,102,Foundations of Software Engineering II,3.00,SE101,EXAM080,0100,0
+SE,103,Foundations of Software Engineering III,3.00,SE102,,0010,0
+SE,210,Software Specification and Design I,3,SE103 or CS172,,1000,0
+SE,211,Software Specification and Design II,3,SE210,,0101,0
+SE,310,Software Architecture I,3.00,CS265 and CS260,,1000,0
+SE,311,Software Architecture II,3.00,SE310 or CS350,,0100,0
+SE,320,Software Verification and Validation,3.00,CS260,,1000,0
+SE,410,Software Evolution,3.00,CS260,,1010,0

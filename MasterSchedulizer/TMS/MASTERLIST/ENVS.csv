@@ -1,0 +1,19 @@
+ENVS,169,Environmental Science,3.00,,,0000,0
+ENVS,230,General Ecology,3.00,BIO126 or BIO141 or BIO101 or BIO109,,1010,0
+ENVS,260,Environmental Science and Society,3.00,,,1111,0
+ENVS,284,Physiological and Population Ecology,3.00,ENVS230,,0100,0
+ENVS,285,Population Ecology Laboratory,2.00,ENVS284,,0100,0
+ENVS,286,Community and Ecosystem Ecology,3.00,ENVS230,,1000,0
+ENVS,322,Tropical Ecology,3.00,ENVS230,,0100,0
+ENVS,327,Molecular Ecology Laboratory,2.00,ENVS230 or ENVS284 or BIO211 or BIO218,,0000,0
+ENVS,330,Aquatic Ecology,3.00,ENVS230,,0010,0
+ENVS,364,Animal Behavior,3.00,ENVS230 or BIO126,,0010,0
+ENVS,382,Field Botany of the New Jersey Pine Barrens,4.00,,,0001,0
+ENVS,383,Ecology of the New Jersey Pine Barrens,4.00,ENVS230,,0010,0
+ENVS,388,Marine Field Methods,4.00,ENVS230,,0001,0
+ENVS,388,Marine Field Methods,4.00,,,0001,0
+ENVS,390,Marine Ecology,3.00,ENVS230,,1000,0
+ENVS,401,Chemistry of the Environment,3.00,CHEM102 or CHEM122,,1000,0
+ENVS,441,Issues in Global Change I: Seminar,2.00,,,0100,0
+ENVS,442,Issues in Global Change II: Research,2.00,ENVS441,,0010,0
+ENVS,497,Research,0.50,,,0000,0

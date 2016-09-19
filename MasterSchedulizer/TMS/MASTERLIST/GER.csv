@@ -1,0 +1,13 @@
+GER,101,German I,4.00,,,1111,0
+GER,102,German II,4.00,GER101,,1111,0
+GER,103,German III,4.00,GER102,,1111,0
+GER,201,German IV,4.00,GER103,,1111,0
+GER,202,German V,4.00,GER201,,1111,0
+GER,203,German VI: Conversation & Composition,4.00,GER202,,1111,0
+GER,311,Introduction to German Stylistics,3.00,GER203,,1111,0
+GER,312,German Stylistics,3.00,GER311,,1111,0
+GER,332,Studies in German Literature,3.00,GER312,,0001,0
+GER,351,Introduction to Business and Professional German,3.00,GER312,,0100,0
+GER,371,Special Studies in German Civilization & Culture,3.00,GER312,,0010,0
+GER,371,Kaiserzeit bis zur dt. Einheit,3.00,GER312,,0010,0
+GER,411,Special Studies in Advanced German Stylistics,3.00,GER312,,0100,0

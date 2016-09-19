@@ -1,0 +1,24 @@
+FMVD,105,Basic Shooting and Lighting,3.00,,,1111,0
+FMVD,110,Basic Shooting and Lighting,3.00,,,1111,0
+FMVD,115,Basic Editing,3.00,,,1110,0
+FMVD,120,Basic Sound,3.00,,,1110,0
+FMVD,200,Acting for the Screen,3.00,,,1111,0
+FMVD,202,Directing for the Screen,3.00,,,1111,0
+FMVD,206,Audio Production and Post,3.00,,,0101,0
+FMVD,210,Documentary Video Production,3.00,FMVD110,,1111,0
+FMVD,215,Narrative Video Production,3.00,FMVD110 and FMVD115 and FMVD120,,1011,0
+FMVD,220,Experimental Video Production,3.00,FMVD110 and FMVD115 and FMVD120,,1010,0
+FMVD,230,Basic Filmmaking,3.00,FMVD110 and FMVD115 and FMVD120,,0101,0
+FMVD,235,Intermediate Lighting,3.00,FMVD105 or FMVD110,,1111,0
+FMVD,237,Intermediate Editing,3.00,FMVD110 and FMVD115 and FMVD120,,0100,0
+FMVD,286,Producing for Features,3.00,,,1000,0
+FMVD,291,Hollywood Internshhip,0.50,,,1110,0
+FMVD,305,Special Effects Make-up,3.00,,,0010,0
+FMVD,310,Camera Operators Workshop,3.00,FMVD110 and FMVD115 and FMVD120,,1010,0
+FMVD,315,Audio Post Production,3.00,FMVD110 and FMVD115 and FMVD120,,0001,0
+FMVD,320,Steadicam Workshop,3.00,FMVD230,,0100,0
+FMVD,322,Production Workshop I,3.00,FMVD210 or FMVD215,,1010,0
+FMVD,323,Production Workshop II,3.00,FMVD322,,0101,0
+FMVD,325,Stop Motion Animation,3.00,FMVD110 and FMVD115 and FMVD120,,0010,0
+FMVD,465,ST:Operating a Production Co,3.00,FMVD105 or FMVD110,,0000,0
+FMVD,495,Senior Project in Film and Video,3.00,FMVD323,,1110,0

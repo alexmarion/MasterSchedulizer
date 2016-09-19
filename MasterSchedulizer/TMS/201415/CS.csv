@@ -1,0 +1,24 @@
+CS,140,Introduction to Multimedia Programming,3.00,,,TERMS-OFFERED,0
+CS,161,Introduction to Computing,3.00,,EXAM080,TERMS-OFFERED,0
+CS,164,Introduction to Computer Science,3.00,,EXAM080,TERMS-OFFERED,0
+CS,171,Computer Programming I,3.00,,EXAM080,TERMS-OFFERED,0
+CS,265,Advanced Programming Tools and Techniques,3.00,CS172 or CS133 or SE103 or ECEC301,,TERMS-OFFERED,0
+CS,270,Mathematical Foundations of Computer Science,3.00,CS172 or CS265 or SE103,,TERMS-OFFERED,0
+CS,281,Systems Architecture,4.00,ECE200 or CS270 and CS172 or SE103,,TERMS-OFFERED,0
+CS,350,Software Design,3.00,CS260 and CS265,,TERMS-OFFERED,0
+CS,360,Programming Language Concepts,3.00,CS260 and CS265 and CS270,,TERMS-OFFERED,0
+CS,361,Concurrent Programming,3.00,CS260 and CS281,,TERMS-OFFERED,0
+CS,435,Computational Photography,3.00,MATH123 or MATH200 and MATH201 or MATH261 or ENGR231 and CS260,,TERMS-OFFERED,0
+CS,457,Data Structures and Algorithms I,3.00,CS260 and CS270 and MATH221,,TERMS-OFFERED,0
+CS,521,Data Structures and Algorithms I,3.00,,,TERMS-OFFERED,0
+CS,530,Developing User Interfaces,3.00,,,TERMS-OFFERED,0
+CS,536,Computer Graphics,3.00,,,TERMS-OFFERED,0
+CS,540,High Performance Computing,3.00,,,TERMS-OFFERED,0
+CS,575,Software Design,3.00,,,TERMS-OFFERED,0
+CS,576,Dependable Software Systems,3.00,,,TERMS-OFFERED,0
+CS,997,Research in Computer Science,1.00 to 12.00,,,TERMS-OFFERED,0
+CS,998,Ph.D. Dissertation,1.00 to 12.00,,,TERMS-OFFERED,0
+CS,300,Applied Symbolic Computation,3.00,CS260 and CS270 and MATH200 and MATH201,,TERMS-OFFERED,0
+CS,380,Artificial Intelligence,3.00,CS260 and CS270,,TERMS-OFFERED,0
+CS,472,"Computer Networks: Theory, Applications and Programming",3.00,CS361 or CS283,,TERMS-OFFERED,0
+CS,630,Cognitive Systems,3.00,CS510 or CS530,,TERMS-OFFERED,0

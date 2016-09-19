@@ -1,0 +1,12 @@
+ACCT,115,Financial Accounting Foundations,4.00,,,TERMS-OFFERED,0
+ACCT,116,Managerial Accounting Foundations,4.00,ACCT115,,TERMS-OFFERED,0
+ACCT,321,Financial Reporting I,4.00,ACCT115,,TERMS-OFFERED,0
+ACCT,323,Financial Reporting III,4.00,ACCT322,,TERMS-OFFERED,0
+ACCT,341,Principles of Auditing,4.00,ACCT322,,TERMS-OFFERED,0
+ACCT,601,Managerial Accounting,3.00,BUSN501 or BUSN505 and BUSN506,,TERMS-OFFERED,0
+ACCT,625,Financial Accounting Theory I,3.00,,,TERMS-OFFERED,0
+ACCT,990,ST:Applied Resrch Meth Acct,0.50 to 9.00,,,TERMS-OFFERED,0
+ACCT,331,Cost Accounting,4.00,ACCT116,,TERMS-OFFERED,0
+ACCT,600,Accounting Analysis & Theory,3.00,,,TERMS-OFFERED,0
+ACCT,606,Current Issues in the Accounting Profession,3.00,,,TERMS-OFFERED,0
+ACCT,628,Accounting Valuation Issues,3.00,ACCT627 or ACCT323,,TERMS-OFFERED,0

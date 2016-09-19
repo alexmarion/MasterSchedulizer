@@ -1,0 +1,15 @@
+ECON,201,Principles of Microeconomics,4.00,,,1111,0
+ECON,202,Principles of Macroeconomics,4.00,ECON201,,1111,0
+ECON,240,Economics of Health Care Systems,4.00,,,1100,0
+ECON,250,Game Theory and Applications,4.00,STAT201 or STAT205 or MATH107,,0100,0
+ECON,301,Microeconomics,4.00,ECON201 and ECON202 and MATH102 or MATH121,,1110,0
+ECON,321,Macroeconomics,4.00,ECON201 and ECON202 and ECON301 and MATH102 or MATH121,,1110,0
+ECON,322,Economics Seminar,4.00,ECON301 and ECON321,,1110,0
+ECON,326,Economic Ideas,4.00,ECON201 and ECON202,,0010,0
+ECON,330,Managerial Economics,4.00,ECON201 and ECON202,,0010,0
+ECON,334,Public Finance,4.00,ECON201 and ECON202 and MATH102 or MATH121,,0010,0
+ECON,336,Labor Economics,4.00,ECON201 and ECON202,,0000,0
+ECON,338,Industrial Organization,4.00,ECON201 and ECON202 and MATH102 or MATH121,,0100,0
+ECON,342,Economic Development,4.00,ECON201 and ECON202,,0100,0
+ECON,350,Applied Econometrics,4.00,ECON201 and ECON202 and STAT201,,1100,0
+ECON,351,Resource and Environmental Economics,4.00,ECON201 and ECON202,,1101,0

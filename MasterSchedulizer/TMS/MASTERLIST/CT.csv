@@ -1,0 +1,49 @@
+CT,100,Microcomputer Hardware,3.00,,,1010,0
+CT,120,Microcomputer Operating System,3.00,CT100,,1101,0
+CT,140,Network Administration I,3.00,CT100,,1110,0
+CT,200,Server I,3.00,,CT100,1110,0
+CT,210,Linux I,3.00,,,1001,0
+CT,212,Computer Forensics I: Fundamentals,3.00,,,1110,0
+CT,220,Database I,3.00,,,1101,0
+CT,222,Security and Information Warfare,3.00,,,0110,0
+CT,230,Web Development I,3.00,,,1100,0
+CT,240,Web Development II,3.00,CT230,,1110,0
+CT,290,Client Side Programming,3.00,,,1110,0
+CT,300,Security Technology Models and Architecture I,3.00,CT380,,0110,0
+CT,310,Linux II,3.00,CT210,,1100,0
+CT,312,Access Control and Intrusion Detection Technology,3.00,CT420,,1111,0
+CT,315,Security Management Practice,3.00,,,1111,0
+CT,320,Server II,3.00,CT200,,1110,0
+CT,325,Operating System Security Architecture I,3.00,,,1110,0
+CT,326,Operating System Security Architecture II,3.00,CT320 and CT325,,0001,0
+CT,330,Network Administration II,3.00,CT140,,0110,0
+CT,336,Internet Protocol Security and Virtual Private Network Technology,3.00,CT140 and CT420,,0110,0
+CT,340,Operating Systems Architecture I,3.00,,,0111,0
+CT,350,Network Administration III,3.00,CT330,,0011,0
+CT,355,Wireless Network Security Technology,3.00,CT420,,1000,0
+CT,360,Operating Systems Architecture II,3.00,CT320 and CT340,,1111,0
+CT,362,Network Auditing Tools,3.00,CT420,,0110,0
+CT,370,Object Oriented Systems Analysis,3.00,,,1110,0
+CT,375,Database II,3.00,CT220,,1111,0
+CT,380,Operating Systems Architecture III,3,CT360,,0011,0
+CT,382,Applied Cryptography,3.00,,,0100,0
+CT,385,Web Development III,3.00,CT240,,0110,0
+CT,390,Server Side Programming,3.00,CT290,,0111,0
+CT,392,Web Development IV,3.00,CT385,,0000,0
+CT,393,Information Technology Security Risk Assessment,3.00,,,1011,0
+CT,395,Information Technology Security I,3.00,,,1111,0
+CT,400,Network Security,3.00,CT350,,1011,0
+CT,402,Network Security II,3.00,CT400,,1101,0
+CT,405,Enterprise Programming,3.00,CT390,,0011,0
+CT,410,Linux III,3.00,CT310,,1110,0
+CT,412,Information Technology Security Policies,3.00,,,0011,0
+CT,415,Disaster Recovery and Continuity Planning,3.00,,,1011,0
+CT,420,Information Technology Security II,3.00,CT395,,1110,0
+CT,422,Incident Response Best Practices,3.00,,,1101,0
+CT,425,Database III,3.00,CT375,,0111,0
+CT,430,Database IV,3.00,CT425,,0000,0
+CT,431,Project Management,3.00,,,0111,0
+CT,432,Information Technology Security Systems Audits,3.00,CT420,,0011,0
+CT,472,Security Defense Countermeasures,3.00,CT420,,0110,0
+CT,491,Senior Project I,3.00,,,1111,0
+CT,496,Senior Project II,3.00,CT491,,1011,0

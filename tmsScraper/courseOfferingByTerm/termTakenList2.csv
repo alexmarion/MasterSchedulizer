@@ -1,0 +1,428 @@
+FASH 201,Survey of the Fashion Industry,1000
+FASH 210,Presentation Techniques in FD,1010
+FASH 211,Fashion Drawing I,1000
+FASH 212,Fashion Drawing II,0110
+FASH 220,Textile Design,1100
+FASH 230,Textiles for Fashion Design,0110
+FASH 241,Construction Skills,1100
+FASH 251,Fashion Design I,0110
+FASH 252,Fashion Design II,0011
+FASH 313,Fashion Drawing for Industry,0011
+FASH 314,Fashion Presentation Drawing,0101
+FASH 315,CAD Patternmaking,1110
+FASH 316,CAD for Fashion Design,0100
+FASH 317,Technical Design,0110
+FASH 341,Flat Pattern Design,0110
+FASH 342,Draping Design,1000
+FASH 343,Tailoring and Design,1010
+FASH 351,Fashion Design III,0101
+FASH 352,Fashion Design IV,1000
+FASH 450,Machine Knitting,1110
+FASH 451,Accessory Design,0001
+FASH 452,Millinery Design,0010
+FASH 464,Professional Portfolio,1000
+FASH 466,Business of Fashion,1000
+FASH 467,Style and the Media,0010
+FASH 491,Sr Problem Fash Design I,0100
+FASH 492,Senior Prob Fash Desgn II,0010
+FDSC 154,"Foods: Comp, Inter & Form",1010
+FDSC 270,Micro Food Safety & Sanitation,0100
+FDSC 350,Exp Foods: Product Development,1000
+FDSC 450,Food Microbiology,1000
+FDSC 451,Food Microbiology Laboratory,1000
+FDSC 454,Micro & Chem of Food Safety,0000
+FDSC 456,Food Preservation Processes,0000
+FDSC 460,Food Chemistry,0100
+FDSC 461,Food Analysis,0000
+FDSC 468,Functional Foods,0100
+FDSC 490,Seminar in Food Science,0010
+FDSC 491,Senior Project I,0100
+FDSC 492,Senior Project II,0010
+FIN 301,Introduction to Finance,1111
+FIN 302,Intermediate Corporate Finance,1111
+FIN 321,Invest Securities & Markt,1110
+FIN 323,Risk Management,1100
+FIN 325,Fin Institutions and Markets,1111
+FIN 330,Derivative Securities,0010
+FIN 332,Investment Analysis,0110
+FIN 335,Entrepreneurial Finance,0101
+FIN 338,Money and Capital Markets,1111
+FIN 340,Seminar in Finance,1110
+FIN 341,Applied Portfolio Management,1110
+FIN 342,Advanced Portfolio Management,0000
+FIN 346,Global Financial Mgmt,0100
+FIN 350,Personal Finance,1111
+FMST 150,American Classic Cinema,1111
+FMST 160,European Cinema,0100
+FMST 245,Non-Western Cinema,0010
+FMST 250,The Documentary Tradition,1000
+FMST 255,Hitchcock,0010
+FMST 260,The Western,0010
+FMST 262,Film Comedy,0101
+FMST 263,Rock - N - Roll Cinema,0000
+FMST 340,French New Wave,0000
+FMST 345,Italian Neo Realism,0000
+FMST 352,The Horror Film,0001
+FMST 355,Contemporary Cinema,1001
+FMVD 110,Basic Shooting and Lighting,1111
+FMVD 115,Basic Editing,1110
+FMVD 120,Basic Sound,1110
+FMVD 200,Acting for the Screen,1111
+FMVD 202,Directing for the Screen,1111
+FMVD 205,Professions in Film and Video,1000
+FMVD 206,Audio Production and Post,0101
+FMVD 210,Documentary Video Production,1111
+FMVD 215,Narrative Video Production,1011
+FMVD 220,Experimental Video Production,1010
+FMVD 230,Basic Filmmaking,1110
+FMVD 235,Intermediate Lighting,1111
+FMVD 237,Intermediate Editing,0100
+FMVD 264,Russian Cinema,0000
+FMVD 286,Producing for Features,1000
+FMVD 290,Cutting Trailers,0110
+FMVD 291,Film and Video Internship,1110
+FMVD 305,Special Effects Make-up,0010
+FMVD 310,Camera Operators Workshop,1010
+FMVD 315,Audio Post Production,0001
+FMVD 320,Steadicam Workshop,0100
+FMVD 322,Production Workshop I,1010
+FMVD 323,Production Workshop II,0101
+FMVD 325,Stop Motion Animation,0010
+FMVD 327,Advanced Lighting,0000
+FMVD 332,Advanced Film,0101
+FMVD 335,The 16mm Film Project,0000
+FMVD 341,Creating Credits and Opticals,0000
+FMVD 344,Music Video Production,0000
+FMVD 360,The Art of Television,0010
+FMVD 400,Advanced Directing,0100
+FMVD 420,Advanced Audio Post-Production,0000
+FMVD 430,Advanced Cinematography,0010
+FMVD 465,Special Topics in Film & Video,0000
+FMVD 495,Senior Project in Film & Video,1110
+FREN 101,French I,1111
+FREN 102,French II,1111
+FREN 103,French III,1111
+FREN 201,French IV,1111
+FREN 202,French V,1111
+FREN 203,French VI: Convers & Comp,1111
+FREN 311,Intro French Stylistics,1111
+FREN 312,French Stylistics,1111
+FREN 332,Studies in French Literature,0001
+FREN 333,Advanced French Literature,1000
+FREN 351,Intro Bus & Prof French,0100
+FREN 371,Spec St French Civ & Cult,0010
+FREN 411,Spec St Adv French Stylis,0100
+FREN 431,Spec St Adv French Lit,0010
+FREN 451,Sp St Adv Bus/Prof French,0000
+FREN 471,Sp St French Civilization,1000
+FREN 480,French Minor Thesis Course,0000
+GER 101,German I,1111
+GER 102,German II,1111
+GER 103,German III,1111
+GER 201,German IV,1111
+GER 202,German V,1111
+GER 203,German VI: Convers & Comp,1111
+GER 311,Intro German Stylistics,1111
+GER 312,German Stylistics,1111
+GER 332,Studies in German Literature,0001
+GER 333,Advanced German Literature,1000
+GER 351,Intro Bus & Prof German,0100
+GER 371,Spec St German Civ & Cult,0010
+GER 411,Spec St Adv German Stylis,0100
+GER 431,Spec St Adv German Lit,0010
+GER 451,Sp St Adv Bus/Prof German,0000
+GER 471,Sp St German Civilization,1000
+GER 480,German Minor Thesis Course,0000
+GREC 101,Modern Elementary Greek I,0110
+GREC 102,Modern Elementary Greek II,1000
+GREC 103,Modern Elementary Greek III,0100
+GREC 212,Introduction to Greek Folklore,0010
+GREC 225,Intro to Greek Music & Dance,0010
+GSTD 111,Learning Skills & Strategies,0000
+GSTD 150,Intro to World Religions,1110
+GSTD 210,Fact & Fiction in Film,0000
+GSTD 400,Practicum,0000
+GSTD 491,Senior Proj in General Studies,0000
+HBRW 101,Introduction to Hebrew I,1110
+HBRW 102,Introduction to Hebrew II,1110
+HBRW 103,Introduction to Hebrew III,1110
+HIST 141,Europe & the Modern World II,0000
+HIST 161,Themes World Civilization I,1001
+HIST 162,Themes World Civilization II,1101
+HIST 163,Themes World Civilization III,0110
+HIST 201,US History to 1815,1011
+HIST 202,"US History, 1815-1900",0101
+HIST 203,US History since 1900,1111
+HIST 212,Themes African-Ameri Hist,0000
+HIST 214,US Civil Rights Movement,0000
+HIST 215,American Slavery,0000
+HIST 216,Freedom in America,0000
+HIST 218,Race and Film in US History,0000
+HIST 220,History of American Business,0010
+HIST 222,Hist Work & Workers in America,0000
+HIST 223,Women and Work in America,0000
+HIST 231,US Military Hist II since1900,0010
+HIST 234,US Civil War,0010
+HIST 235,"The Great War, 1914-1918",1001
+HIST 236,World War II,0011
+HIST 238,The Vietnam War,0000
+HIST 243,Germany & World of Hitler,1000
+HIST 244,20th- century Russia & USSR,0010
+HIST 245,"England to Elizabeth, to 1558",0000
+HIST 246,"England Eliz/Wtrloo,1558-1815",0000
+HIST 247,"Modern England, 1815 - present",0000
+HIST 249,Modern Jewish History,0100
+HIST 250,"Euro Rev Ideology, 1815-1914",0100
+HIST 251,Fascism,0000
+HIST 252,"Europe between Wars, 1919-1939",0010
+HIST 253,Jewish Life & Cult in Mid Ages,0000
+HIST 258,"Hist of Europe,19th Century",0000
+HIST 259,"Hist of Europe, 20th Century",0010
+HIST 267,Twentieth Century World I,1010
+HIST 268,Twentieth Century World II,0001
+HIST 270,Intro Latin American History,0000
+HIST 272,Ancient & Colonial Mexico,0010
+HIST 273,Modern Mexico,0000
+HIST 276,The History of Philadelphia,0011
+HIST 280,History of Science I,1110
+HIST 281,History of Science II,1110
+HIST 282,The Scientific Revolution,1000
+HIST 285,Technology in Hist Perspective,1111
+HIST 286,Exploration Tech & Gender,0100
+HIST 292,Technology in American Life,0000
+HIST 296,Research Methods in History,0101
+HIST 299,Hist Background Current Issues,0100
+HIST 301,The Study of History,1000
+HIST 310,"Women, Crime, & History",0010
+HIST 490,Senior Seminar I,1000
+HIST 491,Senior Seminar II,0100
+HIST 492,Senior Seminar,1000
+HRM 110,Intro Hospitality Industr,1000
+HRM 120,Principl Foodservice Mgmt,1010
+HRM 130,Tourism I,1000
+HRM 135,Tourism II,0100
+HRM 150,Customer Service,0100
+HRM 160,Laws of the Hospitality Ind,0010
+HRM 200,Software for Hospitality Ind,1000
+HRM 215,Commercial Food Production,1110
+HRM 220,Purchasing/Hospitality Indust,1000
+HRM 225,Equipment Design and Layout,0100
+HRM 250,Contract Fdsvc Management,0100
+HRM 310,Hospitality Accounting Systems,0100
+HRM 315,Continental/Ethnic/Reg Cuisine,0010
+HRM 320,Hospitality Mgmt Info Sys,0100
+HRM 325,Hotel Room Division Management,1000
+HRM 326,Hotel Rooms Division Mgmt II,0010
+HRM 330,Hotel & Restaurant Marketing,1000
+HRM 335,Beverage Management,0100
+HRM 340,Catering Management,0100
+HRM 345,Convention Management,0100
+HRM 347,Sport Tourism,1000
+HRM 350,Cost Controls in Hospitality,0100
+HRM 355,Resort Management,0010
+HRM 360,Hosp Ind Public Relations,0010
+HRM 365,Heritage Tourism,0000
+HRM 370,Gaming & Casino Management I,1000
+HRM 371,Gaming & Casino Management II,0100
+HRM 375,Security and Loss Prevention,0010
+HRM 385,Tourism Guest Lecture Series,0010
+HRM 395,Economics of Tourism,0010
+HRM 405,Curr Iss in Travel & Tourism,0000
+HRM 415,Fine Dining & Services,1000
+HRM 425,Hospitality Indstry Admin,0000
+HRM 435,Wine and Spirits,1010
+HRM 450,Hospitality Leadership Seminar,0100
+HRM 455,Hospitalty Human Rsc Mgmt,0010
+HRM 470,"Gaming Legis, Policy & Law",1000
+HRM 472,Gaming Information Systems,0100
+HRM 475,Current Issues in Gaming,0000
+HRMT 321,Staffing in Organizations,0010
+HRMT 323,Princ Human Resrce Admin,1110
+HRMT 330,Collective Bargaining,0000
+HRMT 345,Seminar In Human Rsc Mgmt,0010
+HSAD 125,Medical Terminology,0010
+HSAD 210,Health-Care Ethics,1111
+HSAD 309,Advanced Health-Care Ethics,1111
+HSAD 310,Intro to Health-Systems Admin,1111
+HSAD 312,Development of World Hlth Care,0110
+HSAD 313,Evolution of Health Care in US,1000
+HSAD 315,Interdisciplinary Hlth Svcs,0000
+HSAD 316,Health Care across Cultures,0110
+HSAD 317,Religious Views on Health Care,1100
+HSAD 318,Health/Vulnerable Populations,0011
+HSAD 319,Women & the Health Professions,0011
+HSAD 320,Managed Health Care,1000
+HSAD 321,Health-Care Human Resources,1101
+HSAD 322,Health-Care Law,1110
+HSAD 323,Health Services & the Elderly,1010
+HSAD 324,Hlth Tech/Ethic Responsibility,0000
+HSAD 325,Issues in Health Care System,0011
+HSAD 326,Holism & Health Care,0000
+HSAD 327,Partnerships in Health Care,1100
+HSAD 328,Health Care for Diverse Groups,1110
+HSAD 329,Health Care and the Media,1010
+HSAD 330,Financial Mgmt in Health Care,1010
+HSAD 331,Non-profits and Health Care,0101
+HSAD 332,Health-Care Marketing,1010
+HSAD 333,"Health, Illness, and the Arts",0100
+HSAD 334,Management of Health Services,0101
+HSAD 335,Health-Care Policy,0110
+HSAD 336,Urban Health Care,0010
+HSAD 337,Hlth Care/Quality Improvement,0001
+HSAD 338,Human Services & Health Sys,0000
+HSAD 339,Health Care Legislation,1100
+HSAD 340,Leadership in Health Svcs Adm,0010
+HSAD 341,Risk Mgmt in Healthcare Org,0001
+HSAD 342,Children and Health Care,0000
+HSAD 343,Health and Illness in Film,1100
+HSAD 344,Indiv & Health Care Politics,0100
+HSAD 345,Ethics in Health Care Mgmt,0010
+HSAD 351,Ethical Issues in Reproduction,0100
+HSAD 352,Ethics in Health Care Research,0000
+HSAD 353,Public Health Ethics,0100
+HSAD 470,Readings in HSA,0000
+HSAD 490,Senior Research Project,0000
+HSCI 201,Health Assessment,0001
+HSCI 204,Clinical Health Informatics,0101
+HSCI 301,Pharmacology I,1001
+HSCI 302,Pharmacology II,0101
+HSCI 310,Intro to Clinical Research,0100
+HSCI 313,Clinical Trials Protocols,0010
+HSCI 315,Current Issues in Clinical Res,1010
+HSCI 325,Exercise Physiology,0010
+HSCI 326,Applied Anatomy & Kinesiology,0100
+HSCI 337,Genetics and Health,1010
+HSCI 430,Developmental Anatomy,0100
+HSCI 470,Readings in Health Sciences,0000
+HSCI 490,Senior Research Project,0000
+HUM 006,Oral Comm Sk/Non-Native Spkrs,1110
+HUM 315,Persp in Medical Humanities,0000
+IAS 190,Global Research Methods,0010
+IAS 320,Building Global Bridges,0100
+IAS 359,Culture and Values,0100
+IAS 360,Spec Topics World Civilization,1010
+IAS 385,"Rum, Rice & Revolution",0000
+INDE 240,Technology Economics,0100
+INDE 300,Quality Management,0000
+INDE 350,Industrial Eng Simulatulation,0000
+INDE 363,Oper Resrch Engr II,0000
+INDE 365,Systems Analysis Methods I,0000
+INDE 366,Systems Analysis Methods II,0000
+INDE 370,Industrial Project Management,0000
+INDE 375,Quality Improve by Exper Dsgn,0000
+INFO 101,Introduction to Info Tech,1110
+INFO 102,Intro to Info Systems,1111
+INFO 105,"Info Eval, Organization & Use",1010
+INFO 108,Foundations of Software,1110
+INFO 110,Human-Computer Interaction I,0111
+INFO 120,IST Sem. for Transfer Students,1100
+INFO 151,Web Systems & Services I,1110
+INFO 152,Web Systems & Services II,0111
+INFO 153,Applied Data Management,1010
+INFO 154,Software System Construction,0101
+INFO 200,Systems Analysis I,1010
+INFO 204,Nursing Informatics,1010
+INFO 205,Strategic Uses of Info Systems,0001
+INFO 210,Database Management Systems,1111
+INFO 215,Soc Aspects Of Info Systems,1111
+INFO 300,Information Retrieval Systems,1010
+INFO 310,Human-Computer Interaction II,0101
+INFO 320,Server Technology I,1111
+INFO 321,Server Technology II,0101
+INFO 322,Server Technology III,1010
+INFO 324,Team Process & Product,1010
+INFO 330,Computer Networking Tech I,1111
+INFO 331,Computer Networking Tech II,1010
+INFO 333,Intro Information Security,1010
+INFO 336,Distributed Systems Security,0010
+INFO 340,Prog Internet Info Sys I,0000
+INFO 341,Prog Internet Info Sys II,0000
+INFO 355,Systems Analysis II,1111
+INFO 360,Language Processing,0010
+INFO 365,Database Administration I,1010
+INFO 366,Database Administration II,0101
+INFO 370,Artificial Intel Info Sys,0010
+INFO 373,Digital Forensics,0001
+INFO 375,Intro to Info Sys Assurance,0101
+INFO 404,NURS Informatics for BSN Comp,1111
+INFO 405,Comptr-Supptd Coop Work,0101
+INFO 410,IT Infrastructure,1010
+INFO 415,IT Services,0101
+INFO 420,Software Project Management,1111
+INFO 424,Team Project Practicum,1001
+INFO 425,Design Problem I,1100
+INFO 426,Design Problem II,0110
+INFO 435,Information Services,1011
+INTB 200,International Business,1111
+INTB 332,Multinational Corporations,1000
+INTB 334,International Trade,1110
+INTB 336,Int'l Money & Finance,1110
+INTB 338,Rgl St in Econ Pol & Int Bus,0010
+INTB 440,Sem in International Business,0010
+INTB 481,Sp Top International Business,0000
+INTR 200,History of Modern Architecture,1000
+INTR 211,Textiles for Interiors,1100
+INTR 220,Orthographic Drawing,1000
+INTR 231,Structure,1000
+INTR 232,Interior Studio I,0100
+INTR 233,Interior Studio II,0010
+INTR 241,Perspective Drawing II,0100
+INTR 245,CAD for Interior Design,0010
+INTR 250,Interior Materials,1000
+INTR 300,Directions 20c Inter Design,0100
+INTR 305,History of Furniture,0011
+INTR 331,Residential Design Studio,1000
+INTR 332,Hospitality Design Studio,0100
+INTR 341,Introduction to Rendering,1000
+INTR 350,Interior Detailing,1000
+INTR 351,Interior Lighting,0100
+INTR 430,Commercial Design Studio,1000
+INTR 445,Contract Doc Interior Des,0100
+INTR 450,Professional Practice,1000
+INTR 451,Interior Systems,1000
+ITAL 101,Italian I,1111
+ITAL 102,Italian II,1111
+ITAL 103,Italian III,1111
+ITAL 201,Italian IV,1111
+ITAL 202,Italian V,1111
+ITAL 203,Italian VI: Convrs & Comp,1111
+ITAL 311,Intro Italian Stylistics,1111
+ITAL 312,Italian Stylistics,1111
+ITAL 331,Intro Italian Lit Studies,0001
+ITAL 333,Adv Italian Literature,1000
+ITAL 351,Intro Bus & Prof Italian,0100
+ITAL 371,Spec St Ital Civ & Cult,0010
+ITAL 411,Spec St Adv Ital Stylis,0100
+ITAL 431,Spec St Adv Italian Lit,0010
+ITAL 471,Sp St Ital Civilization,1000
+ITAL 480,Italian Minor Thesis Course,0000
+JAPN 101,Japanese I,1111
+JAPN 102,Japanese II,1111
+JAPN 103,Japanese III,1111
+JAPN 104,Japanese Writing I,1111
+JAPN 105,Japanese Writing II,1111
+JAPN 201,Japanese IV,1111
+JAPN 202,Japanese V,1111
+JAPN 203,Japanese VI: Convr & Comp,1111
+JAPN 204,Japanese Writing III,1111
+JAPN 301,Japanese VII,1111
+JAPN 302,Japanese VIII,1111
+JAPN 303,Japanese IX,1111
+JAPN 411,Intro Japanese Stylistics,1010
+JAPN 451,Intro Bus & Prof Japanese,0100
+JAPN 480,Japanese Minor Thesis Course,0000
+JUDA 201,Jewish Lit & Civilization,0000
+JUDA 202,Jewish Life/ Culture: Mid Ages,0000
+JUDA 203,Modern Jewish History,0000
+KOR 101,Korean I,1111
+KOR 102,Korean II,1111
+KOR 103,Korean III,1111
+KOR 201,Korean IV,1111
+KOR 202,Korean V,1111
+KOR 203,Korean VI,1111
+KOR 301,Korean VII,1111
+KOR 302,Korean VIII,1111
+KOR 303,Korean IX,1111
+LANG 180,Special Topics in Languages,1111
+LING 101,Introduction to Linguistics,1110
+LING 102,Language and Society,1110

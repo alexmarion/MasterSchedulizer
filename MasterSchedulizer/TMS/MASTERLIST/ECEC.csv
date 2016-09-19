@@ -1,0 +1,19 @@
+ECEC,301,Advanced Programming for Engineers,3.00,ECE203,,1010,0
+ECEC,302,Digital Systems Projects,4.00,CS171 or ECE203 and ECE200,,1010,0
+ECEC,304,Design with Microcontrollers,4.00,ECE200 and CS171 or ECE203,,0101,0
+ECEC,353,Systems Programming,3.00,CS265,,0101,0
+ECEC,355,Computer Organization & Architecture,4.00,ECE200 or CS270 and ECEC302,,0101,0
+ECEC,356,Embedded Systems,4.00,ECEC304,,0101,0
+ECEC,357,Introduction to Computer Networks,4.00,ECE203 or CS171,,1010,0
+ECEC,412,Modern Processor Design,3.00,ECEC355 or CS281,,1000,0
+ECEC,413,Introduction to Parallel Computer Architecture,3.00,ECEC355 or CS281,,1010,0
+ECEC,414,High Performance Computing,3.00,ECEC355 or CS281,,0010,0
+ECEC,432,Internet Architecture and Protocols,3.00,ECEC357 or CS472,,0100,0
+ECEC,433,Network Programming,3.00,ECEC357,,0010,0
+ECEC,451,Computer Arithmetic,3.00,ECE200 and ECEC355,,1000,0
+ECEC,457,Security in Computing,3.00,ECEC355,,0100,0
+ECEC,459,Testing of Hardware,3.00,ECEC355,,0010,0
+ECEC,471,Introduction to VLSI Design,3.00,ECE200 or CS270 and ECEL301 and ECEL302,,1000,0
+ECEC,472,Custom VLSI Design & Analysis I,3,ECEC471,,0100,0
+ECEC,473,Modern VLSI IC Design,3.00,ECEC472,,0010,0
+ECEC,497,Research In Computer Engineering,0.50,,,1111,0

@@ -1,0 +1,21 @@
+TVPR,100,TV Studio: Basic Operations,3.00,,,1100,0
+TVPR,200,TV Studio: Live Directing,3.00,TVPR100,,1100,0
+TVPR,201,TV Studio: Comedy,3.00,TVPR100,,0010,0
+TVPR,201,TV Studio: Comedy,3.00,TVPR100 and TVPR200,,0010,0
+TVPR,205,TV Studio: Advanced Live Directing,3.00,TVPR100 and TVPR200,,0010,0
+TVPR,212,TV Commercials and Promos,3.00,FMVD110 and FMVD115 and FMVD120,,1000,0
+TVPR,220,TV News Writing,3.00,,,0100,0
+TVPR,221,TV News Production,3.00,FMVD110 and FMVD115 and FMVD120 and TVPR220,,0010,0
+TVPR,221,TV News Production,3.00,FMVD110,,0010,0
+TVPR,236,Reality TV Production,3.00,FMVD110 and FMVD115 and FMVD120,,0010,0
+TVPR,240,Producing for Television,3.00,,,1000,0
+TVPR,315,Episodic Webisode Production,3.00,FMVD110 and FMVD115 and FMVD120,,0100,0
+TVPR,354,TV Drama Series I,3.00,FMVD110 and FMVD115 and FMVD120,,1000,0
+TVPR,355,TV Drama Series II,3.00,,,0100,0
+TVPR,355,TV Drama Series II,0.50,FMVD110 and FMVD115 and FMVD120,,0100,0
+TVPR,356,DNews,3.00,TVPR205 and TVPR221 and TVPR236,,1000,0
+TVPR,356,DNews,0.50,,,1000,0
+TVPR,357,DNews II,0.50,,,0100,0
+TVPR,495,Senior Project: TV Production I,3.00,,,1000,0
+TVPR,496,Senior Project: TV Production II,3.00,,,1100,0
+TVPR,497,Senior Project: TV Production III,3.00,,,1100,0

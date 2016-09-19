@@ -1,0 +1,12 @@
+ECEE,302,Electronic Devices,4.00,ENGR220,,1010,0
+ECEE,304,Electromagnetic Fields & Waves,4.00,MATH291,,1010,0
+ECEE,352,Analog Electronics,4.00,ECEE302 and ECES301,,0101,0
+ECEE,352,Analog Electronics,4.00,ECES302,,0101,0
+ECEE,354,Wireless and Optical Electronics,4.00,ECES302 and ECEE304,,0101,0
+ECEE,354,Wireless and Optical Electronics,4.00,ECES301 and ECES303 and ECEE304,,0101,0
+ECEE,421,Advanced Electronics I,4.00,ECEE352,,1000,0
+ECEE,422,Advanced Electronic Circuits I,3.00,ECEE421,,0100,0
+ECEE,434,Digital Electronics,4.00,ECEE302,,0010,0
+ECEE,471,RF Components and Techniques,4.00,ECEE354,,1000,0
+ECEE,472,RF Electronics,4.00,ECEE471,,0100,0
+ECEE,473,Antennas and Radiating Systems,4.00,ECEE471,,0010,0

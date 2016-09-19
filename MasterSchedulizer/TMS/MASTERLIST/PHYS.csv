@@ -1,0 +1,51 @@
+PHYS,100,Preparation for Engineering Studies,4.00,,,1111,0
+PHYS,101,Fundamentals of Physics I,4.00,MATH121 or PHYS100,,1111,0
+PHYS,102,Fundamentals of Physics II,4.00,PHYS101 and MATH122,,1111,0
+PHYS,103,General Physics I,4.00,,,1000,0
+PHYS,104,General Physics II,4.00,PHYS103,,0100,0
+PHYS,105,Computational Physics I,3.00,PHYS113 or PHYS101 and CS171,,0010,0
+PHYS,113,Contemporary Physics I,5.00,,MATH121,1000,0
+PHYS,114,Contemporary Physics II,5.00,PHYS113,MATH122,0100,0
+PHYS,115,Contemporary Physics III,5.00,PHYS114,MATH123,0010,0
+PHYS,131,Survey of the Universe,3.00,,,1111,0
+PHYS,135,How Things Work,4.00,,,1111,0
+PHYS,151,Applied Physics,3.00,,EXAM081,1110,0
+PHYS,152,Introductory Physics I,4.00,,EXAM081,1010,0
+PHYS,153,Introductory Physics II,4.00,PHYS152 or PHYS101,EXAM081,0101,0
+PHYS,154,Introductory Physics III,4.00,PHYS101 or PHYS152,EXAM081,1010,0
+PHYS,160,Introduction to Scientific Computing,3.00,,,1010,0
+PHYS,181,Astronomy,3.00,,,1110,0
+PHYS,182,Applied Physics I,3.00,MATH183,,1000,0
+PHYS,183,Applied Physics II,3.00,PHYS182,,0100,0
+PHYS,184,Applied Physics III,3.00,PHYS183,,0010,0
+PHYS,185,Fundamentals of Physics Lecture I,3.00,MATH121,,1111,0
+PHYS,186,Physics I-A,1.00,PHYS185,,1000,0
+PHYS,188,Physics II-A,1.00,PHYS189,,0100,0
+PHYS,189,Fundamentals of Physics Lecture II,3.00,PHYS185,,1111,0
+PHYS,201,Fundamentals of Physics III,4.00,PHYS102,EXAM081,1111,0
+PHYS,217,Classical Thermodynamics,4.00,PHYS114 or PHYS102,,1000,0
+PHYS,223,Modern Physics Laboratory,3.00,PHYS113,,0100,0
+PHYS,231,Introductory Astrophysics,3.00,PHYS101 or PHYS113 and MATH121,,0000,0
+PHYS,280,Fundamentals of Physics Lecture III,3.00,PHYS102,,1111,0
+PHYS,282,Fundamentals of Physics Laboratory III,1.00,PHYS280,,0010,0
+PHYS,305,Computational Physics II,3,PHYS105,,0100,0
+PHYS,311,Classical Mechanics I,4.00,MATH210 and PHYS115 or PHYS201,,1000,0
+PHYS,312,Classical Mechanics II,4.00,PHYS311,,0100,0
+PHYS,317,Statistical Mechanics,3,MATH210,,0100,0
+PHYS,321,Electromagnetic Fields I,4.00,PHYS115,,0000,0
+PHYS,322,Electromagnetic Fields II,4.00,PHYS321,,0000,0
+PHYS,324,Topics in Mathematical Physics,3.00,,,0100,0
+PHYS,326,Quantum Mechanics I,4,PHYS311,,1000,0
+PHYS,327,Quantum Mechanics II,4.00,PHYS326,,0000,0
+PHYS,328,Advanced Laboratory,3.00,PHYS223,,0000,0
+PHYS,408,Physics Seminar,1.00,,,1110,0
+PHYS,428,Quantum Mechanics III,4.00,PHYS327,,0000,0
+PHYS,432,Cosmology,3.00,PHYS311,,0000,0
+PHYS,452,Solid State Physics,3.00,PHYS317 and PHYS326,,0000,0
+PHYS,453,Nanoscience,3.00,PHYS311 and PHYS217,PHYS326 PHYS321,0000,0
+PHYS,462,Computational Biophysics,3.00,PHYS305 and PHYS317,PHYS321,0000,0
+PHYS,471,Nonlinear Dynamics,3.00,MATH200,,0000,0
+PHYS,476,Particle Physics,3.00,PHYS327,,0000,0
+PHYS,491,Senior Research I,3.00,,,1000,0
+PHYS,492,Senior Research II,3.00,PHYS491,,0100,0
+PHYS,493,Senior Research III,3.00,PHYS492,,0010,0

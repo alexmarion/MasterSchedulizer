@@ -1,0 +1,71 @@
+BIO,100,Applied Cells & Genetics & Physiology,3.00,,EXAM080,1010,0
+BIO,101,Applied Biological Diversity Ecology & Evolution,3.00,,EXAM080,0101,0
+BIO,104,Applied Biological Diversity Ecology & Evolution,3.00,,EXAM080,0101,0
+BIO,107,Cells & Genetics & Physiology,3.00,,EXAM080 BIO108,1010,0
+BIO,108,Cells & Genetics & Physiology Laboratory,1.00,,EXAM080 BIO107,1010,0
+BIO,109,Biological Diversity & Ecology & Evolution,3.00,,EXAM080 BIO110,0101,0
+BIO,110,Biological Diversity & Ecology and Evolution Laboratory,1.00,,BIO109,0101,0
+BIO,117,How Your Body Works - Or Not,3.00,,,1001,0
+BIO,118,Basics of Cancer,3.00,,,1001,0
+BIO,121,Cells and Genetics,4.50,,EXAM080,1010,0
+BIO,122,Cells and Genetics,4.50,,EXAM080,1010,0
+BIO,124,Evolution & Organismal Diversity,4.50,,EXAM080,0100,0
+BIO,126,Physiology and Ecology,4.50,,EXAM080,0010,0
+BIO,141,Essential Biology,4.50,CHEM102,EXAM080,0011,0
+BIO,161,General Biology I,3.00,,,1000,0
+BIO,162,General Biology II,3.00,BIO161,,0100,0
+BIO,163,General Biology III,3.00,BIO162,,0010,0
+BIO,164,General Biology Laboratory I,1.00,,BIO161,0000,0
+BIO,165,General Biology Laboratory II,1.00,BIO161,BIO162,0000,0
+BIO,201,Human Physiology I,4.00,BIO141 or BIO122,,1010,0
+BIO,202,Human Physiology Laboratory,2.00,BIO201,,1111,0
+BIO,203,Human Physiology II,4.00,BIO201,,0101,0
+BIO,211,"Cell, Molecular & Developmental Biology II",0,,,0101,0
+BIO,212,Biotechnology,3.00,BIO122,,0010,0
+BIO,214,Principles of Cell Biology,3.00,BIO104 or BIO122 or BIO141,,1010,0
+BIO,215,Techniques in Cell Biology,2.50,BIO122 or BIO141,,0101,0
+BIO,218,Principles of Molecular Biology,4.00,BIO122 or BIO141,,0101,0
+BIO,219,Techniques in Molecular Biology,3.00,BIO122 or BIO141,,1111,0
+BIO,220,Essential Microbiology,3.00,BIO122 or BIO141,,1101,0
+BIO,221,Microbiology,3.00,BIO122 or BIO141,BIO222,1101,0
+BIO,222,Microbiology Laboratory,2.00,BIO122 or BIO141,BIO221,1101,0
+BIO,223,Parasitology,3.00,BIO122 or BIO124,,0100,0
+BIO,224,Form & Function & Evolution of Vertebrates,4.00,BIO121 or BIO122 or BIO124 or BIO126,,0111,0
+BIO,225,Vertebrate Biology and Evolution Laboratory,2.00,BIO224,,0111,0
+BIO,226,Microbiology for Health Professionals,5.00,,,1011,0
+BIO,244,Genetics I,3.00,BIO122,,0101,0
+BIO,264,Ethnobotany,3.00,,,0000,0
+BIO,270,Development Biology,3.00,BIO214 and BIO218 or BIO211,,1010,0
+BIO,271,Developmental Biology Laboratory,2.00,BIO270,,1010,0
+BIO,284,Biology of Stress,3.00,BIO100 or BIO101 or BIO107 or BIO109 or BIO122 or BIO141,,0000,0
+BIO,306,Biochemistry Laboratory,2.00,CHEM242,,1111,0
+BIO,311,Biochemistry,4.00,CHEM242,,1010,0
+BIO,314,Pharmacology,3.00,BIO218 or BIO211,,0101,0
+BIO,314,Pharmacology,3.00,BIO218,,0101,0
+BIO,318,Biology of Cancer,3.00,BIO214 and BIO218 or BIO211,,1010,0
+BIO,318,Biology of Cancer,3.00,BIO214 and BIO218,,1010,0
+BIO,320,Microbial Pathogenesis,3.00,BIO218 or BIO211 and BIO221,,0010,0
+BIO,331,Bioinformatics I,3.00,BIO122 or BIO141,,1000,0
+BIO,332,Bioinformatics II,3.00,BIO331,,0100,0
+BIO,346,Stem Cell Research,3.00,BIO218 or BIO211,,0000,0
+BIO,386,Gross Anatomy I,2.00,BIO214 and BIO218 or BIO211,BIO387,0101,0
+BIO,387,Gross Anatomy I Laboratory,2,BIO386,,1000,0
+BIO,404,Structure and Function of Biomolecules,4.00,CHEM242,,1000,0
+BIO,412,Biology of Aging,3.00,BIO218 or BIO211,,0000,0
+BIO,412,Biology of Aging,3.00,BIO218,,0000,0
+BIO,413,Genomics,3.00,BIO218 or BIO211,,0000,0
+BIO,415,Proteins,3.00,BIO214 or BIO211,,0010,0
+BIO,420,Virology,3.00,BIO218 or BIO211,,0010,0
+BIO,421,Biomembranes,3.00,BIO214 or BIO211,,0100,0
+BIO,426,Immunology,3.00,BIO214 or BIO211,,1000,0
+BIO,430,Cell Biology of Disease,3.00,BIO214 or BIO211,,0001,0
+BIO,433,Advanced Cell Biology,3.00,BIO214 or BIO211,,0100,0
+BIO,435,Immunobiology of Disease,3.00,BIO426,,0100,0
+BIO,444,Human Genetics,3.00,BIO218 or BIO211,,1010,0
+BIO,447,Advanced Genetics and Molecular Biology,3.00,BIO218 or BIO211 and BIO244,,0100,0
+BIO,462,Biology of Neuron Function,3.00,BIO201 or BIO218 or BIO211,,1000,0
+BIO,465,Neurobiology of Disease,3.00,BIO462 and BIO214 and BIO218 or BIO211,,0100,0
+BIO,471,Seminar in Biological Sciences,2.00,BIO218 or BIO211,,1000,0
+BIO,472,Seminar in Biological Sciences,2.00,BIO471,,0100,0
+BIO,473,Seminar in Biological Sciences,2.00,BIO472,,0010,0
+BIO,497,Research,0.50,,,1111,0

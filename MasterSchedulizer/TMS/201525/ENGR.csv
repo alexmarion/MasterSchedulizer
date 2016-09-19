@@ -1,0 +1,12 @@
+ENGR,101,Engineering Design Laboratory I,2.00,,,TERMS-OFFERED,0
+ENGR,102,Engineering Design Laboratory II,2.00,,,TERMS-OFFERED,0
+ENGR,121,Computation Lab I,2.00,,,TERMS-OFFERED,0
+ENGR,122,Computation Lab II,1.00,ENGR121,,TERMS-OFFERED,0
+ENGR,202,Evaluation & Presentation of Experimental Data II,3.00,ENGR201,EXAM081,TERMS-OFFERED,0
+ENGR,210,Introduction to Thermodynamics,3.00,MATH122 and PHYS101,EXAM081,TERMS-OFFERED,0
+ENGR,231,Linear Engineering Systems,3.00,MATH122 and ENGR121 or BMES201,EXAM081,TERMS-OFFERED,0
+ENGR,232,Dynamic Engineering Systems,3.00,ENGR231 and ENGR121 or BMES201,EXAM081,TERMS-OFFERED,0
+ENGR,296,Paul Peck Scholars: Survey of Leadership,1.00,,,TERMS-OFFERED,0
+ENGR,492,Senior Project Design II,2.00,CIVE491,,TERMS-OFFERED,0
+ENGR,380,Paul Peck Scholars: Capstone,2.00,,,TERMS-OFFERED,0
+ENGR,701,Career Integrated Education,3.00,,,TERMS-OFFERED,0

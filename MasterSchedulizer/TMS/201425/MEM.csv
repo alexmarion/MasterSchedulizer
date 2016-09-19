@@ -1,0 +1,45 @@
+MEM,201,Foundations of Computer Aided Design,3.00,,,TERMS-OFFERED,0
+MEM,202,Statics,3.00,PHYS185 or PHYS101,,TERMS-OFFERED,0
+MEM,220,Basic Fluid Mechanics,4.00,TDEC114 or MATH189 or MATH200,,TERMS-OFFERED,0
+MEM,230,Mechanics of Materials I,4.00,MEM202,,TERMS-OFFERED,0
+MEM,238,Dynamics,4.00,MATH189 or MATH200 and PHYS111 or PHYS185 or PHYS101,,TERMS-OFFERED,0
+MEM,255,Introduction to Controls,4.00,MEM238 and MATH201 or MATH261 or ENGR231 and MATH210 or MATH262 or ENGR232,,TERMS-OFFERED,0
+MEM,310,Thermodynamic Analysis I,4.00,ENGR210 or MEM210,,TERMS-OFFERED,0
+MEM,330,Mechanics of Materials II,4.00,MEM230,,TERMS-OFFERED,0
+MEM,331,Experimental Mechanics I,2.00,MEM230 and MEM238,,TERMS-OFFERED,0
+MEM,333,Mechanical Behavior of Materials,3.00,MEM230,,TERMS-OFFERED,0
+MEM,351,Dynamic Systems Laboratory I,2.00,MEM255,,TERMS-OFFERED,0
+MEM,361,Engineering Reliability,3.00,MATH290 or MATH201 or MATH261 or ENGR231,,TERMS-OFFERED,0
+MEM,395,Hess Undergraduate Scholars Research,0.50 to 3.00,MEM310,,TERMS-OFFERED,0
+MEM,403,Gas Turbines & Jet Propulsion,3.00,MEM220 and MEM310,,TERMS-OFFERED,0
+MEM,410,Thermodynamic Analysis II,3.00,MEM310,,TERMS-OFFERED,0
+MEM,415,Fuel Cell Engines,3.00,MEM220 or CHE302 or CHE311 or CIVE320 and MEM310,,TERMS-OFFERED,0
+MEM,423,Mechanics of Vibration,4.00,MEM238 and TDEC222 or ENGR232 or MATH210 or MATH262,,TERMS-OFFERED,0
+MEM,438,Manufacturing Process II,3.00,MEM437,,TERMS-OFFERED,0
+MEM,448,Applications of Thermal Plasmas,3.00,PHYS201 or TDEC201 or PHYS112 or PHYS187,,TERMS-OFFERED,0
+MEM,458,Micro-Based Control Systems I,3.00,MEM355,,TERMS-OFFERED,0
+MEM,492,Senior Design Project II,3.00,MEM491,,TERMS-OFFERED,0
+MEM,592,Applied Engr Analy Methods II,3.00,MEM591,,TERMS-OFFERED,0
+MEM,612,Convection Heat Transfer,3.00,,,TERMS-OFFERED,0
+MEM,622,Boundry Layers-Laminar & Turbulent,3.00,MEM621,,TERMS-OFFERED,0
+MEM,637,Theory of Nonlinear Control II,3.00,MEM636,,TERMS-OFFERED,0
+MEM,660,Theory of Elasticity I,3.00,,,TERMS-OFFERED,0
+MEM,688,Manufacturing Processes II,3.00,MEM687,,TERMS-OFFERED,0
+MEM,699,Spatial Analysis I,0.50 to 9.00,,,TERMS-OFFERED,0
+MEM,898,Master's Thesis,1.00 to 20.00,,,TERMS-OFFERED,0
+MEM,998,Ph.D. Dissertation,1.00 to 12.00,,,TERMS-OFFERED,0
+MEM,345,Heat Transfer,4.00,ENGR210 and MEM220 or CIVE320 and MATH210 or MATH262 or ENGR232,,TERMS-OFFERED,0
+MEM,380,ST:Open-Wheeled Vehicle Design,12.00,,,TERMS-OFFERED,0
+MEM,399,Bio-inspired Design to Teach,0.50 to 12.00,,,TERMS-OFFERED,0
+MEM,414,HVAC Equipment,3.00,MEM345 and MEM310 or AE220,,TERMS-OFFERED,0
+MEM,419,Microfluidics and Lab-on-a-Chip,3.00,MEM417,,TERMS-OFFERED,0
+MEM,426,Aerospace Structures,3.00,MEM230,,TERMS-OFFERED,0
+MEM,440,Thermal Systems Design,3.00,MEM345,,TERMS-OFFERED,0
+MEM,453,Aircraft Flight Dynamics & Control I,3.00,MEM355,,TERMS-OFFERED,0
+MEM,530,Aircraft Flight Dynamics & Control I,3.00,,,TERMS-OFFERED,0
+MEM,602,Statistical Thermodynamics II,3.00,MEM601,,TERMS-OFFERED,0
+MEM,619,Microfluidics and Lab-on-a-Chip,3.00,MEM417 or MEM617,,TERMS-OFFERED,0
+MEM,634,Robust Control Systems II,3.00,MEM633,,TERMS-OFFERED,0
+MEM,648,Applications of Thermal Plasmas,3.00,,,TERMS-OFFERED,0
+MEM,667,Advanced Dynamics II,3.00,MEM666,,TERMS-OFFERED,0
+MEM,800,ST:Electrochemical Engines,0.50 to 9.00,,,TERMS-OFFERED,0

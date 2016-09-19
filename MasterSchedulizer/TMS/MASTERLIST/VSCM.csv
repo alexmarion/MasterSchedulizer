@@ -1,0 +1,21 @@
+VSCM,100,Computer Imaging I,3.00,,,1100,0
+VSCM,200,Computer Imaging II,3.00,VSCM100,,1000,0
+VSCM,230,Visual Communication I,4.00,VSST102 or VSST105,,1000,0
+VSCM,231,Visual Communication II,4.00,VSCM230,,0100,0
+VSCM,232,Visual Communication III,4.00,VSCM231,,0010,0
+VSCM,240,Typography I,3.00,VSST101 or VSST104 or VSST108,,1010,0
+VSCM,241,Production,3.00,VSCM240,,0010,0
+VSCM,242,Typography II,3.00,VSCM240,,0100,0
+VSCM,330,Visual Communication IV,4.00,VSCM232,,1010,0
+VSCM,331,Visual Communication V,4.00,VSCM330,,0101,0
+VSCM,340,Typography III,3.00,VSCM242,,1010,0
+VSCM,350,Graphic Design: 20th Century and Beyond,3.00,,,0101,0
+VSCM,360,Design on Site,3.00,VSCM232,,0001,0
+VSCM,430,Visual Communication VI,4.00,VSCM331,,1000,0
+VSCM,440,Book Design,4.00,VSCM331 or WMGD220,,1000,0
+VSCM,450,Professional Portfolio,3.00,VSCM430,,0110,0
+VSCM,460,Professional Practice,3.00,VSCM430,,0010,0
+VSCM,478,Graphic Design Seminar: Advanced Techniques,3.00,VSCM340,,0111,0
+VSCM,479,Graphic Design Seminar: Advanced Media,3.00,,,1111,0
+VSCM,480,History of Visual Propaganda,3.00,,,0011,0
+VSCM,496,Senior Thesis Graphic Design,3.00,VSCM430,,0110,0

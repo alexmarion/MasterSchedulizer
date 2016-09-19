@@ -1,0 +1,45 @@
+PHIL,101,Introduction to Western Philosophy,3.00,,,1111,0
+PHIL,102,Introduction to Eastern Philosophy,3.00,,,1010,0
+PHIL,105,Critical Reasoning,3.00,,,1111,0
+PHIL,107,Philosophy and Knowledge Organization,3,,,0000,0
+PHIL,111,Propositional Logic,3.00,,,1111,0
+PHIL,207,Predicate Logic,3.00,PHIL111,,1111,0
+PHIL,210,Philosophy of Sport,3.00,,,0100,0
+PHIL,211,Metaphysics,3.00,PHIL101,,0101,0
+PHIL,212,Ancient Philosophy,3,,,0100,0
+PHIL,214,Modern Philosophy,3,,,0010,0
+PHIL,215,Contemporary Philosophy,3,,,1000,0
+PHIL,221,Epistemology,3,,,0100,0
+PHIL,231,Aesthetics,3.00,,,0101,0
+PHIL,241,Social & Political Philosophy,3,,,0010,0
+PHIL,251,Ethics,3.00,,,1111,0
+PHIL,255,Philosophy of Sex & Love,3.00,,,1110,0
+PHIL,301,Business Ethics,3.00,,,1010,0
+PHIL,305,Communication Ethics,3.00,,,1010,0
+PHIL,311,Computer Ethics,3.00,,,1111,0
+PHIL,315,Engineering Ethics,3.00,,,1111,0
+PHIL,317,Ethics and Design Professions,3.00,,,0000,0
+PHIL,321,Biomedical Ethics,3.00,,,0110,0
+PHIL,323,Organizational Ethics,3.00,,,0100,0
+PHIL,325,Ethics in Sports Management,3.00,,,0010,0
+PHIL,330,Ethical Issues in Criminal Justice,3.00,,,0010,0
+PHIL,335,Global Ethical Issues,3.00,,,0010,0
+PHIL,341,Philosophy of the Environment,3.00,,,0000,0
+PHIL,351,Philosophy of Technology,3.00,,,0000,0
+PHIL,355,Philosophy of Medicine,3.00,,,1000,0
+PHIL,361,Philosophy of Science,3.00,PHIL101 or PHIL102 or PHIL105 or PHIL107 or PHIL111,,0101,0
+PHIL,361,Philosophy of Science,3.00,PHIL101,,0101,0
+PHIL,381,Philosophy in Literature,3.00,,,0010,0
+PHIL,385,Philosophy of Law,3.00,,,1000,0
+PHIL,391,Philosophy of Religion,3.00,PHIL101 or PHIL102 or PHIL105 or PHIL107 or PHIL111,,0010,0
+PHIL,421,Seminar in Ancient Philosophy,3.00,PHIL211 or PHIL212 or PHIL214 or PHIL215 and PHIL221 or PHIL231 or PHIL241 or PHIL251,,0000,0
+PHIL,475,ST:Feminist Ethics: deBeauvoir,3.00,,,0000,0
+PHIL,475,ST:Contemporary Feminism,3.00,,,0000,0
+PHIL,475,ST:Semiotics & CS Peirce,3.00,,,0000,0
+PHIL,475,ST:Philosophy of Mathematics,3.00,,,0000,0
+PHIL,481,Measurement and Technology,3.00,PHIL211 or PHIL212 or PHIL214 or PHIL215 and PHIL221 or PHIL231 or PHIL241 or PHIL251,,0000,0
+PHIL,481,Political Liberalism & Religion,3.00,PHIL211 or PHIL212 or PHIL214 or PHIL215 and PHIL221 or PHIL231 or PHIL241 or PHIL251,,0000,0
+PHIL,485,Sem:Philosophy of Kierkegaard,3.00,PHIL211 or PHIL212 or PHIL214 or PHIL215 and PHIL221 or PHIL231 or PHIL241 or PHIL251,,0000,0
+PHIL,485,Nietzsche,3.00,PHIL211 or PHIL212 or PHIL214 or PHIL215 and PHIL221 or PHIL231 or PHIL241 or PHIL251,,0000,0
+PHIL,497,Senior Essay I: Research & Thesis Development,3,,,0000,0
+PHIL,498,Senior Essay II: Argument Construction,3.00,PHIL497,,0000,0

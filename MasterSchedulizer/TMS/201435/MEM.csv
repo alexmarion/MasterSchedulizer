@@ -1,0 +1,37 @@
+MEM,201,Foundations of Computer Aided Design,3.00,,,TERMS-OFFERED,0
+MEM,202,Statics,3.00,PHYS185 or PHYS101,,TERMS-OFFERED,0
+MEM,230,Mechanics of Materials I,4.00,MEM202,,TERMS-OFFERED,0
+MEM,238,Dynamics,4.00,MATH189 or MATH200 and PHYS111 or PHYS185 or PHYS101,,TERMS-OFFERED,0
+MEM,310,Thermodynamic Analysis I,4.00,ENGR210 or MEM210,,TERMS-OFFERED,0
+MEM,311,Thermal  Fluid Science Laboratory,2.00,MEM220 and MEM310,,TERMS-OFFERED,0
+MEM,345,Heat Transfer,4.00,ENGR210 and MEM220 or CIVE320 and MATH210 or MATH262 or ENGR232,,TERMS-OFFERED,0
+MEM,351,Dynamic Systems Laboratory I,2.00,MEM255,,TERMS-OFFERED,0
+MEM,355,Performance Enhancement of Dynamic Systems,4.00,MEM255,,TERMS-OFFERED,0
+MEM,380,ST:Automated Vehicles,12.00,,,TERMS-OFFERED,0
+MEM,403,Gas Turbines & Jet Propulsion,3.00,MEM220 and MEM310,,TERMS-OFFERED,0
+MEM,417,Introduction to Microfabrication,3.00,,,TERMS-OFFERED,0
+MEM,423,Mechanics of Vibration,4.00,MEM238 and TDEC222 or ENGR232 or MATH210 or MATH262,,TERMS-OFFERED,0
+MEM,427,Finite Element Methods,3.00,MEM230,,TERMS-OFFERED,0
+MEM,431,Machine Design I,3.00,MEM202 and MEM230 and MEM238,,TERMS-OFFERED,0
+MEM,435,Introduction to Computer-Aided Design and Manufacturing,4.00,MEM201,,TERMS-OFFERED,0
+MEM,437,Manufacturing Process I,3.00,MEM220 and MEM230,,TERMS-OFFERED,0
+MEM,449,Applications of Non-Thermal Plasmas,3.00,PHYS201 or TDEC201 or PHYS112 or PHYS187,,TERMS-OFFERED,0
+MEM,493,Senior Design Project III,3.00,MEM492,,TERMS-OFFERED,0
+MEM,503,Gas Turbines & Jet Propulsion,3.00,,,TERMS-OFFERED,0
+MEM,593,Applied Engr Analy Methods III,3.00,MEM592,,TERMS-OFFERED,0
+MEM,603,Advanced Thermodynamics,3.00,,,TERMS-OFFERED,0
+MEM,649,Application of Non-Thermal Plasmas,3.00,,,TERMS-OFFERED,0
+MEM,687,Manufacturing Processes I,3.00,,,TERMS-OFFERED,0
+MEM,777,Fracture Mechanics I,3.00,,,TERMS-OFFERED,0
+MEM,898,Master's Thesis,1.00 to 20.00,,,TERMS-OFFERED,0
+MEM,998,Ph.D. Dissertation,1.00 to 12.00,,,TERMS-OFFERED,0
+MEM,395,Hess Undergraduate Scholars Research,0.50 to 3.00,MEM310,,TERMS-OFFERED,0
+MEM,415,Fuel Cell Engines,3.00,MEM220 or CHE302 or CHE311 or CIVE320 and MEM310,,TERMS-OFFERED,0
+MEM,420,Aerodynamics,3.00,MEM220,,TERMS-OFFERED,0
+MEM,444,Biofluid Mechanics,3.00,MEM220 or BMES451,,TERMS-OFFERED,0
+MEM,459,Control Applications of DSP Microprocessors,3.00,MEM458,,TERMS-OFFERED,0
+MEM,540,Control Applications of DSP Microprocessors,3.00,,,TERMS-OFFERED,0
+MEM,617,Introduction to Microfabrication,3.00,,,TERMS-OFFERED,0
+MEM,664,Introduction to Plasticity,3.00,MEM660,,TERMS-OFFERED,0
+MEM,721,Non-Newtonian Fluid Mechanics and Heat Transfer,3.00,MEM622,,TERMS-OFFERED,0
+MEM,800,ST:Extreme Material Behaviour,0.50 to 9.00,MEM663 and MEM777,,TERMS-OFFERED,0

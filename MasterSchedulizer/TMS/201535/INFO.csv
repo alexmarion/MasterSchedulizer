@@ -1,0 +1,68 @@
+INFO,101,Introduction to Information Technology,3.00,,,TERMS-OFFERED,0
+INFO,108,Foundations of Software,3.00,,,TERMS-OFFERED,0
+INFO,110,Human-Computer Interaction I,3.00,,,TERMS-OFFERED,0
+INFO,151,Web Systems and Services I,3.00,INFO108,,TERMS-OFFERED,0
+INFO,152,Web Systems and Services II,3.00,INFO151,,TERMS-OFFERED,0
+INFO,153,Applied Data Management,3.00,INFO108,,TERMS-OFFERED,0
+INFO,204,Nursing Informatics,3.00,NURS100 and NURS102 and CS161,NURS201 NURS200,TERMS-OFFERED,0
+INFO,210,Database Management Systems,3.00,INFO101 or SE210,,TERMS-OFFERED,0
+INFO,216,Issues in Information Policy,3.00,,,TERMS-OFFERED,0
+INFO,310,Human-Computer Interaction II,3.00,INFO110 or SE210 or CS275,,TERMS-OFFERED,0
+INFO,320,Server Technology I,4.00,INFO101 and CS131 or CS164 or CS171 or SE101 or INFO151,,TERMS-OFFERED,0
+INFO,322,Server Technology III,4.00,INFO321,,TERMS-OFFERED,0
+INFO,330,Computer Networking Technology I,4.00,CS171 or CS132 or SE102 or INFO152,,TERMS-OFFERED,0
+INFO,331,Computer Networking Technology II,4.00,INFO330,,TERMS-OFFERED,0
+INFO,333,Introduction to Information Security,3.00,,,TERMS-OFFERED,0
+INFO,370,Artificial Intelligence for Information Systems,3.00,INFO108,,TERMS-OFFERED,0
+INFO,420,Software Project Management,3.00,INFO200 or SE210 and CS172 or CS265 or INFO153 or SE103,,TERMS-OFFERED,0
+INFO,517,Principles of Cybersecurity,3.00,,,TERMS-OFFERED,0
+INFO,521,Information Users and Services,3.00,,,TERMS-OFFERED,0
+INFO,525,School Library Programs & Services,3.00,,,TERMS-OFFERED,0
+INFO,530,Foundations of Information Systems,3.00,,,TERMS-OFFERED,0
+INFO,532,Software Development,3.00,,,TERMS-OFFERED,0
+INFO,552,Introduction to Web Design for Information Organizations,3.00,,,TERMS-OFFERED,0
+INFO,560,Introduction to Archives I,3.00,,,TERMS-OFFERED,0
+INFO,605,Introduction to Database Management,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,610,Analysis of Interactive Systems,3.00,INFO608,,TERMS-OFFERED,0
+INFO,614,Distributed Computing and Networking,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,620,Information Systems Analysis and Design,3.00,INFO605 and INFO608,,TERMS-OFFERED,0
+INFO,627,Requirements Engineering and Management,3.00,INFO620,,TERMS-OFFERED,0
+INFO,634,Data Mining,3.00,INFO605,,TERMS-OFFERED,0
+INFO,640,Managing Information Organizations,3.00,INFO515 and INFO520 and INFO530 or INFO503,,TERMS-OFFERED,0
+INFO,642,Managing Digital Collections and Repositories,3.00,INFO530,,TERMS-OFFERED,0
+INFO,646,Information Systems Management,3.00,INFO620,,TERMS-OFFERED,0
+INFO,648,Healthcare Informatics,3.00,,,TERMS-OFFERED,0
+INFO,650,Public Library Service,3.00,INFO511 or INFO521 and INFO520,,TERMS-OFFERED,0
+INFO,658,Information Architecture,3.00,INFO652 or INFO552,,TERMS-OFFERED,0
+INFO,662,Metadata and Resource Description,3.00,INFO622 or INFO660,,TERMS-OFFERED,0
+INFO,673,Resources in Social Sciences,3.00,INFO510 or INFO522 and INFO511 or INFO521,,TERMS-OFFERED,0
+INFO,684,Resources for Young Adults,3.00,INFO510 or INFO522 and INFO511 or INFO521,,TERMS-OFFERED,0
+INFO,719,Introduction to National Security Enterprise,3.00,,,TERMS-OFFERED,0
+INFO,731,Organization & Social Issues in Healthcare Informatics,3.00,INFO648,,TERMS-OFFERED,0
+INFO,750,Archival Access Systems,3.00,INFO561,,TERMS-OFFERED,0
+INFO,782,Issues in Informatics,3.00,INFO503 or INFO530 and INFO532 or INFO601 and INFO605 and INFO534 or INFO614,,TERMS-OFFERED,0
+INFO,813,Quantitative Methods,3.00,,,TERMS-OFFERED,0
+INFO,893,Practicum I,3.00,,,TERMS-OFFERED,0
+INFO,896,Clinical Experience,3.00,INFO530 and INFO605 and INFO608 and INFO614 and INFO648 and INFO731,,TERMS-OFFERED,0
+INFO,105,Introduction to Informatics,3.00,,,TERMS-OFFERED,0
+INFO,215,Social Aspects of Information Systems,3.00,INFO105,,TERMS-OFFERED,0
+INFO,300,Information Retrieval Systems,3.00,INFO105 and INFO110 and CS260 or CS133 or INFO153 or SE103,,TERMS-OFFERED,0
+INFO,324,Team Process and Product,3.00,INFO153 and INFO200,,TERMS-OFFERED,0
+INFO,355,Systems Analysis II,3.00,INFO210 and INFO200,,TERMS-OFFERED,0
+INFO,375,Introduction to Information Systems Assurance,3.00,INFO200 and INFO330,,TERMS-OFFERED,0
+INFO,540,Perspectives on Information Systems,3.00,INFO530,,TERMS-OFFERED,0
+INFO,555,Introduction to Geographic Information Systems,3.00,,,TERMS-OFFERED,0
+INFO,613,XML and Databases,3.00,INFO604 and INFO605,,TERMS-OFFERED,0
+INFO,630,Evaluation of Information Systems,3.00,INFO620,,TERMS-OFFERED,0
+INFO,638,Software Project Management,3.00,INFO620,,TERMS-OFFERED,0
+INFO,644,Knowledge Assets Management in Organizations,3.00,,,TERMS-OFFERED,0
+INFO,649,Library Programming,3.00,INFO511 or INFO521 and INFO510 or INFO522,,TERMS-OFFERED,0
+INFO,653,Digital Libraries,3.00,INFO624 or INFO652 or INFO552,,TERMS-OFFERED,0
+INFO,665,Collection Management,3.00,INFO520,,TERMS-OFFERED,0
+INFO,682,Storytelling,3.00,,,TERMS-OFFERED,0
+INFO,710,Information Forensics,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,725,Information Policy,3.00,,,TERMS-OFFERED,0
+INFO,733,Public Health Informatics,3.00,INFO648 or PBHL516,,TERMS-OFFERED,0
+INFO,756,Digital Preservation,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,816,Qualitative Research Methods,3.00,INFO811,,TERMS-OFFERED,0
+INFO,894,Practicum II,3.00,INFO893,,TERMS-OFFERED,0

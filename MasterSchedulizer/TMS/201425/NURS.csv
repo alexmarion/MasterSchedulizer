@@ -1,0 +1,76 @@
+NURS,112,Relationship-Based Health Assessment & Promotion,5.00,ANAT101 and ANAT102 and ANAT103 and NURS110,,TERMS-OFFERED,0
+NURS,200,Principles of Nursing Practice,6.00,ANAT103 and BIO226 and MATH108 and CHEM103,NURS112 INFO204,TERMS-OFFERED,0
+NURS,205,Strategies for Academic Success,1.00,,,TERMS-OFFERED,0
+NURS,300,Comprehensive Adult Nursing I,6.00,NURS200 and NURS112,NURS301,TERMS-OFFERED,0
+NURS,303,Women's Health Nursing,6.00,NURS300 and NURS301,,TERMS-OFFERED,0
+NURS,304,Nursing of Children,6.00,NURS300 and NURS301 and NURS308,,TERMS-OFFERED,0
+NURS,305,Comprehensive Adult Nursing II,6.00,NURS300 and NURS301,NURS306,TERMS-OFFERED,0
+NURS,324,Intro to Online Learning:Tools for Success,3.00,,,TERMS-OFFERED,0
+NURS,325,Critical Issues in Nursing,3.00,NURS324,,TERMS-OFFERED,0
+NURS,330,Research Basis of Nursing,4.00,STS345 and NURS304,,TERMS-OFFERED,0
+NURS,337,Genetics in Nursing and Health,3.00,ANAT103 and NURS300 and NURS301,,TERMS-OFFERED,0
+NURS,339,Pathophysiology,3.00,ANAT103 and CHEM103 and BIO226,,TERMS-OFFERED,0
+NURS,340,Transformational Leadership,3.00,,,TERMS-OFFERED,0
+NURS,346,Health Assessment,6.00,NURS325,,TERMS-OFFERED,0
+NURS,370,Issues in Aging and Longevity,4.00,NURS325,,TERMS-OFFERED,0
+NURS,375,Nurses Building a Healthy Community,6.00,NURS346 and NURS330,,TERMS-OFFERED,0
+NURS,388,Nursing Case Study I,1.00,NURS300 and NURS301,,TERMS-OFFERED,0
+NURS,400,"Leadership, Management, and Entrepreneurship in Nursing",3.00,NURS305,,TERMS-OFFERED,0
+NURS,401,Comprehensive Adult Nursing III,6.00,NURS303 and NURS304 and NURS305 and NURS306 and NURS308,,TERMS-OFFERED,0
+NURS,403,Community Public Health Nursing,6.00,NURS303 and NURS304 and NURS305 and NURS306 and NURS308,,TERMS-OFFERED,0
+NURS,410,Pharmacology for Practicing Nurses,5.00,,,TERMS-OFFERED,0
+NURS,450,Contemporary Gerontological Nursing,6.00,NURS303 and NURS304 and NURS305 and NURS306 and NURS308 and NURS401,,TERMS-OFFERED,0
+NURS,460,Global Health & Policy Issues,6.00,NURS325,,TERMS-OFFERED,0
+NURS,462,"Science, Technology and Health",3.00,NURS330 and NURS325,,TERMS-OFFERED,0
+NURS,465,Senior Thesis in Nursing,3.00,,,TERMS-OFFERED,0
+NURS,488,Nursing Case Study II,1.00,NURS305 and NURS306,,TERMS-OFFERED,0
+NURS,489,Synthesis of Nursing Knowledge,4.00,NURS401,,TERMS-OFFERED,0
+NURS,492,Senior Seminar in Nursing,3.00,NURS303 and NURS304 and NURS305 and NURS306 and NURS308 and NURS401 and NURS403 and NURS489,,TERMS-OFFERED,0
+NURS,500,Confronting Issues in Contemporary Health Care Environments,3.00,,,TERMS-OFFERED,0
+NURS,502,Advanced Ethical Decision Making in Health Care,3.00,,,TERMS-OFFERED,0
+NURS,504,Overview of Nurse Anesthesia,3.00,,NURS503 NURS549 NURS526,TERMS-OFFERED,0
+NURS,518,Advanced Principles of Nurse Anesthesia III,3.00,NURS515 and NURS516 and NURS522,NURS517 NURS530 NURS524,TERMS-OFFERED,0
+NURS,523,Advanced Pathophysiology III,3.00,NURS522,,TERMS-OFFERED,0
+NURS,528,Victimology ¿ Contemporary Trend,3.00,,,TERMS-OFFERED,0
+NURS,532,Evaluation of Health Outcomes,3.00,RSCH519,,TERMS-OFFERED,0
+NURS,536,FNP III: Primary Care of Adults and Older Adults Across the Adult Age Spectrum I,5.00,RSCH503 and RSCH504 and NURS500 and NURS502 and NURS548 and NURS544 and NURS549 and NURS550 and NURS556 and NURS664 and NURS534 and NURS535,,TERMS-OFFERED,0
+NURS,540,ASD I: Introduction to Autism Spectrum Disorder,3.00,,,TERMS-OFFERED,0
+NURS,554,Pharmacology for Adult-Gerontology Acute Care Nurse Practitioners,3.00,NURS500 and NURS502 and NURS544 and NURS548 and NURS549 and NURS664 and RSCH503 and RSCH504,,TERMS-OFFERED,0
+NURS,555,Psychopharmacology Across the Lifespan,3.00,RSCH503 and RSCH504 and NURS500 and NURS502 and NURS544 and NURS548 and NURS549 and NURS664,,TERMS-OFFERED,0
+NURS,558,Economics of Healthcare Management & Policy,3.00,,,TERMS-OFFERED,0
+NURS,563,Building and Leading High Performance Healthcare Organizations,3.00,NURS557 and NURS558 and NURS559,,TERMS-OFFERED,0
+NURS,567,"Strategic Management: Power, Politics and Influence in Healthcare Systems",3.00,NURS558 and NURS557 and NURS653 and NURS564 and NURS562 and NURS559,,TERMS-OFFERED,0
+NURS,568,Practicum and Symposium in Healthcare Operations Management,3.00,NURS557 and NURS558 and NURS559 and NURS563 and NURS564 and NURS567,,TERMS-OFFERED,0
+NURS,572,Adult Gerontology Acute Care Nurse Practitioner III: Mgnt/Care of Patients in Acute Surgical Setting,5.00,NURS500 and NURS502 and NURS544 and NURS548 and NURS549 and NURS550 and NURS554 and NURS664 and NURS570 and NURS571 and RSCH503 and RSCH504,,TERMS-OFFERED,0
+NURS,583,Operational Leadership in Clinical Trials Management,3.00,NURS582,,TERMS-OFFERED,0
+NURS,587,Case Studies in Intra/Entrepreneurship and Innovation in Nursing,3.00,NURS586,,TERMS-OFFERED,0
+NURS,594,PMHNP III: Adv Mental Hlth NP Treatment Modalities for Diverse Populations Across the Lifespan,5.00,NURS500 and NURS502 and RSCH503 and RSCH504 and NURS544 and NURS664 and NURS548 and NURS549 and NURS550 and NURS555 and NURS592 and NURS593,,TERMS-OFFERED,0
+NURS,606,Curriculum Design for Higher Level Cognition,3.00,NURS500 and NURS502 and RSCH519 and RSCH523 and INFO526 and NURS527 and NURS591,,TERMS-OFFERED,0
+NURS,614,Technology for Nursing Education & Practice,3.00,,,TERMS-OFFERED,0
+NURS,615,"Assessment, Measurement and Evaluation",3.00,NURS500 and RSCH519 and NURS502 and RSCH523 and INFO526 and NURS527 and NURS591 and NURS606 and NURS613,,TERMS-OFFERED,0
+NURS,626,Masters Nursing Education Practicum I,3.00,NURS597 and NURS598 and NURS599 and NURS600 and NURS613 and NURS614 and NURS597,,TERMS-OFFERED,0
+NURS,637,Capstone Project II,3.00,NURS636,,TERMS-OFFERED,0
+NURS,641,Advanced Pharmacology for Adult-Gerontology Primary Care Nurse Practitioners,3.00,NURS500 and RSCH503 and RSCH504 and NURS502 and INFO526 and NURS548 and NURS549 and NURS664,,TERMS-OFFERED,0
+NURS,646,Pharmacology for the Pediatric Nurse Practitioner,3.00,NURS548 and NURS549,,TERMS-OFFERED,0
+NURS,650,"Ped Nurse Pract AC II:Acute-Chronic Care of Infants, Children and Adolescents Management",5.00,RSCH519 and RSCH523 and NURS500 and NURS502 and NURS526 and NURS527 and NURS548 and NURS549 and NURS550 and NURS646 and NURS642 and NURS643 and NURS649,,TERMS-OFFERED,0
+NURS,680,Primary Care for Women¿s Health,3.00,RSCH503 and RSCH504 and NURS500 and NURS502 and NURS544 and NURS548 and NURS549 and NURS664,,TERMS-OFFERED,0
+NURS,682,Pharmacology for the Women¿s Health Nurse Practitioner,3.00,RSCH503 and RSCH504 and NURS500 and NURS502 and NURS544 and NURS548 and NURS549 and NURS664,,TERMS-OFFERED,0
+NURS,688,Clinical Correlative Seminars,3.00,NURS687,NURS689,TERMS-OFFERED,0
+NURS,692,WHNP III: Management & Care of the Low Risk Obstetrical and Post Partum Needs of Women and Families,5.00,RSCH503 and RSCH504 and NURS500 and NURS502 and NURS544 and NURS548 and NURS549 and NURS682 and NURS690 and NURS691 and NURS550 and NURS680 and NURS664,,TERMS-OFFERED,0
+NURS,713,Human Responses to Altered Function in Health and Illness,3.00,RSCH519 and NURS716,,TERMS-OFFERED,0
+NURS,835,Doctoral Nursing Practice Role Practicum,3.00,RSCH519 and NURS716 and NURS706 and NURS713 and NURS719 and NURS718 and NURS720 and NURS703 and NURS819 and NURS830,,TERMS-OFFERED,0
+NURS,836,Clinical and Applied Nursing Ethics,3.00,NURS703 and NURS716 and NURS718 and NURS830 and RSCH519 and NURS706 and NURS713 and NURS719 and NURS720 and NURS819,,TERMS-OFFERED,0
+NURS,997,Dissertation Advisement II,2.00,NURS996 R,,TERMS-OFFERED,0
+NURS,311,Group Dynamics and Leading Teams,3.00,NURS310,,TERMS-OFFERED,0
+NURS,480,ST: Sci: Tch and Health,1.00 to 12.00,,,TERMS-OFFERED,0
+NURS,529,Foundations of Complementary and Integrative Therapies,3.00,,,TERMS-OFFERED,0
+NURS,533,Forensic Mental Health,3.00,,,TERMS-OFFERED,0
+NURS,566,Yoga for the Enlightened Practitioner,3.00,,,TERMS-OFFERED,0
+NURS,585,Clinical Trials Research Practicum,5.00,NURS582 and NURS583 and NURS584,,TERMS-OFFERED,0
+NURS,589,"Witches, Wise Women and Women Healers",3.00,,,TERMS-OFFERED,0
+NURS,603,Clinical Nurse Leader Capstone Immersion I,5.00,NURS602,,TERMS-OFFERED,0
+NURS,624,Foundations of Integrative Addiction Therapy,3.00,,,TERMS-OFFERED,0
+NURS,632,Nurse Educator and Faculty Role Practicum,6.00,NURS500 and NURS502 and RSCH519 and RSCH523 and INFO526 and NURS527 and NURS591 and NURS606 and NURS613 and NURS615 and NURS616,,TERMS-OFFERED,0
+NURS,639,Holistic Therapies in Hospice and Palliative Care,3.00,,,TERMS-OFFERED,0
+NURS,647,PNP III: Management and Care of Adolescents in the Primary Care Setting,5.00,RSCH519 and RSCH523 and NURS500 and NURS502 and NURS526 and NURS527 and NURS548 and NURS549 and NURS550 and NURS556 and NURS642 and NURS643 and NURS646,,TERMS-OFFERED,0
+NURS,669,Professional Seminar for Advance Practice Nurses,1.00,,,TERMS-OFFERED,0

@@ -1,0 +1,60 @@
+INFO,101,Introduction to Information Technology,3.00,,,TERMS-OFFERED,0
+INFO,108,Foundations of Software,3.00,,,TERMS-OFFERED,0
+INFO,110,Human-Computer Interaction I,3.00,,,TERMS-OFFERED,0
+INFO,151,Web Systems and Services I,3.00,INFO108,,TERMS-OFFERED,0
+INFO,152,Web Systems and Services II,3.00,INFO151,,TERMS-OFFERED,0
+INFO,154,Software System Construction,3.00,INFO152,,TERMS-OFFERED,0
+INFO,200,Systems Analysis I,3.00,INFO101,,TERMS-OFFERED,0
+INFO,215,Social Aspects of Information Systems,3.00,INFO105,,TERMS-OFFERED,0
+INFO,310,Human-Computer Interaction II,3.00,INFO110 or SE210 or CS275,,TERMS-OFFERED,0
+INFO,321,Server Technology II,4.00,INFO320,,TERMS-OFFERED,0
+INFO,330,Computer Networking Technology I,4.00,CS171 or CS132 or SE102 or INFO152,,TERMS-OFFERED,0
+INFO,333,Introduction to Information Security,3.00,,,TERMS-OFFERED,0
+INFO,366,Database Administration II,3.00,INFO365,,TERMS-OFFERED,0
+INFO,415,Information Technology Services,3.00,,,TERMS-OFFERED,0
+INFO,426,Design Problem II,3.00,INFO425,,TERMS-OFFERED,0
+INFO,520,Social Context of Information Professions,3.00,,,TERMS-OFFERED,0
+INFO,521,Information Users and Services,3.00,,,TERMS-OFFERED,0
+INFO,522,Information Access & Resources,3.00,,,TERMS-OFFERED,0
+INFO,530,Foundations of Information Systems,3.00,,,TERMS-OFFERED,0
+INFO,552,Introduction to Web Design for Information Organizations,3.00,,,TERMS-OFFERED,0
+INFO,561,Introduction to Archives II,3.00,INFO560,,TERMS-OFFERED,0
+INFO,606,Advanced Database Management,3.00,INFO601 or INFO532 and INFO605,,TERMS-OFFERED,0
+INFO,608,Human-Computer Interaction,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,620,Information Systems Analysis and Design,3.00,INFO605 and INFO608,,TERMS-OFFERED,0
+INFO,627,Requirements Engineering and Management,3.00,INFO620,,TERMS-OFFERED,0
+INFO,630,Evaluation of Information Systems,3.00,INFO620,,TERMS-OFFERED,0
+INFO,633,Information Visualization,3.00,,,TERMS-OFFERED,0
+INFO,638,Software Project Management,3.00,INFO620,,TERMS-OFFERED,0
+INFO,640,Managing Information Organizations,3.00,INFO515 and INFO520 and INFO530 or INFO503,,TERMS-OFFERED,0
+INFO,650,Public Library Service,3.00,INFO511 or INFO521 and INFO520,,TERMS-OFFERED,0
+INFO,660,Cataloging and Classification,3.00,INFO522 or INFO510,,TERMS-OFFERED,0
+INFO,665,Collection Management,3.00,INFO510 or INFO522 and INFO520,,TERMS-OFFERED,0
+INFO,679,Information Ethics,3.00,,,TERMS-OFFERED,0
+INFO,683,Resources for Children,3.00,,,TERMS-OFFERED,0
+INFO,712,Information Assurance,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,751,Archival Appraisal,3.00,INFO561,,TERMS-OFFERED,0
+INFO,780,ST: Metadata Science,2.00 to 12.00,,,TERMS-OFFERED,0
+INFO,861,Topics in Information Science,3.00,,,TERMS-OFFERED,0
+INFO,894,Practicum II,3.00,INFO893,,TERMS-OFFERED,0
+INFO,998,Ph.D. Dissertation,1.00 to 12.00,,,TERMS-OFFERED,0
+INFO,216,Issues in Information Policy,3.00,,,TERMS-OFFERED,0
+INFO,324,Team Process and Product,3.00,INFO153 and INFO200,,TERMS-OFFERED,0
+INFO,355,Systems Analysis II,3.00,INFO210 and INFO200,,TERMS-OFFERED,0
+INFO,410,Information Technology Infrastructure,3.00,,,TERMS-OFFERED,0
+INFO,420,Software Project Management,3.00,INFO200 or SE210 and CS172 or CS265 or INFO153 or SE103,,TERMS-OFFERED,0
+INFO,614,Distributed Computing and Networking,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,622,Content Representation,3.00,INFO510 or INFO522 or INFO605,,TERMS-OFFERED,0
+INFO,629,Concepts in Artificial Intelligence,3.00,INFO620,,TERMS-OFFERED,0
+INFO,631,Information Technology Integration,3.00,INFO503 or INFO530 and INFO532 or INFO601 and INFO605 and INFO534 or INFO614,,TERMS-OFFERED,0
+INFO,636,Software Engineering Process I,3.00,INFO601 or INFO532 and INFO630 and INFO638,,TERMS-OFFERED,0
+INFO,643,Information Services In Organizations,3.00,,,TERMS-OFFERED,0
+INFO,657,Digital Library Technologies,3.00,INFO652 or INFO552 and INFO653,,TERMS-OFFERED,0
+INFO,661,Cataloging Special Materials,3.00,INFO660,,TERMS-OFFERED,0
+INFO,668,History of the Book,3.00,INFO511 or INFO521 and INFO520,,TERMS-OFFERED,0
+INFO,682,Storytelling,3.00,,,TERMS-OFFERED,0
+INFO,688,Instructional Role for the Information Specialist,3.00,INFO510 or INFO522 and INFO511 or INFO521,,TERMS-OFFERED,0
+INFO,732,Healthcare Informatics: Planning & Evaluation,3.00,INFO648,,TERMS-OFFERED,0
+INFO,755,Electronic Records Management,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,812,Research Statistics I,3.00,,,TERMS-OFFERED,0
+INFO,896,Clinical Experience,3.00,INFO530 and INFO605 and INFO608 and INFO614 and INFO648 and INFO731,,TERMS-OFFERED,0

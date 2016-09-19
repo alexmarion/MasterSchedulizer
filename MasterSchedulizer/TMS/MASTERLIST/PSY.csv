@@ -1,0 +1,41 @@
+PSY,101,General Psychology I,3.00,,,1111,0
+PSY,111,Pre-Professional General Psychology I,3.00,,,1000,0
+PSY,112,Pre-Professional General Psychology II,3.00,PSY111,,0100,0
+PSY,120,Developmental Psychology,3.00,,,1111,0
+PSY,140,Approaches to Personality,3.00,,,1111,0
+PSY,150,Introduction to Social Psychology,3.00,,,1111,0
+PSY,212,Physiological Psychology,3.00,,,1010,0
+PSY,213,Sensation and Perception,3.00,,,1010,0
+PSY,222,Psychological Problems of Modern Youth,3.00,,,1000,0
+PSY,225,Child Psychopathology,3.00,PSY101 or PSY112,,0110,0
+PSY,240,Abnormal Psychology,3.00,,,1111,0
+PSY,242,Psychology of Disability,3.00,,,0110,0
+PSY,244,Culture and Personality,3.00,PSY101 or PSY112,,0000,0
+PSY,245,Sports Psychology,3.00,,,0010,0
+PSY,250,Industrial Psychology,3.00,,,0100,0
+PSY,252,Death and Dying,3.00,,,1010,0
+PSY,254,Psychology of Sexual Behavior,3.00,,,1110,0
+PSY,265,Computer-Assisted Data Analysis II,3,PSY101,,0101,0
+PSY,310,Drugs & Human Behavior,3.00,PSY101 or PSY112,,1111,0
+PSY,320,Educational Psychology,3.00,PSY101 or PSY112,,1001,0
+PSY,322,Advanced Developmental Psychology,3.00,PSY101 or PSY112 and PSY120 or PSY112,,0100,0
+PSY,330,Cognitive Psychology,3.00,PSY101 or PSY112,,1110,0
+PSY,332,Human Factors and Cognitive Engineering,3.00,PSY101 or PSY112,,0100,0
+PSY,336,Psychology of Language,3.00,,,0010,0
+PSY,337,Human-Computer Interaction,3.00,PSY101 or PSY112,,1010,0
+PSY,342,Counseling Psychology,3.00,PSY101 or PSY112,,1110,0
+PSY,345,Narrative Psychology,3.00,PSY101 or PSY112,,0000,0
+PSY,350,Advanced Social Psychology,3.00,PSY150,,0100,0
+PSY,352,Environmental Psychology,3.00,,,0000,0
+PSY,355,Health Psychology,3.00,PSY101 or PSY112,,1000,0
+PSY,356,Women's Health Psychology,3.00,PSY101 or PSY112,,1000,0
+PSY,357,The Psychology of Eating Disorders and Obesity,3.00,PSY101 or PSY112,,1010,0
+PSY,360,Experimental Psychology,3.00,PSY265,,1111,0
+PSY,360,Experimental Psychology,3.00,PSY101 or PSY112,,1111,0
+PSY,368,Critical Psychology,3.00,PSY101 or PSY112,,0100,0
+PSY,370,Forensic Psychology,3.00,PSY101 or PSY112,,0101,0
+PSY,410,Neuropsychology,3.00,PSY101 or PSY112 or PSY112,,1010,0
+PSY,450,Autism Spectrum Disorders,3.00,PSY120,,0010,0
+PSY,490,Psychology Senior Thesis I,4.00,,,1000,0
+PSY,491,Psychology Senior Thesis II,4,PSY490,,1100,0
+PSY,492,Psychology Senior Thesis III,4.00,PSY491,,0010,0

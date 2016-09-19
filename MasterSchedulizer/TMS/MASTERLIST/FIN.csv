@@ -1,0 +1,16 @@
+FIN,301,Introduction to Finance,4.00,ACCT115 or HRM310 and STAT201 or STAT205 or STAT261,,1111,0
+FIN,301,Introduction to Finance,4.00,STAT201 or STAT205 or STAT261 and ACCT115 or ACCT110 or HRM310,,1111,0
+FIN,302,Intermediate Corporate Finance,4.00,FIN301 and STAT202 or STAT206,,1111,0
+FIN,302,Intermediate Corporate Finance,4.00,FIN301 and STAT202,,1111,0
+FIN,321,Investment Securities & Markets,4.00,FIN301 and STAT202 or STAT206,,1110,0
+FIN,323,Risk Management,4.00,FIN321 and STAT202 or STAT206,,1100,0
+FIN,325,Financial Institutions and Markets,4.00,FIN301 and STAT202 or STAT206,,1111,0
+FIN,325,Financial Institutions and Markets,4.00,FIN301 and STAT202,,1111,0
+FIN,332,Investment Analysis,4.00,FIN321,,0110,0
+FIN,335,Entrepreneurial Finance,4.00,FIN301,,0101,0
+FIN,338,Money and Capital Markets,4.00,FIN325,,1111,0
+FIN,340,Seminar in Finance,4.00,FIN302 and FIN321 and FIN325,,1110,0
+FIN,341,Applied Portfolio Management,4.00,FIN321,,1110,0
+FIN,342,Advanced Portfolio Management,4.00,FIN341,,0000,0
+FIN,346,Global Financial Management,4.00,FIN301,,0100,0
+FIN,350,Personal Finance,4.00,,,1111,0

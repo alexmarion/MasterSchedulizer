@@ -1,0 +1,37 @@
+BMES,130,Problem Solving in Biomedical Engineering,2.00,MATH122 and CHEM102 and PHYS101,,TERMS-OFFERED,0
+BMES,201,Programming and Modeling for Biomedical Engineers I,3.00,MATH200 and PHYS102 and BIO122 and BMES130 or BMES125,,TERMS-OFFERED,0
+BMES,301,Laboratory I: Experimental Biomechanics,2.00,TDEC114 or MATH200 and TDEC115 or PHYS201 and TDEC211 or ENGR231 and MEM202,,TERMS-OFFERED,0
+BMES,302,Laboratory II: Biomeasurements,2.00,BMES222 or BIO201 and ECE201 and TDEC231 or ENGR103,,TERMS-OFFERED,0
+BMES,304,Laboratory IV: Ultrasound Images,2.00,BIO201 or BMES235 and ECE201 and TDEC231 or ENGR103,,TERMS-OFFERED,0
+BMES,338,Biomedical Ethics and Law,3.00,,,TERMS-OFFERED,0
+BMES,372,Biosimulation,3.00,BIO201 and BIO203 or BMES235 and ENGR231 and ENGR232 and BMES201 and BMES202 or ENGR201 and ENGR202,,TERMS-OFFERED,0
+BMES,381,Junior Design Seminar I,2.00,,,TERMS-OFFERED,0
+BMES,391,Biomedical Instrumentation I,3.00,ECE201 and TDEC202 or ENGR210 and TDEC221 or ENGR231 and ENGR232 and BMES235 or BIO203,,TERMS-OFFERED,0
+BMES,409,Entrepreneurship for BMES,3.00,,,TERMS-OFFERED,0
+BMES,430,Neural Aspects of Posture and Locomotion,3.00,BIO201 and BIO203 or BMES235 and BMES201 and BMES202 or ENGR201 and ENGR202 and MEM202,,TERMS-OFFERED,0
+BMES,441,Biomechanics I: Introduction to Biomechanics,4.00,MEM202 and MEM230 or BMES345 and MEM238 and BMES222 or BMES326 and BIO203,BMES440,TERMS-OFFERED,0
+BMES,460,Biomaterials I,4.00,MEM230 or BMES345 and CHEM241 and CHEM242,,TERMS-OFFERED,0
+BMES,491,Senior Design Project I,3.00,,,TERMS-OFFERED,0
+BMES,501,Medical Sciences I,3.00,,,TERMS-OFFERED,0
+BMES,509,Entrepreneurship for Biomedical Engineering and Science,3.00,,,TERMS-OFFERED,0
+BMES,531,Chronobioengineering I,3.00,BMES503,,TERMS-OFFERED,0
+BMES,546,Biocomputational Languages,4.00,,,TERMS-OFFERED,0
+BMES,594,Clinical Practicum I,3.00,,,TERMS-OFFERED,0
+BMES,621,Medical Imaging Systems I,4.00,,,TERMS-OFFERED,0
+BMES,641,Biomedical Mechanics I,4.00,,,TERMS-OFFERED,0
+BMES,660,Biomaterials I,4.00,,,TERMS-OFFERED,0
+BMES,672,Biosimulation I,3.00,,,TERMS-OFFERED,0
+BMES,821,Medical Instrumentation,3.00,,,TERMS-OFFERED,0
+BMES,897,Research,1.00 to 12.00,,,TERMS-OFFERED,0
+BMES,325,Principles of Biomedical Engineering I,3.00,BIO122 and CHEM102 and BIO203 or BMES235 and MEM202 and ENGR220 and ENGR232,,TERMS-OFFERED,0
+BMES,401,Biosensors I,4.00,BMES222 or BMES326 and TDEC202 or ENGR210 and TDEC221 or ENGR231 and ECE201 and ENGR232,,TERMS-OFFERED,0
+BMES,411,Chronoengineering I: Biological Rhythms in Health and Performance,3.00,BIO203 or BMES235 and BMES222 or BMES326,,TERMS-OFFERED,0
+BMES,471,Cellular and Molecular Foundations of Tissue Engineering,4.00,BIO218 and BIO122 and BIO219 and CHEM242 and MEM230 or BMES345,,TERMS-OFFERED,0
+BMES,494,Clinical Practicum I,3.00,,,TERMS-OFFERED,0
+BMES,505,Mathematics for Biomedical Sciences I,3.00,,,TERMS-OFFERED,0
+BMES,510,Biomedical Statistics,4.00,,,TERMS-OFFERED,0
+BMES,538,Biomedical Ethics and Law,3.00,,,TERMS-OFFERED,0
+BMES,571,Biological Evolution: Applications to Human Health and Performance,4.00,,,TERMS-OFFERED,0
+BMES,631,Tissue Engineering I,4.00,BMES503,,TERMS-OFFERED,0
+BMES,722,Neural Aspects of Posture and Locomotion I,3.00,,,TERMS-OFFERED,0
+BMES,864,Seminar,,,,TERMS-OFFERED,0

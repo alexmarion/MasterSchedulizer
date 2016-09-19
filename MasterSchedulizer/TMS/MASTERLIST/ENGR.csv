@@ -1,0 +1,21 @@
+ENGR,100,Beginning Computer Aided Drafting for Design,1.00,,,1100,0
+ENGR,101,Engineering Design Laboratory I,2.00,,,1100,0
+ENGR,102,Engineering Design Laboratory II,2.00,,,0110,0
+ENGR,103,Engineering Design Laboratory III,2.00,,,0010,0
+ENGR,104,Engineering Design Laboratory for Transfers,4,,,0000,0
+ENGR,121,Computation Lab I,2,,,1110,0
+ENGR,180,ST:Mentorship,12.00,,,0000,0
+ENGR,180,ST: EPICS - Community Service,12.00,,,0000,0
+ENGR,180,ST:Leadership,12.00,,,0000,0
+ENGR,201,Evaluation & Presentation of Experimental Data I,3.00,MATH122 and PHYS101 and ENGR103,EXAM081,1010,0
+ENGR,201,Evaluation & Presentation of Experimental Data I,3.00,MATH122 and PHYS101 and ENGR103,EXAM081,1010,0
+ENGR,202,Evaluation & Presentation of Experimental Data II,3.00,ENGR201,EXAM081,0101,0
+ENGR,202,Evaluation & Presentation of Experimental Data II,3.00,ENGR201,EXAM081,0101,0
+ENGR,210,Introduction to Thermodynamics,3.00,MATH122 and PHYS101,EXAM081,1101,0
+ENGR,220,Fundamentals of Materials,4.00,CHEM102 and MATH122 and PHYS101,EXAM081,1010,0
+ENGR,220,Fundamentals of Materials,4.00,CHEM102 and MATH122 and PHYS101,EXAM081,1010,0
+ENGR,231,Linear Engineering Systems,3.00,MATH122,EXAM081,1111,0
+ENGR,231,Linear Engineering Systems,3.00,MATH122 and ENGR121 or BMES201,EXAM081,1111,0
+ENGR,232,Dynamic Engineering Systems,3.00,ENGR231 or MATH261 or MATH201,EXAM081,1111,0
+ENGR,232,Dynamic Engineering Systems,3.00,ENGR231 and ENGR121 or BMES201,EXAM081,1111,0
+ENGR,361,Statistical Analysis of Engineering Systems,3.00,,,1111,0

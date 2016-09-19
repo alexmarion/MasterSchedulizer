@@ -1,0 +1,44 @@
+INFO,101,Introduction to Information Technology,3.00,,,TERMS-OFFERED,0
+INFO,152,Web Systems and Services II,3.00,INFO151,,TERMS-OFFERED,0
+INFO,154,Software System Construction,3.00,INFO152,,TERMS-OFFERED,0
+INFO,200,Systems Analysis I,3.00,INFO101,,TERMS-OFFERED,0
+INFO,215,Social Aspects of Information Systems,3.00,,,TERMS-OFFERED,0
+INFO,321,Server Technology II,4.00,INFO320,,TERMS-OFFERED,0
+INFO,324,Team Process and Product,3.00,INFO153 and INFO200,,TERMS-OFFERED,0
+INFO,330,Computer Networking Technology I,4.00,CS171 or CS132 or SE102 or INFO152,,TERMS-OFFERED,0
+INFO,373,Digital Forensics,3.00,INFO210 and INFO355,,TERMS-OFFERED,0
+INFO,415,Information Technology Services,3.00,,,TERMS-OFFERED,0
+INFO,515,Introduction to Research in Information Organizations,3.00,,,TERMS-OFFERED,0
+INFO,520,Social Context of Information Professions,3.00,,,TERMS-OFFERED,0
+INFO,522,Information Access & Resources,3.00,,,TERMS-OFFERED,0
+INFO,552,Introduction to Web Design for Information Organizations,3.00,,,TERMS-OFFERED,0
+INFO,561,Introduction to Archives II,3.00,INFO560,,TERMS-OFFERED,0
+INFO,605,Introduction to Database Management,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,608,Human-Computer Interaction,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,614,Distributed Computing and Networking,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,622,Content Representation,3.00,INFO510 or INFO522,,TERMS-OFFERED,0
+INFO,640,Managing Information Organizations,3.00,INFO511 or INFO521 and INFO510 or INFO522 and INFO503 or INFO530 and INFO515 and INFO520,,TERMS-OFFERED,0
+INFO,651,Academic Library Service,3.00,INFO520 and INFO521 or INFO511,,TERMS-OFFERED,0
+INFO,660,Cataloging and Classification,3.00,INFO522 or INFO510,,TERMS-OFFERED,0
+INFO,672,Resources in the Humanities,3.00,INFO510 or INFO522 and INFO511 or INFO521,,TERMS-OFFERED,0
+INFO,683,Resources for Children,3.00,,,TERMS-OFFERED,0
+INFO,717,Cyber-Computer Crime Law,3.00,INFO517,,TERMS-OFFERED,0
+INFO,751,Archival Appraisal,3.00,INFO561,,TERMS-OFFERED,0
+INFO,755,Electronic Records Management,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,894,Practicum II,3.00,INFO893,,TERMS-OFFERED,0
+INFO,110,Human-Computer Interaction I,3.00,,,TERMS-OFFERED,0
+INFO,310,Human-Computer Interaction II,3.00,INFO110 and INFO200 or SE210,,TERMS-OFFERED,0
+INFO,333,Introduction to Information Security,3.00,,,TERMS-OFFERED,0
+INFO,410,Information Technology Infrastructure,3.00,,,TERMS-OFFERED,0
+INFO,440,Social Media Trend Spotting,3.00,INFO240,,TERMS-OFFERED,0
+INFO,611,Design of Interactive Systems,3.00,INFO608,,TERMS-OFFERED,0
+INFO,620,Information Systems Analysis and Design,3.00,INFO605 and INFO608,,TERMS-OFFERED,0
+INFO,630,Evaluation of Information Systems,3.00,INFO620,,TERMS-OFFERED,0
+INFO,648,Healthcare Informatics,3.00,,,TERMS-OFFERED,0
+INFO,657,Digital Library Technologies,3.00,INFO652 or INFO552 and INFO653,,TERMS-OFFERED,0
+INFO,665,Collection Management,3.00,INFO511 or INFO521 and INFO520,,TERMS-OFFERED,0
+INFO,674,Digital Scholarship in Science & Technology,3.00,INFO521 and INFO522,,TERMS-OFFERED,0
+INFO,712,Information Assurance,3.00,INFO503 or INFO530,,TERMS-OFFERED,0
+INFO,732,Healthcare Informatics: Planning & Evaluation,3.00,INFO648,,TERMS-OFFERED,0
+INFO,753,Introduction to Digital Curation,3.00,,,TERMS-OFFERED,0
+INFO,896,Clinical Experience,3.00,INFO530 and INFO605 and INFO608 and INFO614 and INFO648 and INFO731,,TERMS-OFFERED,0

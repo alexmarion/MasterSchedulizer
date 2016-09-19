@@ -1,0 +1,11 @@
+ITAL,101,Italian I,4.00,,,1111,0
+ITAL,102,Italian II,4.00,ITAL101,,1111,0
+ITAL,103,Italian III,4.00,ITAL102,,1111,0
+ITAL,201,Italian IV,4.00,ITAL103,,1111,0
+ITAL,202,Italian V,4.00,ITAL201,,1111,0
+ITAL,203,Italian VI: Conversation and Composition,4.00,ITAL202,,1111,0
+ITAL,311,Introduction to Italian Stylistics,3.00,ITAL203,,1111,0
+ITAL,312,Italian Stylistics,3.00,ITAL311,,1111,0
+ITAL,333,Advanced Italian Literature,3.00,ITAL312,,1000,0
+ITAL,371,Special Studies in Italian Civilization and Culture,3.00,ITAL312,,0010,0
+ITAL,471,Special Studies in Italian Civilization,3.00,ITAL312,,1000,0

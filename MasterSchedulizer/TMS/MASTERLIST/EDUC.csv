@@ -1,0 +1,29 @@
+EDUC,101,Foundations in Education I: A Historical and Philosophical Perspective,3.00,,,1000,0
+EDUC,105,Freshman Pedagogy Seminar,1.00,,,1110,0
+EDUC,120,Child Development I: Typical Development,3.00,,,1000,0
+EDUC,121,Child Development II: Atypical Development,3.00,EDUC120,,1000,0
+EDUC,123,Adolescent Development,3.00,,,0000,0
+EDUC,205,Sophomore Pedagogy Seminar,1.00,,,1000,0
+EDUC,210,Early Language Development,3.00,,,0100,0
+EDUC,216,Diversity and Today's Teacher,3.00,,,1110,0
+EDUC,223,Teaching the Middle School Child,3.00,EDUC123,,0000,0
+EDUC,236,Early Literacy I,3.00,,,1000,0
+EDUC,265,Instructing English Language Learners,3.00,,,1000,0
+EDUC,305,Junior Pedagogy Seminar,1.00,,,1000,0
+EDUC,306,Assessment of Young Children I,3.00,,,1000,0
+EDUC,307,Assessment of Young Children II,4.00,EDUC306,,0100,0
+EDUC,310,Computer Applications in Teaching,3.00,,,1000,0
+EDUC,322,Evaluation of Instruction,3.00,,,1000,0
+EDUC,323,Diagnostic Teaching,4,,,0000,0
+EDUC,324,Current Research in Curriculum & Instruction,3.00,,,1000,0
+EDUC,325,Multimedia in Instructional Design,3.00,EDUC310,,1010,0
+EDUC,326,Language Arts Processes,3.00,,,1000,0
+EDUC,335,Engaging the Learner,3.00,,,1000,0
+EDUC,336,Early Literacy II,3.00,EDUC236,,0100,0
+EDUC,338,Expressive Arts for PK-4,3.00,,,1000,0
+EDUC,355,Social Studies Teaching Methods,3.00,,,0100,0
+EDUC,405,Senior Pedagogy Seminar,1.00,,,1100,0
+EDUC,410,Student Teaching,9.00,EDUC323,,1100,0
+EDUC,411,Family and Community Partnerships,3.00,,,1000,0
+EDUC,414,Special Education: Field Placement Seminar,9.00,,,0100,0
+EDUC,428,Cultural and Historical Significance of Mathematics,3.00,,,0100,0

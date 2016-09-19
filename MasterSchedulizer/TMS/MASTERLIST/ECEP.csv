@@ -1,0 +1,11 @@
+ECEP,352,Electric Motor Control Principles,4.00,ECE201 and ECEE302,,0101,0
+ECEP,354,Energy Management Principles,4.00,ECE201 and ECEE302,,1010,0
+ECEP,411,Power Systems I,3.00,ECEP352,,1000,0
+ECEP,412,Power Systems II,4.00,ECEP411,,0100,0
+ECEP,413,Power Systems III,3.00,ECEP412,,0010,0
+ECEP,421,Modeling and Analysis of Electric Power Distribution Systems,3.00,,ECEP411,1000,0
+ECEP,422,Power Distribution Automation and Control,3.00,ECEP421,,0100,0
+ECEP,423,Service and Power Quality Distribution Systems,3.00,ECEP422,,0010,0
+ECEP,451,Power Electronic Converter Fundamentals,3,ECEP352,,1000,0
+ECEP,452,Experimental Study of Power Electronic Converters,3.00,ECEP451,,0100,0
+ECEP,453,Applications of Power Electronic Converters,3.00,ECEP451,,0010,0

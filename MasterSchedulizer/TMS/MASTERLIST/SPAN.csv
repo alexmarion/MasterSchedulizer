@@ -1,0 +1,15 @@
+SPAN,101,Spanish I,4.00,,,1111,0
+SPAN,102,Spanish II,4.00,SPAN101,,1111,0
+SPAN,103,Spanish III,4.00,SPAN102,,1111,0
+SPAN,201,Spanish IV,4.00,SPAN103,,1111,0
+SPAN,202,Spanish V,4.00,SPAN201,,1111,0
+SPAN,203,Spanish VI: Conversation & Comprehension,4.00,SPAN202,,1111,0
+SPAN,311,Introduction to Spanish Stylistics,3.00,SPAN203,,1111,0
+SPAN,312,Spanish Stylistics,3.00,SPAN311,,1111,0
+SPAN,332,Studies in Spanish and Spanish American Literature,3.00,SPAN312,,0001,0
+SPAN,351,Introduction to Business & Professional Spanish,3.00,SPAN312,,0100,0
+SPAN,371,Special Studies in Spanish Civilization & Culture,3.00,SPAN312,,0010,0
+SPAN,431,Special Studies in Advanced Spanish and Latin American Literature,3.00,SPAN312,,0010,0
+SPAN,471,Politics in Mexican Theater,3.00,SPAN312,,1000,0
+SPAN,471,Special Studies in Spanish and Latin American Civilization,3.00,SPAN312,,1000,0
+SPAN,471,Global Quixote in the Americas,3.00,SPAN312,,1000,0

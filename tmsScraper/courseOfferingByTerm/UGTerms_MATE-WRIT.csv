@@ -1,0 +1,978 @@
+E,MATE 100,Materials for Emerging Tech,X,,X,
+E,MATE 101,Fundamentals of Materials,,X,,
+E,MATE 214,Introduction to Polymers,X,,,
+E,MATE 221,Intro Mech Behavior of Mate,,X,,
+E,MATE 240,Thermodynamics of Materials,X,,,
+E,MATE 245,Kinetics of Materials,,X,,
+E,MATE 280,Advanced Materials Laboratory,X,,,
+E,MATE 315,Processing Polymers,,X,,
+E,MATE 341,Defects in Solids,,X,,
+E,MATE 345,Processing of Ceramics,,X,,
+E,MATE 355,Struct & Charact of Cryst Mat,X,,,
+E,MATE 366,Processing Metallic Materials,X,,,
+E,MATE 370,Mechanical Behavior of Solids,X,,,
+E,MATE 410,Case Studies in Materials,,,X,
+E,MATE 455,Biomedical Materials,X,,,
+E,MATE 460,Engr Computational Lab,X,,,
+E,MATE 491,Senior Project Design I,X,,,
+E,MATE 492,Senior Project Design II,,X,,
+E,MATE 493,Senior Project Design III,,,X,
+AS,MATH 100,Fundamentals of Mathematics,X,X,,
+AS,MATH 101,Introduction to Analysis I,X,X,X,X
+AS,MATH 102,Introduction to Analysis II,X,X,X,X
+AS,MATH 107,Prob & Stat for Lib Arts,X,,X,
+AS,MATH 110,Precalculus,X,X,,
+AS,MATH 119,Mathematics For Design,,,X,
+AS,MATH 121,Calculus I,X,X,X,
+AS,MATH 122,Calculus II,X,X,X,X
+AS,MATH 123,Calculus III,X,X,X,X
+AS,MATH 180,Discrete Computat Struct,,X,X,
+AS,MATH 181,Mathematical Analysis I,X,X,X,X
+AS,MATH 182,Mathematical Analysis II,X,X,X,X
+AS,MATH 183,Mathematical Analysis III,X,X,X,X
+AS,MATH 200,Multivariate Calculus,X,X,X,X
+AS,MATH 201,Linear Algebra,X,X,X,X
+AS,MATH 205*,Survey of Geometry,,,,
+AS,MATH 210,Differential Equations,X,X,,
+AS,MATH 220,Intro to Math Reasoning,X,,X,
+AS,MATH 221,Discrete Mathematics,X,X,X,X
+AS,MATH 235,Problem Solving Seminar,X,,,
+AS,MATH 238,History of Mathematics,X,,X,
+AS,MATH 239,Math for the Life Sciences,,X,X,
+AS,MATH 261,Linear Algebra,X,X,X,X
+AS,MATH 262,Differential Equations,X,X,X,X
+AS,MATH 285,Differential Equations II,,,X,
+AS,MATH 286*,Applied Differential Equations,,,,
+AS,MATH 291,Complex & Vector Analy for Eng,,X,,X
+AS,MATH 300,Numerical Analysis,X,,X,
+AS,MATH 301,Numerical Analysis II,,X,,X
+AS,MATH 305,Intro Optimization Theory,AY,,AY,
+AS,MATH 311,Probability and Statistics I,X,X,X,
+AS,MATH 312,Probability and Statistics II,,X,X,X
+AS,MATH 316,Math App of Symbolic Software,X,,,
+AS,MATH 318,Math App of Stat Software,,X,,
+AS,MATH 320*,Actuarial Mathematics,,,,
+AS,MATH 321,Vector Calculus,,X,,
+AS,MATH 322,Complex Variables,X,,X,
+AS,MATH 323,Partial Differential Equations,,X,,
+AS,MATH 331,Abstract Algebra I,X,,,
+AS,MATH 332,Abstract Algebra II,,X,,
+AS,MATH 401,Elements of Modern Analysis I,X,,,
+AS,MATH 402,Elements of Modern Analysis II,,X,,
+AS,MATH 410,Scientific Data Analysis I,X,,X,
+AS,MATH 411,Scientific Data Analysis II,,X,,X
+AS,MATH 422*,Introduction to Topology,,,,
+AS,MATH 449*,Mathematical Finance,,,,
+AS,MATH 450,Introduction to Graph Theory,AY,,AY,
+AS,MATH 475*,Cryptography,,,,
+AS,MATH 480,Spec Topics in Mathematics,AN,AN,AN,AN
+AS,MATH 489*,Tensor Analysis,,,,
+NH,MBC 101,Med Term for Billers/Coders,X,X,X,X
+NH,MBC 201,Medical Billing I,X,X,X,X
+NH,MBC 202,Medical Billing II,X,X,X,X
+NH,MBC 250,Medical Billing Software,X,X,X,X
+NH,MBC 301,Physician-Based Med Coding I,X,X,X,X
+NH,MBC 302,Physician-Based Med Coding II,X,X,X,X
+NH,MBC 303,Hospital-Based Med Coding I,X,X,X,X
+NH,MBC 304,Hospital-Based Med Coding II,X,X,X,X
+NH,MBC 350,Physician-Based Chart Auditing,X,X,X,X
+NH,MBC 360,Hospital-Based Case Studies,X,X,X,X
+E,MEM 201,Funds Cmptr Aided Design,X,X,X,X
+E,MEM 202,Engr Mechanics-Statics,X,X,X,X
+E,MEM 220,Basic Fluid Mechanics,,X,,X
+E,MEM 230,Mechanics of Materials I,X,,X,
+E,MEM 238,Dynamics,,X,X,X
+E,MEM 255,Introduction to Controls,X,X,,X
+E,MEM 310,Thermodynamic Analysis I,X,X,X,
+E,MEM 311,Thermal & Fluid Sci Lab,X,,X,
+E,MEM 320,Fluid Dynamics I,X,,X,
+E,MEM 330,Mechanics of Materials II,,X,,X
+E,MEM 331,Experimental Mechanics I,,X,,X
+E,MEM 345,Heat Transfer,X,,X,
+E,MEM 351,Dynamic Systems Laboratory I,,X,,X
+E,MEM 355,Perf Enhancemt Dyn Systems,X,X,X,
+E,MEM 361,Engineering Reliability,X,X,,X
+E,MEM 395,Hess UG Scholars Research,X,X,X,X
+E,MEM 400*,Internal Combustion Engines,,,,
+E,MEM 402,Power Plant Design,X,,,
+E,MEM 403,Gas Turbines & Jet Propulsion,,X,,
+E,MEM 405,Principles of Combustion I,AY,,,
+E,MEM 406,Principles of Combustion II,,AY,,
+E,MEM 410,Thermodynamic Analysis II,,X,,X
+E,MEM 413,HVAC Loads,X,,,
+E,MEM 414,HVAC Equipment,,X,,
+E,MEM 417,Intro to Microfabrication,,,X,
+E,MEM 419,Microfluidics & Lab-on-a-Chip,,,,X
+E,MEM 420,Aerodynamics,,,X,
+E,MEM 423,Mechanics of Vibration,X,,X,X
+E,MEM 424*,Biomechanics,,,,
+E,MEM 425,Aircraft Design & Perform,X,,,
+E,MEM 426*,Aerospace Structures,,,,
+E,MEM 427,Finite Element Methods,X,,,
+E,MEM 428,Introduction to Composites I,X,,,
+E,MEM 429,Introduction to Composites II,,X,,
+E,MEM 430*,Advanced Stress Analysis,,,,
+E,MEM 431,Machine Design I,X,,X,
+E,MEM 435,Intro Comp Aid Desgn/Mfg,X,,X,
+E,MEM 437,Manufacturng Process I,X,,X,
+E,MEM 438,Manufacturing Process II,,X,,
+E,MEM 440,Thermal Systems Analysis,,X,,X
+E,MEM 444,Biofluid Mechanics,,,X,
+E,MEM 446,Fundamentals of Plasmas I,,AY,,
+E,MEM 447,Fundamentals of Plasmas II,,,AY,
+E,MEM 448,Applied Thermal Plasmas,,AY,,
+E,MEM 449,Applied Non-Thermal Plasmas,,,AY,
+E,MEM 453,Aircrft Flight Dynam & Ctrl I,,,X,
+E,MEM 454*,Aircrft Flight Dynam& Ctrl II,,,,
+E,MEM 455,Introduction to Robotics,X,,X,
+E,MEM 456,Robotics II,,X,,
+E,MEM 462,Intro To Engr Mgmt,X,,X,
+E,MEM 478*,Computer-Aided Tissue Engr,,,,
+E,MEM 491,Senior Design Project I,X,,,
+E,MEM 492,Senior Design Project II,,X,,
+E,MEM 493,Senior Design Project III,,,X,
+G,MET 100,Graphical Communication,,,X,
+G,MET 101,Manufacturing Materials,,X,,
+G,MET 204,Applied Quality Control,,X,,
+G,MET 205,Robotics & Mechatronics,,X,,
+G,MET 209,Fluid Power,,X,,
+G,MET 213,Applied Mechanics,X,,,
+G,MET 301*,Advanced Design Graphics,,,,
+G,MET 306*,Zone Technologies,,,,
+G,MET 307*,HazMat for Manufacturing,,,,
+G,MET 308*,Maritime Manufacturing,,,,
+G,MET 310*,Adv Robotics & Mechatronics,,,,
+G,MET 316,Computer Numerical Control,X,,,
+G,MET 402*,Manufacturing Design with CAD,,,,
+G,MET 403*,Three Dimensional Modeling,,,,
+G,MET 404*,Digital Instrumentation,,,,
+G,MET 407,Manufacturing Processes,,X,,
+G,MET 408,MFG Information Management,,,X,
+G,MET 409*,Green Manufacturing,,,,
+G,MET 411*,Adv Computer Numerical Control,,,,
+G,MET 421,Senior Design Project I,X,,,
+G,MET 422,Senior Design Project II,,X,,
+G,MET 423,Senior Design Project III,,,X,
+B,MGMT 260,Intro to Entrepreneurship,X,X,X,X
+B,MGMT 363,Dir Study in Entrepreneurship,X,,X,
+B,MGMT 364,Technology Management,X,X,X,
+B,MGMT 365,Busn Plan for Entrepreneurs,X,X,X,X
+B,MGMT 366*,Entrepreneurship Cert Proj,,,,
+B,MGMT 450,Strategy & Competitive Advant,X,X,X,X
+B,MGMT 451,Management Simulation,X,X,X,X
+G,MHT 201*,Kinematics,,,,
+G,MHT 205,Thermodynamics I,,X,,
+G,MHT 206,Thermodynamics II,,,X,
+G,MHT 222,Applied Dynamics I,,X,,
+G,MHT 224*,Applied Dynamics II,,,,
+G,MHT 226,Measurement Lab,X,,,
+G,MHT 301,Fluid Mechanics I,,,X,
+G,MHT 314,Thermo and Heat Transfer Lab,,,X,
+G,MHT 401,Mechanical Design I,,X,,
+G,MHT 405,HVAC,,,,
+A,MIP 131,History of the Music Industry,X,,,
+A,MIP 133,Computer & Digital Apps I,X,,,
+A,MIP 161,Copyrights in the Music Ind,,X,X,
+A,MIP 170,Radio Management,,X,,
+A,MIP 179,Music Recording I,,X,,
+A,MIP 227,Listening Techniques in Music,,X,,
+A,MIP 233,Computer & Digital Appl II,,X,,
+A,MIP 239,Survey of Modern Pro Tech,,X,,
+A,MIP 262,Trademarks & Patents in the MI,,X,X,
+A,MIP 263,Media Promotion,,X,,
+A,MIP 271,The Recording Industry I,X,,,
+A,MIP 272,The Recording Industry II,,,X,
+A,MIP 279,Music Recording II,X,X,X,
+A,MIP 311,A & R in the Music Industry I,,X,,
+A,MIP 312,A & R in the Music Industry II,,,X,
+A,MIP 331,Music Venues and Concerts,,X,,
+A,MIP 333,Computer & Digital Apps III,,,X,
+A,MIP 341,Touring and Booking,,X,,
+A,MIP 343,MADKo Concert Promotions,X,X,X,
+A,MIP 361,The Publishing Industry,,X,,
+A,MIP 363,Legal Issues in the Music Ind,,,X,
+A,MIP 374,Entrepreneurship in the MI,,X,,
+A,MIP 375,Marketing and Promo in MI,X,,,
+A,MIP 377,Digital Label,X,X,X,
+A,MIP 379,Music Recording III,X,,,
+A,MIP 380,Special Topics in Music Ind,X,X,X,
+A,MIP 381,Audio for Video,X,,,
+A,MIP 382,Scoring to Picture,,,X,
+A,MIP 383,MAD Dragon Studios,X,X,X,
+A,MIP 384,Synthesis and Sampling,,X,,
+A,MIP 386,Commercial Music Production,,,X,
+A,MIP 387,Studio Maintenance & Assisting,,,X,
+A,MIP 388,Production Company Management,,,X,
+A,MIP 433,Computer & Digital Apps IV,,X,,
+A,MIP 440,L&B MAD Dragon,X,X,X,
+A,MIP 441,DraKo Booking,,X,,
+A,MIP 443,Entertainment Contracts I,,X,,
+A,MIP 444,MAD Dragon Records,X,X,X,
+A,MIP 445,MAD Dragon Publishing,X,X,X,
+A,MIP 453,Entertainment Contracts II,,,X,
+A,MIP 462,Global Issues in the Music Ind,X,,,
+A,MIP 464,Music Industry Cyberlaw,,,X,
+A,MIP 467,Artist Representation,X,,,
+A,MIP 468,Music Industry E-Commerce,,X,,
+A,MIP 477,Music Production,,X,,
+A,MIP 481,Mixing and Mastering,X,,,
+A,MIP 482,Recording Session,,,X,
+A,MIP 491,Senior Project in Music Ind,X,X,X,
+B,MIS 300,Management Information Systems,X,X,X,X
+B,MIS 341*,Microcomp Technol for Business,,,,
+B,MIS 342,Systems Analysis and Design,X,,X,
+B,MIS 343,Dbase Design & Implement,,X,,X
+B,MIS 344*,Netwkg Technol For Bus,,,,
+B,MIS 345*,Client/Svr Comptg For Bus,,,,
+B,MIS 346,MIS Strategy,X,,X,
+B,MIS 347,Dom & Global Outsrcing Mgmt,,X,,X
+B,MIS 348,VB Database Prog for Busn,X,,X,
+B,MIS 359,Information Systems Project,,X,,
+B,MKTG 301,Intro Marketing Mgmt,X,X,X,X
+B,MKTG 321,Sales Management,X,X,X,X
+B,MKTG 322,Adv & Integrated Mktg Comm,X,X,X,X
+B,MKTG 324,Mktg Chan & Distrib Sys,X,,,X
+B,MKTG 326,Marketing Research,,X,X,
+B,MKTG 344,Professional Personal Selling,X,X,X,X
+B,MKTG 347,New Product Development,X,X,X,
+B,MKTG 348,Services Marketing,X,X,X,X
+B,MKTG 351,Mktg For Non-Profit Orgs,,X,,
+B,MKTG 352*,Sales Promotion,,,,
+B,MKTG 353*,Business-to-Business Marketing,,,,
+B,MKTG 355,Interactive Marketing,,X,,X
+B,MKTG 356,Consumer Behavior,X,X,X,X
+B,MKTG 357,Global Marketing,X,X,X,X
+B,MKTG 362,Brand & Reputation Mgmt,,X,X,
+B,MKTG 363*,Brand & Reputation Mgmt Proj,,,,
+B,MKTG 380,Seminar in Marketing Strategy,X,X,X,
+A,MUSC 101,University Chorus,X,X,X,X
+A,MUSC 102,Chamber Singers,X,X,X,
+A,MUSC 105,Concert Band,X,X,X,X
+A,MUSC 106,Guitar Ensembles,X,X,X,X
+A,MUSC 107,Jazz Ensembles,X,X,X,X
+A,MUSC 109,String Ensembles,X,X,X,
+A,MUSC 110,Keyboard Ensembles,X,X,X,
+A,MUSC 111,Chamber Music Ensemble,X,X,X,
+A,MUSC 112,Fusion Band,X,X,X,
+A,MUSC 113,Percussion Ensembles,X,X,X,
+A,MUSC 115,Gospel Choir,X,X,X,X
+A,MUSC 120,Music Fundamentals,X,X,,
+A,MUSC 121,Music Theory I,X,X,X,X
+A,MUSC 122,Music Theory II,,X,X,X
+A,MUSC 123,Music Theory III,,,,X
+A,MUSC 125,Ear Training I,X,X,X,
+A,MUSC 126,Ear Training II,,X,X,
+A,MUSC 127,Ear Training III,,,X,
+A,MUSC 130,Introduction to Music,X,X,X,X
+A,MUSC 190,Class Piano I,X,X,X,X
+A,MUSC 191,Class Guitar I,X,X,X,X
+A,MUSC 192,Class Percussion I,X,,,
+A,MUSC 193,Class Voice I,X,,,
+A,MUSC 194,Class Bass I,X,X,,
+A,MUSC 195,Class Bass II,,,X,
+A,MUSC 229,Modern Arranging Techniques,X,X,X,
+A,MUSC 231,Music History I,X,,,
+A,MUSC 232,Music History II,,X,,
+A,MUSC 236,Rock Music Through the Mid-60s,X,,,
+A,MUSC 238,Rock Music Since the Mid-60s,,X,X,X
+A,MUSC 241,Applied Music,X,X,X,X
+A,MUSC 249,Digital Music Composition,X,,,
+A,MUSC 252,Music Composition,,,X,
+A,MUSC 290,Advanced Class Piano,X,X,X,X
+A,MUSC 291,Advanced Class Guitar,,X,X,X
+A,MUSC 300,Improvisation,,X,,
+A,MUSC 323,Songwriting,,,X,
+A,MUSC 331,World Musics,X,X,X,X
+A,MUSC 333,Afro-Amer Music USA,,,X,
+A,MUSC 336,History of Jazz,X,,,X
+A,MUSC 338,American Popular Music,X,,X,
+NH,NEUR 410,Neuroscience,,,X,
+NH,NFS 100,"Nutrition, Foods, and Health",X,X,X,X
+NH,NFS 101,Intro Nutrition & Food,X,X,X,X
+NH,NFS 111,Introduction to Dietetics,,,,AY
+NH,NFS 200*,Nutr I: Principles Nutrition,,,,
+NH,NFS 203*,Nutr II: Nutr In Life Cycle,,,,
+NH,NFS 215,Nutritional Chemistry,X,,,
+NH,NFS 216*,Nutrition and the Schoolchild,,,,
+NH,NFS 217,Nutrient Quality & Composition,X,,,
+NH,NFS 220,Normal & Lifespan Nutrition,,X,,X
+NH,NFS 230,Intermediate Nutrition,X,,X,
+NH,NFS 265,Prof Issues Nutr & Foods,,,X,
+NH,NFS 310,Nutrition and Sports,,,X,
+NH,NFS 315,Nutrition in Chronic Disease,,,,X
+NH,NFS 320,Pediatric Nutrition,,X,,
+NH,NFS 325*,Nutrition & Exercise Phys,,,,
+NH,NFS 345,Foods Nutr Of World Cultures,,,X,
+NH,NFS 365,Nutr Lab: Food/Nutrient Analy,,X,,
+NH,NFS 370,Foodservice Systems Mgmt,,,X,
+NH,NFS 371*,Institutional Organiz & Admin,,,,
+NH,NFS 391,Community Nutrition,X,,,
+NH,NFS 415,Adv Nutr I: Macronutrient,X,,,
+NH,NFS 416,Adv Nutr II: Micronutr & Ctrl,,X,,
+NH,NFS 431,Nutrition Counseling,,X,,
+NH,NFS 443,Medical Nutrition Therapy I,X,,,
+NH,NFS 444,Medical Nutrition Therapy II,,X,,
+NH,NFS 445,Medical Nutrition Therapy III,,,X,
+NH,NFS 446,Perspectives World Nutrit,X,,,
+NH,NFS 475*,Adv Seminar Dietetcs Prof,,,,
+NH,NFS 494,Senior Project I,X,,,
+NH,NFS 495,Senior Project II,,X,,
+NH,NFS 496,Senior Project III,,,X,
+NH,NFS 497,Research,X,X,X,X
+NH,NURS 100*,Nursing in Society,,,,
+NH,NURS 101*,Ethic Advoc & Prof in Nurs I,,,,
+NH,NURS 102,Health Promotion,X,,,
+NH,NURS 103,Ethic Advoc & Prof in Nurs II,X,,,
+NH,NURS 104,Ethic Advoc & Prof in Nurs III,,X,,
+NH,NURS 110,Essen Rel-Based Prof Nurs Prac,X,,X,
+NH,NURS 112,Rel-Based Hlth Assess & Promo,X,,X,
+NH,NURS 200,Principles of Nursing Practice,X,,X,
+NH,NURS 201,Health Assess Across Lifespan,X,,X,
+NH,NURS 300,Comprehensive Adult Nursing I,,X,,X
+NH,NURS 301,Pharmacology for Nursing I,,X,,X
+NH,NURS 303,Women's Health Nursing,X,X,X,X
+NH,NURS 304,Nursing of Children,X,X,X,X
+NH,NURS 305,Comprehnsv Adult Nursing II,X,X,X,X
+NH,NURS 306,Pharmacology for Nursing II,,X,,X
+NH,NURS 308,Mental Health Nursing,X,X,X,X
+NH,NURS 325,Critical Issues in Nursing,X,X,X,
+NH,NURS 330,Research Basis of Nursing,X,X,X,X
+NH,NURS 336,Alternatv & Complmt Hlth Intrv,X,,X,
+NH,NURS 337,Genetics in Nursing and Health,X,X,X,X
+NH,NURS 339,Pathophysiology,X,,X,
+NH,NURS 340,Transformational Leadership,,X,,X
+NH,NURS 346,Health Assessment,X,X,X,X
+NH,NURS 370,Issues in Aging and Longevity,,X,X,X
+NH,NURS 375,Nurses Building a Healthy Comm,X,X,X,X
+NH,NURS 388,Nursing Case Study I,,X,,X
+NH,NURS 400,Ldrshp Mgmt & Entrep in Nurs,,X,,X
+NH,NURS 401,Comp Adult Nursing III,X,X,,X
+NH,NURS 403,Communty Publ Hlth Nursing,X,X,X,X
+NH,NURS 404,Nurs Informatics for BSN Compl,,,,
+NH,NURS 450,Contemp Gerontolog Nursing,,X,X,X
+NH,NURS 460,Global Health & Policy Issues,,X,,X
+NH,NURS 462,"Science, Technology and Health",X,,X,
+NH,NURS 464,Sr Concentration in Nursing,,X,,X
+NH,NURS 465,Senior Thesis in Nursing,X,X,X,X
+NH,NURS 480,Special Topics in Nursing,X,X,X,X
+NH,NURS 481,End of Life Care,,X,,X
+NH,NURS 482,Cult Dimensions of Nurs Care,X,,X,
+NH,NURS 488,Nursing Case Study II,,X,,X
+NH,NURS 489,Synthesis of Nursing Knowledge,,X,X,
+NH,NURS 490,Sr Project in Nursing,X,,,
+NH,NURS 491,Sr Project in Nursing II,,X,,
+NH,NURS 492,Sr Seminar in Nursing,X,X,X,X
+B,OPM 300,Operations Management,X,X,X,X
+B,OPM 315,Service Operations Management,,X,,X
+B,OPM 321,Planning and Control of Oper,X,,X,
+B,OPM 325,Adv Planning & Cntrl of Oper,,X,,X
+B,OPM 341,Supply Chain Management,,,X,
+B,OPR 320,Linear Mod for Decision Making,X,,X,
+B,OPR 330,Adv Decision Making/Simulation,,X,,
+B,ORGB 300,Organizational Behavior,X,X,X,X
+B,ORGB 420,Negotiations & Conflict Resol,,X,,
+B,ORGB 498,Spec Topics in Org Behavior,AN,AN,AN,AN
+AS,PHEV 145,Weather I: Climate & Global,X,X,X,
+AS,PHEV 146,Weather II: Analysis/Forecast,X,X,X,
+NH,PHGY 325,Physiology,X,X,X,X
+NH,PHGY 382,Pathophysiology for Hlth Prof,,,,X
+AS,PHIL 101,Intro to Western Philosophy,X,X,X,X
+AS,PHIL 102,Intro to Eastern Philosophy,X,,X,
+AS,PHIL 105,Critical Reasoning,X,X,X,X
+AS,PHIL 107,Phil & Knowledge Organization,X,,,
+AS,PHIL 111,Prop (zero-order) Logic,X,X,X,X
+AS,PHIL 201,Hist Of Western Philos I,X,,,
+AS,PHIL 202,Hist Of Western Philos II,,,X,
+AS,PHIL 203,Hist Of Western Philos III,X,,,
+AS,PHIL 207,Predicate (first-order) Logic,X,X,X,X
+AS,PHIL 210,Philosophy of Sport,,X,,
+AS,PHIL 211,Metaphysics,,X,,X
+AS,PHIL 221,Epistemology,X,,X,
+AS,PHIL 231,Aesthetics,,X,,X
+AS,PHIL 241,Social & Political Philos,,X,,
+AS,PHIL 251,Ethics,X,X,X,X
+AS,PHIL 255,Philosophy of Sex & Love,X,X,X,
+AS,PHIL 301,Business Ethics,X,,X,
+AS,PHIL 305,Communication Ethics,X,,X,
+AS,PHIL 311,Computer Ethics,X,X,X,X
+AS,PHIL 315,Engineering Ethics,X,X,X,X
+AS,PHIL 317*,Ethics and Design Professions,,,,
+AS,PHIL 321,Biomedical Ethics,,X,X,
+AS,PHIL 322*,Ethics of Human Enhancement,,,,
+AS,PHIL 323,Organizational Ethics,,X,,
+AS,PHIL 325,Ethics in Sports Management,,,X,
+AS,PHIL 330,Ethical Issues in Crim Justice,,,X,
+AS,PHIL 335,Global Ethical Issues,,,X,
+AS,PHIL 341,Philosophy of the Environment,,AY,,
+AS,PHIL 351,Philosophy of Technology,,AY,,
+AS,PHIL 355,Philosophy of Medicine,X,,,
+AS,PHIL 361,Philosophy of Science,,X,,X
+AS,PHIL 371,Philosophy of Social Sciences,,,AY,
+AS,PHIL 381,Philosophy in Literature,,,X,
+AS,PHIL 385,Philosophy of Law,X,,,
+AS,PHIL 391,Philosophy of Religion,,,X,
+AS,PHIL 395,Advanced Topics in Logic,AN,AN,AN,AN
+AS,PHIL 421,Seminar in Ancient Philosophy,AY,,,
+AS,PHIL 425,Seminar in Medieval Philosophy,,AY,,
+AS,PHIL 431,Sem Rationalism & Empiricism,,,AY,
+AS,PHIL 461,Seminar in Contemporary Phil,AY,,,
+AS,PHIL 465,Seminar in American Philosophy,,AY,,
+AS,PHIL 475,Special Problems in Philosophy,AN,AN,AN,AN
+AS,PHIL 481,Sem in a Philosophical School,,,AY,
+AS,PHIL 485,Seminar in a Major Philosopher,,,AY,
+AS,PHIL 497,Senior Essay I: Res & Thesis,AN,,,
+AS,PHIL 498,Sen Essay II: Argument Constr,,AN,,
+AS,PHIL 499,Senior Essay III: Defense,,,AN,
+A,PHTO 110,Photography,X,X,X,X
+A,PHTO 115*,Photographic Principles,,,,
+A,PHTO 140,Digital Photography I,,,X,
+A,PHTO 210,Intermediate Photography,X,X,X,
+A,PHTO 231,Color Photography,,,X,
+A,PHTO 233,Large Format Photography,X,,,
+A,PHTO 234,Studio Photography,,,,X
+A,PHTO 236,Photojournalism,,X,,
+A,PHTO 240,Digital Photography II,,X,,
+A,PHTO 253,Fine Black & White Printing,X,,,
+A,PHTO 275,History of Photography I,,X,,
+A,PHTO 276,History of Photography II,,,X,
+A,PHTO 291,Internship,,X,,
+A,PHTO 334,Advanced Studio Photography,X,,X,
+A,PHTO 335,Portraiture,,,X,
+A,PHTO 350,Photography and Culture,,X,,
+A,PHTO 361,Advanced Photography,X,,,X
+A,PHTO 392,Junior Project in Photography,,X,X,
+A,PHTO 450,Self Promo for Photographers,,X,,
+A,PHTO 451,Photography and Business,X,,,
+A,PHTO 452,Hist Contemporary Photography,X,,,
+A,PHTO 492,Senior Thesis I,X,,,
+A,PHTO 493,Senior Thesis II,,X,,
+A,PHTO 495,Senior Thesis III,,,X,
+AS,PHYS 100,Prep for Engineering Studies,X,X,X,X
+AS,PHYS 101,Fundamentals of Physics I,X,X,X,X
+AS,PHYS 102,Fundamentals of Physics II,X,X,X,X
+AS,PHYS 103,General Physics I,X,,,
+AS,PHYS 104,General Physics II,,X,,
+AS,PHYS 105,Computational Physics I,,,X,
+AS,PHYS 106,The Physics of High Fidelity,,X,,
+AS,PHYS 113,Contemporary Physics I,X,,,
+AS,PHYS 114,Contemporary Physics II,,X,,
+AS,PHYS 115,Contemporary Physics III,,,X,
+AS,PHYS 121,Physical Science for Design I,X,,,
+AS,PHYS 122,Physical Science for Design II,,X,,
+AS,PHYS 131,Survey of the Universe,X,X,X,X
+AS,PHYS 135,How Things Work,X,X,X,X
+AS,PHYS 137,Issues in Science and Religion,,,X,
+AS,PHYS 151,Applied Physics,X,X,X,
+AS,PHYS 152,Introductory Physics I,X,,X,
+AS,PHYS 153,Introductory Physics II,,X,,X
+AS,PHYS 154,Introductory Physics III,X,,X,
+AS,PHYS 160,Intro to Scientific Computing,X,,X,
+AS,PHYS 181,Astronomy,X,X,X,
+AS,PHYS 182,Applied Physics I,X,,,
+AS,PHYS 183,Applied Physics II,,X,,
+AS,PHYS 184,Applied Physics III,,,X,
+AS,PHYS 185,Fundamentals of Phys Lec I,X,X,X,X
+AS,PHYS 186,Fundamentals of Phys Lab I,X,,,
+AS,PHYS 188,Fundamentals of Phys Lab II,,X,,
+AS,PHYS 189,Fundamentals of Phys Lec II,X,X,X,X
+AS,PHYS 201,Fundaments of Physics III,X,X,X,X
+AS,PHYS 202,Fundamentals of Physics IV,,X,,X
+AS,PHYS 217,Thermodynamics,X,,,
+AS,PHYS 223,Modern Physics Laboratory,,X,,
+AS,PHYS 226,Instrument Scientists I,AY,,,
+AS,PHYS 227,Instrument Scientists II,,AY,,
+AS,PHYS 231,Introductory Astrophysics,,AY,,
+AS,PHYS 232,Observational Astrophysics,AY,,,
+AS,PHYS 280,Fundamentals of Phys Lec III,X,X,X,X
+AS,PHYS 282,Fundamentals of Phys Lab III,,,X,
+AS,PHYS 305,Computational Physics II,,X,,
+AS,PHYS 306,Computational Physics Lab I,,AY,,
+AS,PHYS 307,Computational Phys Lab II,,AY,,
+AS,PHYS 311,Classical Mechanics I,X,,,
+AS,PHYS 312,Classical Mechanics II,,X,,
+AS,PHYS 317,Statistical Mechanics,,AY,,
+AS,PHYS 321,Electromagnetic Fields I,AY,,,
+AS,PHYS 322,Electromagnetic Fields II,,AY,,
+AS,PHYS 324,Topics in Mathematical Physics,,X,,
+AS,PHYS 326,Quantum Mechanics I,AY,,,
+AS,PHYS 327,Quantum Mechanics II,,AY,,
+AS,PHYS 328,Advanced Laboratory,,AY,,
+AS,PHYS 405,Advanced Computational Physics,X,,,
+AS,PHYS 408,Physics Seminar,X,X,X,
+AS,PHYS 409,Astrophysics Seminar,AN,AN,AN,AN
+AS,PHYS 428,Quantum Mechanics III,AY,,,
+AS,PHYS 431,Galactic Dynamics,AY,,,
+AS,PHYS 432,Cosmology,,AY,,
+AS,PHYS 451,Quantum Structure of Materials,X,,,
+AS,PHYS 452,Solid State Physics,AY,,,
+AS,PHYS 453,Nanoscience,,AY,,
+AS,PHYS 461,Biophysics,AY,,,
+AS,PHYS 462,Computational Biophysics,,AY,,
+AS,PHYS 463,Single Molecule Methods,,,AY,
+AS,PHYS 471,Nonlinear Dynamics,,AY,,
+AS,PHYS 476,Nuclear and Particle Physics,AY,,,
+AS,PHYS 491,Senior Research I,X,,,
+AS,PHYS 492,Senior Research II,,X,,
+AS,PHYS 493,Senior Research III,,,X,
+G,PRMT 110,Intro to Property Management,X,,X,
+G,PRMT 210,Rental Prop & Fair Housing Law,,X,X,
+G,PRMT 215,Building Systems for PRMT I,,X,,
+G,PRMT 216,Building Systems for PRMT II,,X,,
+G,PRMT 225,Techn Drawings for Prop Mgrs,,,X,
+G,PRMT 310,Property Financing & Valuation,,X,X,
+G,PRMT 315*,Property Risk Management,,,,
+G,PRMT 320*,Sustainable Property Mgt,,,,
+G,PRMT 325,HR Strat Prop Mg,,,X,
+G,PRMT 330*,Property Management Technology,,,,
+G,PRMT 333*,Social Resp for Prop Mgrs,,,,
+G,PRMT 335,Mktg Leas Res Pro,,X,,
+G,PRMT 340,Mng Mkt Retl Prop,X,,,
+G,PRMT 341,Mng & Mktg Ofc Buildings,,X,,
+G,PRMT 342,Mng & Mktg Industrial Prop,,,X,
+G,PRMT 345,Mg Mkt Hous Aging,,,X,
+G,PRMT 350,Affordable Housing Management,,X,,
+G,PRMT 355,Student Housing Management,,,X,
+G,PRMT 356,Military Housing Management,,,X,
+G,PRMT 360*,Managing & Mkt Commercial Pro,,,,
+G,PRMT 363,Commercial Property Fin Rprts,,X,,
+G,PRMT 365*,Commercial Property Appraisal,,,,
+G,PRMT 491*,Senior Project in Property Mgt,,,,
+A,PROD 101,History & Analysis of Prod Des,X,,,
+A,PROD 205,Applied Making I,X,,,
+A,PROD 210,Applied Making II,X,,,
+A,PROD 215*,Design Thinking in PROD,,,,
+A,PROD 220,Product Design Form Studio,,X,,
+A,PROD 225,Computer Aided Imagining in PD,,,X,
+A,PROD 230,Product Design Process Studio,,,X,
+A,PROD 235,Applied Design Visualization,X,,,
+A,PROD 245,Seminar Professional Landscape,,,,X
+A,PROD 255,Applied Materials in Pro Des,,,,X
+A,PROD 340,Interdisciplinary PROD Studio,X,,,
+A,PROD 345,Applied Human Centered Design,,X,,
+A,PROD 350*,Sponsored PROD Studio,,,,
+A,PROD 425,Applied Design Research,X,,,
+A,PROD 460,Research Synthesis Studio,X,,,
+A,PROD 470,Create Build Studio,,X,,
+A,PROD 475,Professional Practice PROD,,,X,
+A,PROD 480,Exhibition Studio,,,X,
+G,PRST 211,Computer Apl for Professionals,X,X,X,
+G,PRST 212,Creative Studies in the WWW,,X,X,
+G,PRST 303,Virtual Teams,,X,,
+G,PRST 330,Career & Professional Dvlpmnt,,,X,X
+G,PRST 440,Policy Analysis,,,X,
+G,PRST 450,Creative Leadership for Profls,X,X,,
+G,PRST 491*,Professional Portfolio I,,,,
+G,PRST 492*,Professional Portfolio II,,,,
+AS,PSCI 100,Intro Political Science,X,X,X,X
+AS,PSCI 110,American Government I,X,X,X,X
+AS,PSCI 120,History of Political Thought,X,,X,
+AS,PSCI 130,Research Methods in PSCI I,,,X,
+AS,PSCI 140,Intro Comp Political Analysis,,X,,X
+AS,PSCI 150,International Politics,X,X,X,X
+AS,PSCI 211,American Government II,X,,X,
+AS,PSCI 220,Constitutional Law I,,X,,
+AS,PSCI 230,Research Methods in PSCI II,,X,,
+AS,PSCI 240,Comparative Government,,X,,
+AS,PSCI 250,American Foreign Policy,X,,X,
+AS,PSCI 255*,International Political Econ,,,,
+AS,PSCI 270,Prob Indv Liberty v Govt Auth,,X,,
+AS,PSCI 313*,State & Local Government,,,,
+AS,PSCI 323,Comparative Political Thought,X,,X,
+AS,PSCI 329,Theories of Justice,X,,,
+AS,PSCI 330,Public Opinion & Propaganda,,,X,
+AS,PSCI 331,Environmental Politics,X,,,
+AS,PSCI 344,Intro to 20th Cent Middle East,,,X,
+AS,PSCI 345,Compar Politics Middle East,X,,,
+AS,PSCI 351,International Organizations,,X,,
+AS,PSCI 352,Ethics and Intl Relations,,,,X
+AS,PSCI 353,International Human Rights,X,,,
+AS,PSCI 354*,US & the Third World,,,,
+AS,PSCI 357*,The European Union,,,,
+AS,PSCI 358*,Political Economy of Japan,,,,
+AS,PSCI 363,Constitutional Law II,X,,,
+AS,PSCI 364*,Constitutional Law III,,,,
+AS,PSCI 370*,Topics in Public Policy,,,,
+AS,PSCI 371*,"Science, Tech, & Public Polcy",,,,
+AS,PSCI 372*,City in US Political Devlpmnt,,,,
+AS,PSCI 374*,Politics of Sport,,,,
+AS,PSCI 492*,PSCI Honors Thesis I,,,,
+AS,PSCI 493*,PSCI Honors Thesis II,,,,
+AS,PSY 101,General Psychology I,X,X,X,X
+AS,PSY 111,Preprofessional Gen Psych I,X,,,
+AS,PSY 112,Preprofessional Gen Psych II,,X,,
+AS,PSY 120,Developmental Psychology,X,X,X,X
+AS,PSY 140,Approaches to Personality,X,X,X,X
+AS,PSY 150,Intro Social Psychology,X,X,X,X
+AS,PSY 212,Physiological Psychology,X,,X,
+AS,PSY 213,Sensation and Perception,X,,X,
+AS,PSY 222,Psych Probs Modern Youth,X,,,
+AS,PSY 225,Child Psychopathology,,X,X,
+AS,PSY 230,Psychology of Learning,X,X,X,X
+AS,PSY 240,Abnormal Psychology,X,X,X,X
+AS,PSY 242,Psychology of Disability,,X,X,
+AS,PSY 244*,Culture and Personality,,,,
+AS,PSY 245,Sports Psychology,,,X,
+AS,PSY 250,Industrial Psychology,,X,,
+AS,PSY 252,Death and Dying,X,,X,
+AS,PSY 254,Psychology of Sexual Behavior,X,X,X,
+AS,PSY 260,Psychological Research I,X,X,X,
+AS,PSY 305,Sci/Pseudoscience in Psych,X,,,
+AS,PSY 310,Drugs & Human Behavior,X,X,X,X
+AS,PSY 320,Educational Psychology,X,,,X
+AS,PSY 322,Adv Developmental Psych,,X,,
+AS,PSY 330,Cognitive Psychology,X,X,X,
+AS,PSY 332,Human Factors & Cognitive Engr,,X,,
+AS,PSY 336,Psychology of Language,,,X,
+AS,PSY 337,Human-Computr Interaction,X,,X,
+AS,PSY 340,Psych Testing/Assessment,X,X,X,X
+AS,PSY 342,Counseling Psychology,X,X,X,
+AS,PSY 345*,Narrative Psychology,,,,
+AS,PSY 350,Advanced Social Psychology,,X,,
+AS,PSY 352*,Environmental Psychology,,,,
+AS,PSY 355,Health Psychology,X,,,
+AS,PSY 356,Women's Health Psychology,X,,,
+AS,PSY 357,The Psychology of Eating,X,,X,
+AS,PSY 360,Experimental Psychology,X,X,X,X
+AS,PSY 364,Computer-Assist Data Analy I,X,X,X,X
+AS,PSY 365,Computer-Assist Data Analy II,X,X,X,X
+AS,PSY 368,Critical Psychology,,X,,
+AS,PSY 370,Forensic Psychology,,X,,X
+AS,PSY 401,History Systems Psych,X,,X,X
+AS,PSY 410,Neuropsychology,X,,X,
+AS,PSY 442,Theors & Practice Clin Psych,,,X,
+AS,PSY 450,Autism Spectrum Disorders,,,X,
+AS,PSY 490,Psych Senior Thesis I,X,,,
+AS,PSY 491,Psych Senior Thesis II,,X,,
+AS,PSY 492,Psych Senior Thesis III,,,X,
+NH,RADI 100,Intro to Radiologic Technology,X,,,
+NH,RADI 102,Intro to Radiologic Prin II,,X,,
+NH,RADI 132,Radiologic Physics I,,,X,
+NH,RADI 133,Radiologic Physics II,,,,X
+NH,RADI 150,Prin of Rad Exposure I,X,,,
+NH,RADI 153,Prin of Rad Exposure II,,X,,
+NH,RADI 154,Radiographic Exposure III,,,X,
+NH,RADI 164,Radiologic Procedures I,X,,,
+NH,RADI 165,Radiographic Procedures II,,X,,
+NH,RADI 166,Radiographic Procedures III,,,X,
+NH,RADI 193,Methods of Patient Care I,X,,,
+NH,RADI 194,Methods of Patient Care II,,X,,
+NH,RADI 195,Clinical Practicum I,X,,,
+NH,RADI 196,Clinical Practicum II,,X,,
+NH,RADI 197,Clinical Practicum III,,,X,
+NH,RADI 198,Clinical Practicum IV,,,,X
+NH,RADI 200,Radiologic Procedures IV,X,,,
+NH,RADI 201,Medical Imaging,,X,,
+NH,RADI 202,Radiologic Procedures V,,,X,
+NH,RADI 203,Principles of Exposure IV,X,,,
+NH,RADI 204,Principles of Rad Protection,,X,,
+NH,RADI 215,Radiation Biology,X,,,
+NH,RADI 221,Quality Assurance,,,X,
+NH,RADI 222,Pathology,,X,,
+NH,RADI 223,Registry Review,,,X,
+NH,RADI 291,Clinical Practicum V,X,,,
+NH,RADI 292,Clinical Practicum VI,,X,,
+NH,RADI 293,Clinical Practicum VII,,,X,
+G,REAL 310,Introduction to Real Estate,X,X,X,
+G,REAL 320,Real Estate Law Princ & Pract,X,,X,
+G,REAL 330,Facilities & Property Mngt,,X,,X
+G,REAL 470,RE Invest & Mkt & Feas Anal,,,X,
+G,REAL 471,Adv Real Estate Invest & Anal,X,,,
+G,REAL 472,Adv Mkt Research & Analysis,,X,,
+G,REAL 473,Sales & Mktg of Real Estate,,,X,
+G,REAL 474,Real Estate Econ in Urban Mkts,X,,,
+G,REAL 475,Real Estate Finance,,X,,
+G,REAL 476,Real Estate Valuation & Anal,,,X,
+G,RETL 315,Power of Retail Brands,X,,,
+G,RETL 325,In-Store Vis Str,,X,,
+G,RETL 400,Retail Leadership Capstone,,,X,
+AS,RUSS 101,Russian I,X,X,X,X
+AS,RUSS 102,Russian II,X,X,X,X
+AS,RUSS 103,Russian III,X,X,X,X
+AS,RUSS 201,Russian IV,X,X,X,X
+AS,RUSS 202,Russian V,X,X,X,X
+AS,RUSS 203,Russian VI: Convrs & Comp,X,X,X,X
+AS,RUSS 301,Russian VII,X,X,X,X
+AS,RUSS 302,Russian VIII,X,X,X,X
+AS,RUSS 303,Russian IX,X,X,X,X
+AS,RUSS 411,Intro Russian Stylistics,X,,,
+AS,RUSS 431,Intro Russian Literature,,X,,
+AS,RUSS 451,Intro Bus & Prof Russian,,,X,
+AS,RUSS 480,Russian Minor Thesis Course,AN,AN,AN,AN
+A,SCRP 220,Playwriting I,X,,,
+A,SCRP 225,Playwriting II,,X,,
+A,SCRP 241,Writing TV Comedy,,X,,
+A,SCRP 242,Writing TV Drama,,,X,
+A,SCRP 250,Creating Stand-up Comedy,,X,,
+A,SCRP 270,Screenwriting I,X,X,X,
+A,SCRP 275,Screenwriting II,X,X,X,
+A,SCRP 280,Writing the Short Film,X,X,X,
+A,SCRP 310,Literature for Screenwriters,,X,,X
+A,SCRP 350,Writing the TV Comedy Series,,,X,
+A,SCRP 353,Writing the TV Drama Series,,,X,
+A,SCRP 370,Screenplay Story Development,X,,X,
+A,SCRP 380,Screenwriting Workshop I,X,X,X,X
+A,SCRP 381,Screenwriting Workshop II,X,X,X,X
+A,SCRP 382,Playwriting Workshop I,,,X,X
+A,SCRP 383,Playwriting Workshop II,,,X,X
+A,SCRP 495,SCRP Senior Proj I,X,,X,X
+A,SCRP 496,SCRP Senior Proj II,X,X,,X
+E,SE 101,Foundations of SE I,X,,,
+E,SE 102,Foundations of SE II,,X,,
+E,SE 103,Foundations of SE III,,,X,
+E,SE 310,Software Architecture I,X,,,
+E,SE 311,Software Architecture II,,X,,
+E,SE 320,Software Verif and Validation,X,,,
+G,SMT 101,Principles of Coaching,X,,,X
+G,SMT 102,Principles of Coaching II,,X,,
+G,SMT 110,The Business of Sport,X,,,X
+G,SMT 152,Leadership in Sports & Society,X,,,X
+G,SMT 200,Intro to Facility/Event Mgmt,,X,,
+G,SMT 201,"Sports Mktg., Promo. and P.R.",X,,,
+G,SMT 203,Sports Conditioning,,,X,
+G,SMT 205,Sports Information,X,,,
+G,SMT 210,Prevnt/Care Athletic Injuries,,,X,X
+G,SMT 215,Sports Ticket Sales & Oper,,X,,
+G,SMT 220,"Recreation, Wellness & Society",,,AY,
+G,SMT 225,Sports Budgeting,,X,,
+G,SMT 230,Sports and the Law,X,,,
+G,SMT 235,Sports Admin and Governance,,AY,,
+G,SMT 240,Olympic Games,,AY,AY,
+G,SMT 245,NCAA Compliance,,AY,,
+G,SMT 250,Technology and Sport,X,,,
+G,SMT 254,Women & Minority Opps in Sport,,AY,,
+G,SMT 255,Legal Foundations of Title IX,,AY,,
+G,SMT 260,Sports Agents & Labor,,AY,,
+G,SMT 270,Sports Facility Management,,,AY,
+G,SMT 275,Sports Event Management,,,AY,
+G,SMT 300,Quant Analy/Stats for Sports,,X,,
+G,SMT 305,Fundraising in Sports,,X,,
+G,SMT 307,Corp Sponsorship in Sports,,,X,
+G,SMT 309,Capital Campaigns in Athletics,,,AY,
+G,SMT 310,Sports Contracts,,AY,,
+G,SMT 315,Sports Publications & Graphics,,,X,
+G,SMT 320,Economic Aspects of Sport Mgmt,,X,,
+G,SMT 337,Risk Management in Sports,,AY,,
+G,SMT 340,International Aspects of Sport,,,X,
+G,SMT 345,Fan Experience Management,,X,,
+G,SMT 347,Sport Tourism,X,,,
+G,SMT 401,Professional Portfolio,,,AY,
+G,SMT 475,Sports Industry Practicum,X,X,X,X
+AS,SOC 101,Introduction to Sociology,X,X,X,X
+AS,SOC 110,Sociology of the Future,,X,X,
+AS,SOC 115,Social Problems,X,X,X,X
+AS,SOC 120,Sociology of the Family,,X,X,
+AS,SOC 125,Sociology of Aging,,X,X,X
+AS,SOC 137,Issues in Science and Religion,,,AY,
+AS,SOC 150,Sex and Society,,,,X
+AS,SOC 204,Criminology,X,X,X,X
+AS,SOC 210,Race and Ethnic Relations,X,X,X,X
+AS,SOC 215,Industrial Sociology,,X,,
+AS,SOC 220,Wealth and Power,X,X,X,X
+AS,SOC 225,Soc of Technology & Aging,,AY,,
+AS,SOC 230,Women & Men-Changing Soc,X,,X,
+AS,SOC 235,Sociology of Health,X,,,X
+AS,SOC 240,Urban Sociology,X,X,X,X
+AS,SOC 250,Research Methods I,X,X,X,X
+AS,SOC 260,Classical Social Theory,X,X,X,X
+AS,SOC 268,Sociology of Sport,,AY,,AY
+AS,SOC 274,"Sex,Violence & Crime-Internet",,X,,
+AS,SOC 275,Issues in Domestic Violence,,,X,
+AS,SOC 276,Introduction to Computer Crime,X,,,
+AS,SOC 277,Intro-Correctional Practices,,,X,
+AS,SOC 310,Topics in Political Sociology,X,X,X,X
+AS,SOC 311,Soc of Religion,,X,,
+AS,SOC 312,Topics in Soc of Sci and Tech,,AY,,
+AS,SOC 320,Sociology of Deviant Behavior,X,X,X,X
+AS,SOC 330,Dev Nations/Intnt'l Div Labor,,X,,X
+AS,SOC 335,Sociology of Education I,,,X,
+AS,SOC 340,Globalization,X,,X,
+AS,SOC 341,Environ Movements in America,AY,,,
+AS,SOC 344,Social Movements,,AY,,
+AS,SOC 345,Sociology of the Environment,,X,,
+AS,SOC 346,Environmental Justice,,,AY,
+AS,SOC 347,Intro to Environ Policy Analy,,AY,,
+AS,SOC 350,Research Methods II,,X,X,
+AS,SOC 364,Cmptr-Assist Data Anlys I,X,X,X,X
+AS,SOC 370,Practicum Appl/Commun Soc,X,X,X,X
+AS,SOC 373,Environmental Crimes,X,,,
+AS,SOC 374,Restorative Justice,X,,,
+AS,SOC 376,Sentencing,,X,,
+AS,SOC 377,Intellectual Property Theft,,,X,
+AS,SOC 395,Seminar in Sociology,X,,,
+AS,SOC 435,Seminar - Organ of Amer States,,X,,
+AS,SOC 460,Contemporary Social Theory,,X,X,
+AS,SOC 470,Social Change & Planning,,,X,
+AS,SPAN 101,Spanish I,X,X,X,X
+AS,SPAN 102,Spanish II,X,X,X,X
+AS,SPAN 103,Spanish III,X,X,X,X
+AS,SPAN 201,Spanish IV,X,X,X,X
+AS,SPAN 202,Spanish V,X,X,X,X
+AS,SPAN 203,Spanish VI: Convrs & Comp,X,X,X,X
+AS,SPAN 311,Intro Spanish Stylistics,X,X,X,X
+AS,SPAN 312,Spanish Stylistics,X,X,X,X
+AS,SPAN 332,St Spanish/Span Amer Lit,,,,X
+AS,SPAN 333,Adv Spanish/Span Am Lit,X,,,
+AS,SPAN 351,Intro Bus & Prof Spanish,,X,,
+AS,SPAN 371,Spec St Spanish Civil & Cult,,,X,
+AS,SPAN 411,Spec St Adv Spanish Stylistics,,X,,
+AS,SPAN 431,Spec St Adv Spanish Lit,,,X,
+AS,SPAN 451*,Sp St Adv Bus/Prof Spanish,,,,
+AS,SPAN 471,Spec St Spanish Civilization,X,,,
+AS,SPAN 480,Spanish Minor Thesis Course,AN,AN,AN,AN
+B,STAT 201,Intro to Business Statistics,X,X,X,X
+B,STAT 202,Business Statistics II,X,X,X,
+B,STAT 205,Statistical Inference I,X,,X,
+B,STAT 206,Statistical Inference II,,X,,X
+B,STAT 261,Statistics I,X,,,
+B,STAT 262,Statistics II,,X,,
+B,STAT 263,Statistics III,,,X,
+B,STAT 325,6-Sigma Quality Implementation,,,X,
+NH,STS 345,Stats for the Health Sciences,X,X,X,X
+NH,STS 350,Adv Stats for Clinical Science,,X,X,
+B,TAX 341,Individual Income Taxes,X,X,X,X
+B,TAX 342,Business Income Taxes,,X,,
+A,THTR 110,Voice and Articulation,,X,,
+A,THTR 115,Theatrical Experience,X,X,X,
+A,THTR 116,Philadelphia Theatre Let's Go!,,X,,
+A,THTR 121,Dramatic Analysis,X,,,
+A,THTR 131,Theatre Performance Practicum,X,X,X,X
+A,THTR 132,Theatre Production Practicum,X,X,X,X
+A,THTR 210,Acting: Fundamentals,X,X,X,X
+A,THTR 211,Acting: Scene Study,X,,X,
+A,THTR 212,Sketch Comedy,,,X,
+A,THTR 221,Theatre History I,,,X,
+A,THTR 222,Theatre History II,,X,,
+A,THTR 240,Theatre Production I,X,,X,
+A,THTR 260,Production Design,,X,,
+A,THTR 320,Play Direction,X,,X,
+A,THTR 360,Lighting Design,X,X,,
+A,TVIE 180,TV Industry Overview,,,X,
+A,TVIE 280,Research Sales Prog,X,,,
+A,TVIE 285,Media Law and Ethics,,X,,
+A,TVIE 290,Intro to Money & the Media,,,X,
+A,TVIE 365,Special Topics: TVIE,,,,
+A,TVIE 390,Practicum: Promotions,,X,,
+A,TVIE 391,Practicum: Programming,X,,,
+A,TVIE 392,Practicum: New Media Mngmt,,X,,
+A,TVIE 480,TV Professions & Business,X,,,
+A,TVIE 495,SrProject: TVIE I,X,,,
+A,TVIE 496,SrProject: TVIE II,X,,,
+A,TVIE 497,SrProject: TVIE III,X,,,
+A,TVIT 270,Digital Content Delivery,,,X,
+A,TVIT 275,Introduction to IT for TV,X,,,
+A,TVIT 370,Monetizing TV Web Content,X,,,
+A,TVIT 375,Web Streaming Poject,X,,,
+A,TVPR 100,TV Studio: Basic Operations,X,X,,
+A,TVPR 200,TV Studio: Live Directing,X,X,,
+A,TVPR 201,TV Studio: Comedy,,,X,
+A,TVPR 202,TV Studio: Drama,,,X,
+A,TVPR 205,TV Studio: Adv Live Directing,,,X,
+A,TVPR 212,TV Commercials and Promos,X,,,
+A,TVPR 220,TV News Writing,,X,,
+A,TVPR 221,TV News Production,,,X,
+A,TVPR 230,TV Field: Drama,,,X,
+A,TVPR 232,TV Field: Industrials,,,X,
+A,TVPR 236,TV Field: Nonfiction,,,X,
+A,TVPR 240,Producing for Television,X,,,
+A,TVPR 242*,TV On-Camera Performance,,,,
+A,TVPR 315,Episodic Webisode Production,,X,,
+A,TVPR 340,Remote TV Production,X,,,
+A,TVPR 347*,Advanced TV Lighting,,,,
+A,TVPR 348*,TV Directing Workshop,,,,
+A,TVPR 351,TV Comedy Series I,,X,,
+A,TVPR 352,TV Comedy Series II,,,X,
+A,TVPR 354,TV Drama Series I,X,,,
+A,TVPR 355,TV Drama Series II,,X,,
+A,TVPR 356,TV Magazine Show I,X,,,
+A,TVPR 357,TV Magazine Show II,,X,,
+A,TVPR 495,SrProject: TVPR I,X,,,
+A,TVPR 496,SrProject: TVPR II,X,X,,
+A,TVPR 497,SrProject: TVPR III,X,X,,
+A,TVST 260,History of Television,,X,,
+A,TVST 261,History of TV Journalism,,X,,
+A,TVST 361,Art of TV Comedy,,X,X,
+A,TVST 362,Art of TV Drama,X,,,
+A,TVST 363,Science Fiction Television,X,X,X,
+A,VSCM 100,Computer Imaging I,X,X,,
+A,VSCM 140,Calligraphy,,X,,,
+A,VSCM 200,Computer Imaging II,X,,,,
+A,VSCM 230,Visual Communication I,X,,,,
+A,VSCM 231,Visual Communication II,,X,,,
+A,VSCM 232,Visual Communication III,,,X,,
+A,VSCM 240,Typography I,X,,X,,
+A,VSCM 241,Production,,,X,,
+A,VSCM 242,Typography II,,X,,,
+A,VSCM 300,Computer Imaging III,,X,,,
+A,VSCM 330,Visual Communication IV,X,,X,,
+A,VSCM 331,Visual Communication V,,X,,X,
+A,VSCM 340,Typography III,X,,X,,
+A,VSCM 350,Graphic Design 20th C & Beyond,,X,,X,
+A,VSCM 360,Design on Site,,,,X,
+A,VSCM 430,Visual Communication VI,X,,,,
+A,VSCM 440,Book Design,X,,,,
+A,VSCM 450,Professional Portfolio,,X,X,,
+A,VSCM 460,Professional Practice,,,X,,
+A,VSCM 477,Graphic Design Seminar,,,X,,
+A,VSCM 478,GDS: Adv Techniques,,X,X,X,
+A,VSCM 479,GDS: Adv Media,X,X,X,X,
+A,VSCM 480,GDS: Design Perceptions,,,X,X,
+A,VSCM 485,Annual Report Design,,X,,,
+A,VSCM 496,Senior Thesis Graphic Design,,X,X,,
+A,VSST 101,Design I,X,X,X,,
+A,VSST 102,Design II,X,X,X,,
+A,VSST 103,Design III,X,X,X,,
+A,VSST 104,Accelerated Design I,,,,X,
+A,VSST 105,Accelerated Design II,,,,X
+A,VSST 106,Accelerated Design III,,,,X
+A,VSST 108,Design I for Media,X,X,,
+A,VSST 109,Design II for Media,,X,X,
+A,VSST 110,Introductory Drawing,X,X,X,X
+A,VSST 111,Figure Drawing I,X,X,X,X
+A,VSST 112,Figure Drawing II,,,X,
+A,VSST 201,Multimedia: Performance,X,X,X,X
+A,VSST 202,Multimedia: Space,X,X,X,X
+A,VSST 203,Multimedia: Materials,X,X,X,X
+A,VSST 204,Materials Exploration,X,,,
+A,VSST 301,Painting I,X,X,X,X
+A,VSST 302,Painting II,X,X,X,
+A,VSST 303,Painting III,,X,X,
+A,VSST 311,Sculpture I,X,X,X,X
+A,VSST 312,Sculpture II,X,X,X,X
+A,VSST 313,Sculpture III,X,,X,
+A,VSST 321,Screenprint I,X,X,X,X
+A,VSST 322,Printmaking I,X,X,,
+A,VSST 323,Printmaking II,X,X,,
+A,VSST 324,Advanced Printmaking,,,X,
+A,VSST 325,Screenprint II,X,X,,
+A,WMGD 210,Motion Graphics I,X,,X,
+A,WMGD 220,Web Graphics,,X,,X
+A,WMGD 320,Storyboarding,X,,,
+A,WMGD 421,Motion Graphics II,X,,,
+A,WMGD 496,Senior Thesis in WMGD,,X,X,
+AS,WMST 101,Intro Women's Studies,X,X,X,X
+AS,WMST 240,Women/Society Global Context,X,,X,
+AS,WMST 250,African American Herstories,,X,,
+AS,WMST 275,Women's Health & Human Rights,,X,,
+AS,WMST 301*,Seminar in Feminist Theory,,,,
+AS,WMST 308*,Queer Theory,,,,
+AS,WMST 320*,Masculinities,,,,
+AS,WRIT 210,Writing & Peer Tutoring Wkshop,,VAR,VAR,
+AS,WRIT 220,Creative Nonfiction Writing,VAR,VAR,VAR,
+AS,WRIT 225,Creative Writing,VAR,VAR,VAR,VAR
+AS,WRIT 301*,Writing Poetry,,,,
+AS,WRIT 302,Writing Fiction,,X,,
+AS,WRIT 303*,Writing Humor and Comedy,,,,
+AS,WRIT 304*,Special Topics in Writing,,,,
+AS,WRIT 306*,Writing About the Media,,,,
+AS,WRIT 310*,Literary Editing & Publication,,,,
+AS,WRIT 312,Practice of Prof'l Writing,VAR,VAR,VAR,VAR
+AS,WRIT 400*,Writing in Cyberspace,,,,
+AS,WRIT 405,Intern in Literary Publishing,X,X,X,X
+AS,WRIT 302,Writing Fiction,,X,,,
+AS,WRIT 303*,Writing Humor and Comedy,,,,,
+AS,WRIT 304*,Special Topics in Writing,,,,,
+AS,WRIT 306*,Writing About the Media,,,,,
+AS,WRIT 310*,Literary Editing & Publication,,,,,
+AS,WRIT 312,Practice of Prof'l Writing,VAR,VAR,VAR,VAR,
+AS,WRIT 400*,Writing in Cyberspace,,,,,
+AS,WRIT 405,Intern in Literary Publishing,X,X,X,X,

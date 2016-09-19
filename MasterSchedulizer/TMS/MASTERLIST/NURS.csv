@@ -1,0 +1,52 @@
+NURS,110,Essentials of Relationship-Based Professional Nursing Practice,4.00,ANAT101 and ANAT102 and ENGL102,,1010,0
+NURS,112,Relationship-Based Health Assessment & Promotion,5.00,ANAT101 and ANAT102 and BIO226 and NURS110,,1010,0
+NURS,112,Relationship-Based Health Assessment & Promotion,5.00,ANAT101 and ANAT102 and ANAT103 and NURS110,,1010,0
+NURS,112,Relationship-Based Health Assessment & Promotion,5.00,ANAT101 and ANAT102 and NURS110 and ANAT103,,1010,0
+NURS,200,Principles of Nursing Practice,6.00,ANAT103 and BIO226,NURS112 INFO204,1010,0
+NURS,201,Principles of Nursing Practice,6.00,ANAT103 and BIO226,NURS112 INFO204,1010,0
+NURS,300,Comprehensive Adult Nursing I,6.00,NURS200 and NURS112,NURS301,0101,0
+NURS,301,Pharmacology for Nursing I,3.00,NURS200 and NURS112,NURS300,0101,0
+NURS,303,Women's Health Nursing,6.00,NURS300 and NURS301,,1111,0
+NURS,304,Nursing of Children,6.00,NURS300 and NURS301,,1111,0
+NURS,305,Comprehensive Adult Nursing II,6.00,NURS300 and NURS301,NURS306,1111,0
+NURS,306,Pharmacology for Nursing II,3.00,NURS301,,0101,0
+NURS,325,Critical Issues in Nursing,3.00,,,1110,0
+NURS,325,Critical Issues in Nursing,3.00,,,1110,0
+NURS,330,Research Basis of Nursing,4.00,STAT201 or SOC364 or STS345,,1111,0
+NURS,330,Research Basis of Nursing,4.00,STS345 and NURS304,,1111,0
+NURS,337,Genetics in Nursing and Health,3.00,ANAT103,,1111,0
+NURS,337,Genetics in Nursing and Health,3.00,ANAT103 and NURS300 and NURS301,,1111,0
+NURS,339,Pathophysiology,3.00,ANAT103 and CHEM101 or CHEM103 and BIO226 or BIO221,,1010,0
+NURS,339,Pathophysiology,3.00,ANAT103 and CHEM103 and BIO226,,1010,0
+NURS,340,Transformational Leadership,3.00,,,0101,0
+NURS,346,Health Assessment,6.00,,,1111,0
+NURS,346,Health Assessment,6.00,NURS325,,1111,0
+NURS,370,Issues in Aging and Longevity,4.00,,,0111,0
+NURS,370,Issues in Aging and Longevity,4.00,NURS325,,0111,0
+NURS,375,Nurses Building a Healthy Community,6.00,NURS346,,1111,0
+NURS,375,Nurses Building a Healthy Community,6.00,NURS346 and NURS330,,1111,0
+NURS,388,Nursing Case Study I,1.00,NURS300 and NURS301,,0101,0
+NURS,400,"Leadership, Management, and Entrepreneurship in Nursing",3.00,NURS305,,0101,0
+NURS,401,Comprehensive Adult Nursing III,6.00,NURS301 and NURS303 and NURS304 and NURS305 and NURS306,,1101,0
+NURS,401,Comprehensive Adult Nursing III,6.00,NURS303 and NURS304 and NURS305 and NURS306,,1101,0
+NURS,403,Community Public Health Nursing,6.00,NURS300 and NURS301 and NURS303 and NURS304 and NURS305 and NURS306,,1111,0
+NURS,403,Community Public Health Nursing,6.00,NURS303 and NURS304 and NURS305 and NURS306,,1111,0
+NURS,450,Contemporary Gerontological Nursing,6.00,NURS303 and NURS304 and NURS305 and NURS306 and NURS401,,0111,0
+NURS,460,Global Health & Policy Issues,6.00,NURS325 and NURS375,,0101,0
+NURS,460,Global Health & Policy Issues,6.00,NURS325,,0101,0
+NURS,460,Global Health & Policy Issues,6.00,NURS330 and NURS325,,0101,0
+NURS,462,"Science, Technology and Health",3.00,NURS330 and NURS325,,1010,0
+NURS,465,Senior Thesis in Nursing,3.00,,,1111,0
+NURS,465,Senior Capstone in Nursing,3.00,NURS325 and NURS330,,1111,0
+NURS,465,Senior Capstone in Nursing,3.00,,,1111,0
+NURS,480,ST: Macy's Fellowship,1.00,,,1111,0
+NURS,480,ST: Strat for Acad Success,1.00,,,1111,0
+NURS,480,ST: Medication Calculations,1.00,,,1111,0
+NURS,480,"ST:Ethics in Sci, Tech, Hlth",1.00,,,1111,0
+NURS,480,ST: Sci: Tch and Health,1.00,,,1111,0
+NURS,480,ST in Medical Spanish,1.00,,,1111,0
+NURS,481,Issues & Resolutions in End of Life Care,3.00,,,0101,0
+NURS,488,Nursing Case Study II,1.00,NURS305 and NURS306,,0101,0
+NURS,489,Synthesis of Nursing Knowledge,4.00,NURS401,,0110,0
+NURS,492,Senior Seminar in Nursing,3.00,NURS300 and NURS303 and NURS304 and NURS305 and NURS306 and NURS400 and NURS401,,1111,0
+NURS,492,Senior Seminar in Nursing,3.00,NURS303 and NURS304 and NURS305 and NURS306 and NURS401 and NURS403 and NURS489,,1111,0

@@ -1,0 +1,978 @@
+MATE 100,Materials for Emerging Tech,1010
+MATE 101,Fundamentals of Materials,0100
+MATE 214,Introduction to Polymers,1000
+MATE 221,Intro Mech Behavior of Mate,0100
+MATE 240,Thermodynamics of Materials,1000
+MATE 245,Kinetics of Materials,0100
+MATE 280,Advanced Materials Laboratory,1000
+MATE 315,Processing Polymers,0100
+MATE 341,Defects in Solids,0100
+MATE 345,Processing of Ceramics,0100
+MATE 355,Struct & Charact of Cryst Mat,1000
+MATE 366,Processing Metallic Materials,1000
+MATE 370,Mechanical Behavior of Solids,1000
+MATE 410,Case Studies in Materials,0010
+MATE 455,Biomedical Materials,1000
+MATE 460,Engr Computational Lab,1000
+MATE 491,Senior Project Design I,1000
+MATE 492,Senior Project Design II,0100
+MATE 493,Senior Project Design III,0010
+MATH 100,Fundamentals of Mathematics,1100
+MATH 101,Introduction to Analysis I,1111
+MATH 102,Introduction to Analysis II,1111
+MATH 107,Prob & Stat for Lib Arts,1010
+MATH 110,Precalculus,1100
+MATH 119,Mathematics For Design,0010
+MATH 121,Calculus I,1110
+MATH 122,Calculus II,1111
+MATH 123,Calculus III,1111
+MATH 180,Discrete Computat Struct,0110
+MATH 181,Mathematical Analysis I,1111
+MATH 182,Mathematical Analysis II,1111
+MATH 183,Mathematical Analysis III,1111
+MATH 200,Multivariate Calculus,1111
+MATH 201,Linear Algebra,1111
+MATH 205,Survey of Geometry,0000
+MATH 210,Differential Equations,1100
+MATH 220,Intro to Math Reasoning,1010
+MATH 221,Discrete Mathematics,1111
+MATH 235,Problem Solving Seminar,1000
+MATH 238,History of Mathematics,1010
+MATH 239,Math for the Life Sciences,0110
+MATH 261,Linear Algebra,1111
+MATH 262,Differential Equations,1111
+MATH 285,Differential Equations II,0010
+MATH 286,Applied Differential Equations,0000
+MATH 291,Complex & Vector Analy for Eng,0101
+MATH 300,Numerical Analysis,1010
+MATH 301,Numerical Analysis II,0101
+MATH 305,Intro Optimization Theory,0000
+MATH 311,Probability and Statistics I,1110
+MATH 312,Probability and Statistics II,0111
+MATH 316,Math App of Symbolic Software,1000
+MATH 318,Math App of Stat Software,0100
+MATH 320,Actuarial Mathematics,0000
+MATH 321,Vector Calculus,0100
+MATH 322,Complex Variables,1010
+MATH 323,Partial Differential Equations,0100
+MATH 331,Abstract Algebra I,1000
+MATH 332,Abstract Algebra II,0100
+MATH 401,Elements of Modern Analysis I,1000
+MATH 402,Elements of Modern Analysis II,0100
+MATH 410,Scientific Data Analysis I,1010
+MATH 411,Scientific Data Analysis II,0101
+MATH 422,Introduction to Topology,0000
+MATH 449,Mathematical Finance,0000
+MATH 450,Introduction to Graph Theory,0000
+MATH 475,Cryptography,0000
+MATH 480,Spec Topics in Mathematics,0000
+MATH 489,Tensor Analysis,0000
+MBC 101,Med Term for Billers/Coders,1111
+MBC 201,Medical Billing I,1111
+MBC 202,Medical Billing II,1111
+MBC 250,Medical Billing Software,1111
+MBC 301,Physician-Based Med Coding I,1111
+MBC 302,Physician-Based Med Coding II,1111
+MBC 303,Hospital-Based Med Coding I,1111
+MBC 304,Hospital-Based Med Coding II,1111
+MBC 350,Physician-Based Chart Auditing,1111
+MBC 360,Hospital-Based Case Studies,1111
+MEM 201,Funds Cmptr Aided Design,1111
+MEM 202,Engr Mechanics-Statics,1111
+MEM 220,Basic Fluid Mechanics,0101
+MEM 230,Mechanics of Materials I,1010
+MEM 238,Dynamics,0111
+MEM 255,Introduction to Controls,1101
+MEM 310,Thermodynamic Analysis I,1110
+MEM 311,Thermal & Fluid Sci Lab,1010
+MEM 320,Fluid Dynamics I,1010
+MEM 330,Mechanics of Materials II,0101
+MEM 331,Experimental Mechanics I,0101
+MEM 345,Heat Transfer,1010
+MEM 351,Dynamic Systems Laboratory I,0101
+MEM 355,Perf Enhancemt Dyn Systems,1110
+MEM 361,Engineering Reliability,1101
+MEM 395,Hess UG Scholars Research,1111
+MEM 400,Internal Combustion Engines,0000
+MEM 402,Power Plant Design,1000
+MEM 403,Gas Turbines & Jet Propulsion,0100
+MEM 405,Principles of Combustion I,0000
+MEM 406,Principles of Combustion II,0000
+MEM 410,Thermodynamic Analysis II,0101
+MEM 413,HVAC Loads,1000
+MEM 414,HVAC Equipment,0100
+MEM 417,Intro to Microfabrication,0010
+MEM 419,Microfluidics & Lab-on-a-Chip,0001
+MEM 420,Aerodynamics,0010
+MEM 423,Mechanics of Vibration,1011
+MEM 424,Biomechanics,0000
+MEM 425,Aircraft Design & Perform,1000
+MEM 426,Aerospace Structures,0000
+MEM 427,Finite Element Methods,1000
+MEM 428,Introduction to Composites I,1000
+MEM 429,Introduction to Composites II,0100
+MEM 430,Advanced Stress Analysis,0000
+MEM 431,Machine Design I,1010
+MEM 435,Intro Comp Aid Desgn/Mfg,1010
+MEM 437,Manufacturng Process I,1010
+MEM 438,Manufacturing Process II,0100
+MEM 440,Thermal Systems Analysis,0101
+MEM 444,Biofluid Mechanics,0010
+MEM 446,Fundamentals of Plasmas I,0000
+MEM 447,Fundamentals of Plasmas II,0000
+MEM 448,Applied Thermal Plasmas,0000
+MEM 449,Applied Non-Thermal Plasmas,0000
+MEM 453,Aircrft Flight Dynam & Ctrl I,0010
+MEM 454,Aircrft Flight Dynam& Ctrl II,0000
+MEM 455,Introduction to Robotics,1010
+MEM 456,Robotics II,0100
+MEM 462,Intro To Engr Mgmt,1010
+MEM 478,Computer-Aided Tissue Engr,0000
+MEM 491,Senior Design Project I,1000
+MEM 492,Senior Design Project II,0100
+MEM 493,Senior Design Project III,0010
+MET 100,Graphical Communication,0010
+MET 101,Manufacturing Materials,0100
+MET 204,Applied Quality Control,0100
+MET 205,Robotics & Mechatronics,0100
+MET 209,Fluid Power,0100
+MET 213,Applied Mechanics,1000
+MET 301,Advanced Design Graphics,0000
+MET 306,Zone Technologies,0000
+MET 307,HazMat for Manufacturing,0000
+MET 308,Maritime Manufacturing,0000
+MET 310,Adv Robotics & Mechatronics,0000
+MET 316,Computer Numerical Control,1000
+MET 402,Manufacturing Design with CAD,0000
+MET 403,Three Dimensional Modeling,0000
+MET 404,Digital Instrumentation,0000
+MET 407,Manufacturing Processes,0100
+MET 408,MFG Information Management,0010
+MET 409,Green Manufacturing,0000
+MET 411,Adv Computer Numerical Control,0000
+MET 421,Senior Design Project I,1000
+MET 422,Senior Design Project II,0100
+MET 423,Senior Design Project III,0010
+MGMT 260,Intro to Entrepreneurship,1111
+MGMT 363,Dir Study in Entrepreneurship,1010
+MGMT 364,Technology Management,1110
+MGMT 365,Busn Plan for Entrepreneurs,1111
+MGMT 366,Entrepreneurship Cert Proj,0000
+MGMT 450,Strategy & Competitive Advant,1111
+MGMT 451,Management Simulation,1111
+MHT 201,Kinematics,0000
+MHT 205,Thermodynamics I,0100
+MHT 206,Thermodynamics II,0010
+MHT 222,Applied Dynamics I,0100
+MHT 224,Applied Dynamics II,0000
+MHT 226,Measurement Lab,1000
+MHT 301,Fluid Mechanics I,0010
+MHT 314,Thermo and Heat Transfer Lab,0010
+MHT 401,Mechanical Design I,0100
+MHT 405,HVAC,0000
+MIP 131,History of the Music Industry,1000
+MIP 133,Computer & Digital Apps I,1000
+MIP 161,Copyrights in the Music Ind,0110
+MIP 170,Radio Management,0100
+MIP 179,Music Recording I,0100
+MIP 227,Listening Techniques in Music,0100
+MIP 233,Computer & Digital Appl II,0100
+MIP 239,Survey of Modern Pro Tech,0100
+MIP 262,Trademarks & Patents in the MI,0110
+MIP 263,Media Promotion,0100
+MIP 271,The Recording Industry I,1000
+MIP 272,The Recording Industry II,0010
+MIP 279,Music Recording II,1110
+MIP 311,A & R in the Music Industry I,0100
+MIP 312,A & R in the Music Industry II,0010
+MIP 331,Music Venues and Concerts,0100
+MIP 333,Computer & Digital Apps III,0010
+MIP 341,Touring and Booking,0100
+MIP 343,MADKo Concert Promotions,1110
+MIP 361,The Publishing Industry,0100
+MIP 363,Legal Issues in the Music Ind,0010
+MIP 374,Entrepreneurship in the MI,0100
+MIP 375,Marketing and Promo in MI,1000
+MIP 377,Digital Label,1110
+MIP 379,Music Recording III,1000
+MIP 380,Special Topics in Music Ind,1110
+MIP 381,Audio for Video,1000
+MIP 382,Scoring to Picture,0010
+MIP 383,MAD Dragon Studios,1110
+MIP 384,Synthesis and Sampling,0100
+MIP 386,Commercial Music Production,0010
+MIP 387,Studio Maintenance & Assisting,0010
+MIP 388,Production Company Management,0010
+MIP 433,Computer & Digital Apps IV,0100
+MIP 440,L&B MAD Dragon,1110
+MIP 441,DraKo Booking,0100
+MIP 443,Entertainment Contracts I,0100
+MIP 444,MAD Dragon Records,1110
+MIP 445,MAD Dragon Publishing,1110
+MIP 453,Entertainment Contracts II,0010
+MIP 462,Global Issues in the Music Ind,1000
+MIP 464,Music Industry Cyberlaw,0010
+MIP 467,Artist Representation,1000
+MIP 468,Music Industry E-Commerce,0100
+MIP 477,Music Production,0100
+MIP 481,Mixing and Mastering,1000
+MIP 482,Recording Session,0010
+MIP 491,Senior Project in Music Ind,1110
+MIS 300,Management Information Systems,1111
+MIS 341,Microcomp Technol for Business,0000
+MIS 342,Systems Analysis and Design,1010
+MIS 343,Dbase Design & Implement,0101
+MIS 344,Netwkg Technol For Bus,0000
+MIS 345,Client/Svr Comptg For Bus,0000
+MIS 346,MIS Strategy,1010
+MIS 347,Dom & Global Outsrcing Mgmt,0101
+MIS 348,VB Database Prog for Busn,1010
+MIS 359,Information Systems Project,0100
+MKTG 301,Intro Marketing Mgmt,1111
+MKTG 321,Sales Management,1111
+MKTG 322,Adv & Integrated Mktg Comm,1111
+MKTG 324,Mktg Chan & Distrib Sys,1001
+MKTG 326,Marketing Research,0110
+MKTG 344,Professional Personal Selling,1111
+MKTG 347,New Product Development,1110
+MKTG 348,Services Marketing,1111
+MKTG 351,Mktg For Non-Profit Orgs,0100
+MKTG 352,Sales Promotion,0000
+MKTG 353,Business-to-Business Marketing,0000
+MKTG 355,Interactive Marketing,0101
+MKTG 356,Consumer Behavior,1111
+MKTG 357,Global Marketing,1111
+MKTG 362,Brand & Reputation Mgmt,0110
+MKTG 363,Brand & Reputation Mgmt Proj,0000
+MKTG 380,Seminar in Marketing Strategy,1110
+MUSC 101,University Chorus,1111
+MUSC 102,Chamber Singers,1110
+MUSC 105,Concert Band,1111
+MUSC 106,Guitar Ensembles,1111
+MUSC 107,Jazz Ensembles,1111
+MUSC 109,String Ensembles,1110
+MUSC 110,Keyboard Ensembles,1110
+MUSC 111,Chamber Music Ensemble,1110
+MUSC 112,Fusion Band,1110
+MUSC 113,Percussion Ensembles,1110
+MUSC 115,Gospel Choir,1111
+MUSC 120,Music Fundamentals,1100
+MUSC 121,Music Theory I,1111
+MUSC 122,Music Theory II,0111
+MUSC 123,Music Theory III,0001
+MUSC 125,Ear Training I,1110
+MUSC 126,Ear Training II,0110
+MUSC 127,Ear Training III,0010
+MUSC 130,Introduction to Music,1111
+MUSC 190,Class Piano I,1111
+MUSC 191,Class Guitar I,1111
+MUSC 192,Class Percussion I,1000
+MUSC 193,Class Voice I,1000
+MUSC 194,Class Bass I,1100
+MUSC 195,Class Bass II,0010
+MUSC 229,Modern Arranging Techniques,1110
+MUSC 231,Music History I,1000
+MUSC 232,Music History II,0100
+MUSC 236,Rock Music Through the Mid-60s,1000
+MUSC 238,Rock Music Since the Mid-60s,0111
+MUSC 241,Applied Music,1111
+MUSC 249,Digital Music Composition,1000
+MUSC 252,Music Composition,0010
+MUSC 290,Advanced Class Piano,1111
+MUSC 291,Advanced Class Guitar,0111
+MUSC 300,Improvisation,0100
+MUSC 323,Songwriting,0010
+MUSC 331,World Musics,1111
+MUSC 333,Afro-Amer Music USA,0010
+MUSC 336,History of Jazz,1001
+MUSC 338,American Popular Music,1010
+NEUR 410,Neuroscience,0010
+NFS 100,"Nutrition, Foods, and Health",1111
+NFS 101,Intro Nutrition & Food,1111
+NFS 111,Introduction to Dietetics,0000
+NFS 200,Nutr I: Principles Nutrition,0000
+NFS 203,Nutr II: Nutr In Life Cycle,0000
+NFS 215,Nutritional Chemistry,1000
+NFS 216,Nutrition and the Schoolchild,0000
+NFS 217,Nutrient Quality & Composition,1000
+NFS 220,Normal & Lifespan Nutrition,0101
+NFS 230,Intermediate Nutrition,1010
+NFS 265,Prof Issues Nutr & Foods,0010
+NFS 310,Nutrition and Sports,0010
+NFS 315,Nutrition in Chronic Disease,0001
+NFS 320,Pediatric Nutrition,0100
+NFS 325,Nutrition & Exercise Phys,0000
+NFS 345,Foods Nutr Of World Cultures,0010
+NFS 365,Nutr Lab: Food/Nutrient Analy,0100
+NFS 370,Foodservice Systems Mgmt,0010
+NFS 371,Institutional Organiz & Admin,0000
+NFS 391,Community Nutrition,1000
+NFS 415,Adv Nutr I: Macronutrient,1000
+NFS 416,Adv Nutr II: Micronutr & Ctrl,0100
+NFS 431,Nutrition Counseling,0100
+NFS 443,Medical Nutrition Therapy I,1000
+NFS 444,Medical Nutrition Therapy II,0100
+NFS 445,Medical Nutrition Therapy III,0010
+NFS 446,Perspectives World Nutrit,1000
+NFS 475,Adv Seminar Dietetcs Prof,0000
+NFS 494,Senior Project I,1000
+NFS 495,Senior Project II,0100
+NFS 496,Senior Project III,0010
+NFS 497,Research,1111
+NURS 100,Nursing in Society,0000
+NURS 101,Ethic Advoc & Prof in Nurs I,0000
+NURS 102,Health Promotion,1000
+NURS 103,Ethic Advoc & Prof in Nurs II,1000
+NURS 104,Ethic Advoc & Prof in Nurs III,0100
+NURS 110,Essen Rel-Based Prof Nurs Prac,1010
+NURS 112,Rel-Based Hlth Assess & Promo,1010
+NURS 200,Principles of Nursing Practice,1010
+NURS 201,Health Assess Across Lifespan,1010
+NURS 300,Comprehensive Adult Nursing I,0101
+NURS 301,Pharmacology for Nursing I,0101
+NURS 303,Women's Health Nursing,1111
+NURS 304,Nursing of Children,1111
+NURS 305,Comprehnsv Adult Nursing II,1111
+NURS 306,Pharmacology for Nursing II,0101
+NURS 308,Mental Health Nursing,1111
+NURS 325,Critical Issues in Nursing,1110
+NURS 330,Research Basis of Nursing,1111
+NURS 336,Alternatv & Complmt Hlth Intrv,1010
+NURS 337,Genetics in Nursing and Health,1111
+NURS 339,Pathophysiology,1010
+NURS 340,Transformational Leadership,0101
+NURS 346,Health Assessment,1111
+NURS 370,Issues in Aging and Longevity,0111
+NURS 375,Nurses Building a Healthy Comm,1111
+NURS 388,Nursing Case Study I,0101
+NURS 400,Ldrshp Mgmt & Entrep in Nurs,0101
+NURS 401,Comp Adult Nursing III,1101
+NURS 403,Communty Publ Hlth Nursing,1111
+NURS 404,Nurs Informatics for BSN Compl,0000
+NURS 450,Contemp Gerontolog Nursing,0111
+NURS 460,Global Health & Policy Issues,0101
+NURS 462,"Science, Technology and Health",1010
+NURS 464,Sr Concentration in Nursing,0101
+NURS 465,Senior Thesis in Nursing,1111
+NURS 480,Special Topics in Nursing,1111
+NURS 481,End of Life Care,0101
+NURS 482,Cult Dimensions of Nurs Care,1010
+NURS 488,Nursing Case Study II,0101
+NURS 489,Synthesis of Nursing Knowledge,0110
+NURS 490,Sr Project in Nursing,1000
+NURS 491,Sr Project in Nursing II,0100
+NURS 492,Sr Seminar in Nursing,1111
+OPM 300,Operations Management,1111
+OPM 315,Service Operations Management,0101
+OPM 321,Planning and Control of Oper,1010
+OPM 325,Adv Planning & Cntrl of Oper,0101
+OPM 341,Supply Chain Management,0010
+OPR 320,Linear Mod for Decision Making,1010
+OPR 330,Adv Decision Making/Simulation,0100
+ORGB 300,Organizational Behavior,1111
+ORGB 420,Negotiations & Conflict Resol,0100
+ORGB 498,Spec Topics in Org Behavior,0000
+PHEV 145,Weather I: Climate & Global,1110
+PHEV 146,Weather II: Analysis/Forecast,1110
+PHGY 325,Physiology,1111
+PHGY 382,Pathophysiology for Hlth Prof,0001
+PHIL 101,Intro to Western Philosophy,1111
+PHIL 102,Intro to Eastern Philosophy,1010
+PHIL 105,Critical Reasoning,1111
+PHIL 107,Phil & Knowledge Organization,1000
+PHIL 111,Prop (zero-order) Logic,1111
+PHIL 201,Hist Of Western Philos I,1000
+PHIL 202,Hist Of Western Philos II,0010
+PHIL 203,Hist Of Western Philos III,1000
+PHIL 207,Predicate (first-order) Logic,1111
+PHIL 210,Philosophy of Sport,0100
+PHIL 211,Metaphysics,0101
+PHIL 221,Epistemology,1010
+PHIL 231,Aesthetics,0101
+PHIL 241,Social & Political Philos,0100
+PHIL 251,Ethics,1111
+PHIL 255,Philosophy of Sex & Love,1110
+PHIL 301,Business Ethics,1010
+PHIL 305,Communication Ethics,1010
+PHIL 311,Computer Ethics,1111
+PHIL 315,Engineering Ethics,1111
+PHIL 317,Ethics and Design Professions,0000
+PHIL 321,Biomedical Ethics,0110
+PHIL 322,Ethics of Human Enhancement,0000
+PHIL 323,Organizational Ethics,0100
+PHIL 325,Ethics in Sports Management,0010
+PHIL 330,Ethical Issues in Crim Justice,0010
+PHIL 335,Global Ethical Issues,0010
+PHIL 341,Philosophy of the Environment,0000
+PHIL 351,Philosophy of Technology,0000
+PHIL 355,Philosophy of Medicine,1000
+PHIL 361,Philosophy of Science,0101
+PHIL 371,Philosophy of Social Sciences,0000
+PHIL 381,Philosophy in Literature,0010
+PHIL 385,Philosophy of Law,1000
+PHIL 391,Philosophy of Religion,0010
+PHIL 395,Advanced Topics in Logic,0000
+PHIL 421,Seminar in Ancient Philosophy,0000
+PHIL 425,Seminar in Medieval Philosophy,0000
+PHIL 431,Sem Rationalism & Empiricism,0000
+PHIL 461,Seminar in Contemporary Phil,0000
+PHIL 465,Seminar in American Philosophy,0000
+PHIL 475,Special Problems in Philosophy,0000
+PHIL 481,Sem in a Philosophical School,0000
+PHIL 485,Seminar in a Major Philosopher,0000
+PHIL 497,Senior Essay I: Res & Thesis,0000
+PHIL 498,Sen Essay II: Argument Constr,0000
+PHIL 499,Senior Essay III: Defense,0000
+PHTO 110,Photography,1111
+PHTO 115,Photographic Principles,0000
+PHTO 140,Digital Photography I,0010
+PHTO 210,Intermediate Photography,1110
+PHTO 231,Color Photography,0010
+PHTO 233,Large Format Photography,1000
+PHTO 234,Studio Photography,0001
+PHTO 236,Photojournalism,0100
+PHTO 240,Digital Photography II,0100
+PHTO 253,Fine Black & White Printing,1000
+PHTO 275,History of Photography I,0100
+PHTO 276,History of Photography II,0010
+PHTO 291,Internship,0100
+PHTO 334,Advanced Studio Photography,1010
+PHTO 335,Portraiture,0010
+PHTO 350,Photography and Culture,0100
+PHTO 361,Advanced Photography,1001
+PHTO 392,Junior Project in Photography,0110
+PHTO 450,Self Promo for Photographers,0100
+PHTO 451,Photography and Business,1000
+PHTO 452,Hist Contemporary Photography,1000
+PHTO 492,Senior Thesis I,1000
+PHTO 493,Senior Thesis II,0100
+PHTO 495,Senior Thesis III,0010
+PHYS 100,Prep for Engineering Studies,1111
+PHYS 101,Fundamentals of Physics I,1111
+PHYS 102,Fundamentals of Physics II,1111
+PHYS 103,General Physics I,1000
+PHYS 104,General Physics II,0100
+PHYS 105,Computational Physics I,0010
+PHYS 106,The Physics of High Fidelity,0100
+PHYS 113,Contemporary Physics I,1000
+PHYS 114,Contemporary Physics II,0100
+PHYS 115,Contemporary Physics III,0010
+PHYS 121,Physical Science for Design I,1000
+PHYS 122,Physical Science for Design II,0100
+PHYS 131,Survey of the Universe,1111
+PHYS 135,How Things Work,1111
+PHYS 137,Issues in Science and Religion,0010
+PHYS 151,Applied Physics,1110
+PHYS 152,Introductory Physics I,1010
+PHYS 153,Introductory Physics II,0101
+PHYS 154,Introductory Physics III,1010
+PHYS 160,Intro to Scientific Computing,1010
+PHYS 181,Astronomy,1110
+PHYS 182,Applied Physics I,1000
+PHYS 183,Applied Physics II,0100
+PHYS 184,Applied Physics III,0010
+PHYS 185,Fundamentals of Phys Lec I,1111
+PHYS 186,Fundamentals of Phys Lab I,1000
+PHYS 188,Fundamentals of Phys Lab II,0100
+PHYS 189,Fundamentals of Phys Lec II,1111
+PHYS 201,Fundaments of Physics III,1111
+PHYS 202,Fundamentals of Physics IV,0101
+PHYS 217,Thermodynamics,1000
+PHYS 223,Modern Physics Laboratory,0100
+PHYS 226,Instrument Scientists I,0000
+PHYS 227,Instrument Scientists II,0000
+PHYS 231,Introductory Astrophysics,0000
+PHYS 232,Observational Astrophysics,0000
+PHYS 280,Fundamentals of Phys Lec III,1111
+PHYS 282,Fundamentals of Phys Lab III,0010
+PHYS 305,Computational Physics II,0100
+PHYS 306,Computational Physics Lab I,0000
+PHYS 307,Computational Phys Lab II,0000
+PHYS 311,Classical Mechanics I,1000
+PHYS 312,Classical Mechanics II,0100
+PHYS 317,Statistical Mechanics,0000
+PHYS 321,Electromagnetic Fields I,0000
+PHYS 322,Electromagnetic Fields II,0000
+PHYS 324,Topics in Mathematical Physics,0100
+PHYS 326,Quantum Mechanics I,0000
+PHYS 327,Quantum Mechanics II,0000
+PHYS 328,Advanced Laboratory,0000
+PHYS 405,Advanced Computational Physics,1000
+PHYS 408,Physics Seminar,1110
+PHYS 409,Astrophysics Seminar,0000
+PHYS 428,Quantum Mechanics III,0000
+PHYS 431,Galactic Dynamics,0000
+PHYS 432,Cosmology,0000
+PHYS 451,Quantum Structure of Materials,1000
+PHYS 452,Solid State Physics,0000
+PHYS 453,Nanoscience,0000
+PHYS 461,Biophysics,0000
+PHYS 462,Computational Biophysics,0000
+PHYS 463,Single Molecule Methods,0000
+PHYS 471,Nonlinear Dynamics,0000
+PHYS 476,Nuclear and Particle Physics,0000
+PHYS 491,Senior Research I,1000
+PHYS 492,Senior Research II,0100
+PHYS 493,Senior Research III,0010
+PRMT 110,Intro to Property Management,1010
+PRMT 210,Rental Prop & Fair Housing Law,0110
+PRMT 215,Building Systems for PRMT I,0100
+PRMT 216,Building Systems for PRMT II,0100
+PRMT 225,Techn Drawings for Prop Mgrs,0010
+PRMT 310,Property Financing & Valuation,0110
+PRMT 315,Property Risk Management,0000
+PRMT 320,Sustainable Property Mgt,0000
+PRMT 325,HR Strat Prop Mg,0010
+PRMT 330,Property Management Technology,0000
+PRMT 333,Social Resp for Prop Mgrs,0000
+PRMT 335,Mktg Leas Res Pro,0100
+PRMT 340,Mng Mkt Retl Prop,1000
+PRMT 341,Mng & Mktg Ofc Buildings,0100
+PRMT 342,Mng & Mktg Industrial Prop,0010
+PRMT 345,Mg Mkt Hous Aging,0010
+PRMT 350,Affordable Housing Management,0100
+PRMT 355,Student Housing Management,0010
+PRMT 356,Military Housing Management,0010
+PRMT 360,Managing & Mkt Commercial Pro,0000
+PRMT 363,Commercial Property Fin Rprts,0100
+PRMT 365,Commercial Property Appraisal,0000
+PRMT 491,Senior Project in Property Mgt,0000
+PROD 101,History & Analysis of Prod Des,1000
+PROD 205,Applied Making I,1000
+PROD 210,Applied Making II,1000
+PROD 215,Design Thinking in PROD,0000
+PROD 220,Product Design Form Studio,0100
+PROD 225,Computer Aided Imagining in PD,0010
+PROD 230,Product Design Process Studio,0010
+PROD 235,Applied Design Visualization,1000
+PROD 245,Seminar Professional Landscape,0001
+PROD 255,Applied Materials in Pro Des,0001
+PROD 340,Interdisciplinary PROD Studio,1000
+PROD 345,Applied Human Centered Design,0100
+PROD 350,Sponsored PROD Studio,0000
+PROD 425,Applied Design Research,1000
+PROD 460,Research Synthesis Studio,1000
+PROD 470,Create Build Studio,0100
+PROD 475,Professional Practice PROD,0010
+PROD 480,Exhibition Studio,0010
+PRST 211,Computer Apl for Professionals,1110
+PRST 212,Creative Studies in the WWW,0110
+PRST 303,Virtual Teams,0100
+PRST 330,Career & Professional Dvlpmnt,0011
+PRST 440,Policy Analysis,0010
+PRST 450,Creative Leadership for Profls,1100
+PRST 491,Professional Portfolio I,0000
+PRST 492,Professional Portfolio II,0000
+PSCI 100,Intro Political Science,1111
+PSCI 110,American Government I,1111
+PSCI 120,History of Political Thought,1010
+PSCI 130,Research Methods in PSCI I,0010
+PSCI 140,Intro Comp Political Analysis,0101
+PSCI 150,International Politics,1111
+PSCI 211,American Government II,1010
+PSCI 220,Constitutional Law I,0100
+PSCI 230,Research Methods in PSCI II,0100
+PSCI 240,Comparative Government,0100
+PSCI 250,American Foreign Policy,1010
+PSCI 255,International Political Econ,0000
+PSCI 270,Prob Indv Liberty v Govt Auth,0100
+PSCI 313,State & Local Government,0000
+PSCI 323,Comparative Political Thought,1010
+PSCI 329,Theories of Justice,1000
+PSCI 330,Public Opinion & Propaganda,0010
+PSCI 331,Environmental Politics,1000
+PSCI 344,Intro to 20th Cent Middle East,0010
+PSCI 345,Compar Politics Middle East,1000
+PSCI 351,International Organizations,0100
+PSCI 352,Ethics and Intl Relations,0001
+PSCI 353,International Human Rights,1000
+PSCI 354,US & the Third World,0000
+PSCI 357,The European Union,0000
+PSCI 358,Political Economy of Japan,0000
+PSCI 363,Constitutional Law II,1000
+PSCI 364,Constitutional Law III,0000
+PSCI 370,Topics in Public Policy,0000
+PSCI 371,"Science, Tech, & Public Polcy",0000
+PSCI 372,City in US Political Devlpmnt,0000
+PSCI 374,Politics of Sport,0000
+PSCI 492,PSCI Honors Thesis I,0000
+PSCI 493,PSCI Honors Thesis II,0000
+PSY 101,General Psychology I,1111
+PSY 111,Preprofessional Gen Psych I,1000
+PSY 112,Preprofessional Gen Psych II,0100
+PSY 120,Developmental Psychology,1111
+PSY 140,Approaches to Personality,1111
+PSY 150,Intro Social Psychology,1111
+PSY 212,Physiological Psychology,1010
+PSY 213,Sensation and Perception,1010
+PSY 222,Psych Probs Modern Youth,1000
+PSY 225,Child Psychopathology,0110
+PSY 230,Psychology of Learning,1111
+PSY 240,Abnormal Psychology,1111
+PSY 242,Psychology of Disability,0110
+PSY 244,Culture and Personality,0000
+PSY 245,Sports Psychology,0010
+PSY 250,Industrial Psychology,0100
+PSY 252,Death and Dying,1010
+PSY 254,Psychology of Sexual Behavior,1110
+PSY 260,Psychological Research I,1110
+PSY 305,Sci/Pseudoscience in Psych,1000
+PSY 310,Drugs & Human Behavior,1111
+PSY 320,Educational Psychology,1001
+PSY 322,Adv Developmental Psych,0100
+PSY 330,Cognitive Psychology,1110
+PSY 332,Human Factors & Cognitive Engr,0100
+PSY 336,Psychology of Language,0010
+PSY 337,Human-Computr Interaction,1010
+PSY 340,Psych Testing/Assessment,1111
+PSY 342,Counseling Psychology,1110
+PSY 345,Narrative Psychology,0000
+PSY 350,Advanced Social Psychology,0100
+PSY 352,Environmental Psychology,0000
+PSY 355,Health Psychology,1000
+PSY 356,Women's Health Psychology,1000
+PSY 357,The Psychology of Eating,1010
+PSY 360,Experimental Psychology,1111
+PSY 364,Computer-Assist Data Analy I,1111
+PSY 365,Computer-Assist Data Analy II,1111
+PSY 368,Critical Psychology,0100
+PSY 370,Forensic Psychology,0101
+PSY 401,History Systems Psych,1011
+PSY 410,Neuropsychology,1010
+PSY 442,Theors & Practice Clin Psych,0010
+PSY 450,Autism Spectrum Disorders,0010
+PSY 490,Psych Senior Thesis I,1000
+PSY 491,Psych Senior Thesis II,0100
+PSY 492,Psych Senior Thesis III,0010
+RADI 100,Intro to Radiologic Technology,1000
+RADI 102,Intro to Radiologic Prin II,0100
+RADI 132,Radiologic Physics I,0010
+RADI 133,Radiologic Physics II,0001
+RADI 150,Prin of Rad Exposure I,1000
+RADI 153,Prin of Rad Exposure II,0100
+RADI 154,Radiographic Exposure III,0010
+RADI 164,Radiologic Procedures I,1000
+RADI 165,Radiographic Procedures II,0100
+RADI 166,Radiographic Procedures III,0010
+RADI 193,Methods of Patient Care I,1000
+RADI 194,Methods of Patient Care II,0100
+RADI 195,Clinical Practicum I,1000
+RADI 196,Clinical Practicum II,0100
+RADI 197,Clinical Practicum III,0010
+RADI 198,Clinical Practicum IV,0001
+RADI 200,Radiologic Procedures IV,1000
+RADI 201,Medical Imaging,0100
+RADI 202,Radiologic Procedures V,0010
+RADI 203,Principles of Exposure IV,1000
+RADI 204,Principles of Rad Protection,0100
+RADI 215,Radiation Biology,1000
+RADI 221,Quality Assurance,0010
+RADI 222,Pathology,0100
+RADI 223,Registry Review,0010
+RADI 291,Clinical Practicum V,1000
+RADI 292,Clinical Practicum VI,0100
+RADI 293,Clinical Practicum VII,0010
+REAL 310,Introduction to Real Estate,1110
+REAL 320,Real Estate Law Princ & Pract,1010
+REAL 330,Facilities & Property Mngt,0101
+REAL 470,RE Invest & Mkt & Feas Anal,0010
+REAL 471,Adv Real Estate Invest & Anal,1000
+REAL 472,Adv Mkt Research & Analysis,0100
+REAL 473,Sales & Mktg of Real Estate,0010
+REAL 474,Real Estate Econ in Urban Mkts,1000
+REAL 475,Real Estate Finance,0100
+REAL 476,Real Estate Valuation & Anal,0010
+RETL 315,Power of Retail Brands,1000
+RETL 325,In-Store Vis Str,0100
+RETL 400,Retail Leadership Capstone,0010
+RUSS 101,Russian I,1111
+RUSS 102,Russian II,1111
+RUSS 103,Russian III,1111
+RUSS 201,Russian IV,1111
+RUSS 202,Russian V,1111
+RUSS 203,Russian VI: Convrs & Comp,1111
+RUSS 301,Russian VII,1111
+RUSS 302,Russian VIII,1111
+RUSS 303,Russian IX,1111
+RUSS 411,Intro Russian Stylistics,1000
+RUSS 431,Intro Russian Literature,0100
+RUSS 451,Intro Bus & Prof Russian,0010
+RUSS 480,Russian Minor Thesis Course,0000
+SCRP 220,Playwriting I,1000
+SCRP 225,Playwriting II,0100
+SCRP 241,Writing TV Comedy,0100
+SCRP 242,Writing TV Drama,0010
+SCRP 250,Creating Stand-up Comedy,0100
+SCRP 270,Screenwriting I,1110
+SCRP 275,Screenwriting II,1110
+SCRP 280,Writing the Short Film,1110
+SCRP 310,Literature for Screenwriters,0101
+SCRP 350,Writing the TV Comedy Series,0010
+SCRP 353,Writing the TV Drama Series,0010
+SCRP 370,Screenplay Story Development,1010
+SCRP 380,Screenwriting Workshop I,1111
+SCRP 381,Screenwriting Workshop II,1111
+SCRP 382,Playwriting Workshop I,0011
+SCRP 383,Playwriting Workshop II,0011
+SCRP 495,SCRP Senior Proj I,1011
+SCRP 496,SCRP Senior Proj II,1101
+SE 101,Foundations of SE I,1000
+SE 102,Foundations of SE II,0100
+SE 103,Foundations of SE III,0010
+SE 310,Software Architecture I,1000
+SE 311,Software Architecture II,0100
+SE 320,Software Verif and Validation,1000
+SMT 101,Principles of Coaching,1001
+SMT 102,Principles of Coaching II,0100
+SMT 110,The Business of Sport,1001
+SMT 152,Leadership in Sports & Society,1001
+SMT 200,Intro to Facility/Event Mgmt,0100
+SMT 201,"Sports Mktg., Promo. and P.R.",1000
+SMT 203,Sports Conditioning,0010
+SMT 205,Sports Information,1000
+SMT 210,Prevnt/Care Athletic Injuries,0011
+SMT 215,Sports Ticket Sales & Oper,0100
+SMT 220,"Recreation, Wellness & Society",0000
+SMT 225,Sports Budgeting,0100
+SMT 230,Sports and the Law,1000
+SMT 235,Sports Admin and Governance,0000
+SMT 240,Olympic Games,0000
+SMT 245,NCAA Compliance,0000
+SMT 250,Technology and Sport,1000
+SMT 254,Women & Minority Opps in Sport,0000
+SMT 255,Legal Foundations of Title IX,0000
+SMT 260,Sports Agents & Labor,0000
+SMT 270,Sports Facility Management,0000
+SMT 275,Sports Event Management,0000
+SMT 300,Quant Analy/Stats for Sports,0100
+SMT 305,Fundraising in Sports,0100
+SMT 307,Corp Sponsorship in Sports,0010
+SMT 309,Capital Campaigns in Athletics,0000
+SMT 310,Sports Contracts,0000
+SMT 315,Sports Publications & Graphics,0010
+SMT 320,Economic Aspects of Sport Mgmt,0100
+SMT 337,Risk Management in Sports,0000
+SMT 340,International Aspects of Sport,0010
+SMT 345,Fan Experience Management,0100
+SMT 347,Sport Tourism,1000
+SMT 401,Professional Portfolio,0000
+SMT 475,Sports Industry Practicum,1111
+SOC 101,Introduction to Sociology,1111
+SOC 110,Sociology of the Future,0110
+SOC 115,Social Problems,1111
+SOC 120,Sociology of the Family,0110
+SOC 125,Sociology of Aging,0111
+SOC 137,Issues in Science and Religion,0000
+SOC 150,Sex and Society,0001
+SOC 204,Criminology,1111
+SOC 210,Race and Ethnic Relations,1111
+SOC 215,Industrial Sociology,0100
+SOC 220,Wealth and Power,1111
+SOC 225,Soc of Technology & Aging,0000
+SOC 230,Women & Men-Changing Soc,1010
+SOC 235,Sociology of Health,1001
+SOC 240,Urban Sociology,1111
+SOC 250,Research Methods I,1111
+SOC 260,Classical Social Theory,1111
+SOC 268,Sociology of Sport,0000
+SOC 274,"Sex,Violence & Crime-Internet",0100
+SOC 275,Issues in Domestic Violence,0010
+SOC 276,Introduction to Computer Crime,1000
+SOC 277,Intro-Correctional Practices,0010
+SOC 310,Topics in Political Sociology,1111
+SOC 311,Soc of Religion,0100
+SOC 312,Topics in Soc of Sci and Tech,0000
+SOC 320,Sociology of Deviant Behavior,1111
+SOC 330,Dev Nations/Intnt'l Div Labor,0101
+SOC 335,Sociology of Education I,0010
+SOC 340,Globalization,1010
+SOC 341,Environ Movements in America,0000
+SOC 344,Social Movements,0000
+SOC 345,Sociology of the Environment,0100
+SOC 346,Environmental Justice,0000
+SOC 347,Intro to Environ Policy Analy,0000
+SOC 350,Research Methods II,0110
+SOC 364,Cmptr-Assist Data Anlys I,1111
+SOC 370,Practicum Appl/Commun Soc,1111
+SOC 373,Environmental Crimes,1000
+SOC 374,Restorative Justice,1000
+SOC 376,Sentencing,0100
+SOC 377,Intellectual Property Theft,0010
+SOC 395,Seminar in Sociology,1000
+SOC 435,Seminar - Organ of Amer States,0100
+SOC 460,Contemporary Social Theory,0110
+SOC 470,Social Change & Planning,0010
+SPAN 101,Spanish I,1111
+SPAN 102,Spanish II,1111
+SPAN 103,Spanish III,1111
+SPAN 201,Spanish IV,1111
+SPAN 202,Spanish V,1111
+SPAN 203,Spanish VI: Convrs & Comp,1111
+SPAN 311,Intro Spanish Stylistics,1111
+SPAN 312,Spanish Stylistics,1111
+SPAN 332,St Spanish/Span Amer Lit,0001
+SPAN 333,Adv Spanish/Span Am Lit,1000
+SPAN 351,Intro Bus & Prof Spanish,0100
+SPAN 371,Spec St Spanish Civil & Cult,0010
+SPAN 411,Spec St Adv Spanish Stylistics,0100
+SPAN 431,Spec St Adv Spanish Lit,0010
+SPAN 451,Sp St Adv Bus/Prof Spanish,0000
+SPAN 471,Spec St Spanish Civilization,1000
+SPAN 480,Spanish Minor Thesis Course,0000
+STAT 201,Intro to Business Statistics,1111
+STAT 202,Business Statistics II,1110
+STAT 205,Statistical Inference I,1010
+STAT 206,Statistical Inference II,0101
+STAT 261,Statistics I,1000
+STAT 262,Statistics II,0100
+STAT 263,Statistics III,0010
+STAT 325,6-Sigma Quality Implementation,0010
+STS 345,Stats for the Health Sciences,1111
+STS 350,Adv Stats for Clinical Science,0110
+TAX 341,Individual Income Taxes,1111
+TAX 342,Business Income Taxes,0100
+THTR 110,Voice and Articulation,0100
+THTR 115,Theatrical Experience,1110
+THTR 116,Philadelphia Theatre Let's Go!,0100
+THTR 121,Dramatic Analysis,1000
+THTR 131,Theatre Performance Practicum,1111
+THTR 132,Theatre Production Practicum,1111
+THTR 210,Acting: Fundamentals,1111
+THTR 211,Acting: Scene Study,1010
+THTR 212,Sketch Comedy,0010
+THTR 221,Theatre History I,0010
+THTR 222,Theatre History II,0100
+THTR 240,Theatre Production I,1010
+THTR 260,Production Design,0100
+THTR 320,Play Direction,1010
+THTR 360,Lighting Design,1100
+TVIE 180,TV Industry Overview,0010
+TVIE 280,Research Sales Prog,1000
+TVIE 285,Media Law and Ethics,0100
+TVIE 290,Intro to Money & the Media,0010
+TVIE 365,Special Topics: TVIE,0000
+TVIE 390,Practicum: Promotions,0100
+TVIE 391,Practicum: Programming,1000
+TVIE 392,Practicum: New Media Mngmt,0100
+TVIE 480,TV Professions & Business,1000
+TVIE 495,SrProject: TVIE I,1000
+TVIE 496,SrProject: TVIE II,1000
+TVIE 497,SrProject: TVIE III,1000
+TVIT 270,Digital Content Delivery,0010
+TVIT 275,Introduction to IT for TV,1000
+TVIT 370,Monetizing TV Web Content,1000
+TVIT 375,Web Streaming Poject,1000
+TVPR 100,TV Studio: Basic Operations,1100
+TVPR 200,TV Studio: Live Directing,1100
+TVPR 201,TV Studio: Comedy,0010
+TVPR 202,TV Studio: Drama,0010
+TVPR 205,TV Studio: Adv Live Directing,0010
+TVPR 212,TV Commercials and Promos,1000
+TVPR 220,TV News Writing,0100
+TVPR 221,TV News Production,0010
+TVPR 230,TV Field: Drama,0010
+TVPR 232,TV Field: Industrials,0010
+TVPR 236,TV Field: Nonfiction,0010
+TVPR 240,Producing for Television,1000
+TVPR 242,TV On-Camera Performance,0000
+TVPR 315,Episodic Webisode Production,0100
+TVPR 340,Remote TV Production,1000
+TVPR 347,Advanced TV Lighting,0000
+TVPR 348,TV Directing Workshop,0000
+TVPR 351,TV Comedy Series I,0100
+TVPR 352,TV Comedy Series II,0010
+TVPR 354,TV Drama Series I,1000
+TVPR 355,TV Drama Series II,0100
+TVPR 356,TV Magazine Show I,1000
+TVPR 357,TV Magazine Show II,0100
+TVPR 495,SrProject: TVPR I,1000
+TVPR 496,SrProject: TVPR II,1100
+TVPR 497,SrProject: TVPR III,1100
+TVST 260,History of Television,0100
+TVST 261,History of TV Journalism,0100
+TVST 361,Art of TV Comedy,0110
+TVST 362,Art of TV Drama,1000
+TVST 363,Science Fiction Television,1110
+VSCM 100,Computer Imaging I,1100
+VSCM 140,Calligraphy,0100
+VSCM 200,Computer Imaging II,1000
+VSCM 230,Visual Communication I,1000
+VSCM 231,Visual Communication II,0100
+VSCM 232,Visual Communication III,0010
+VSCM 240,Typography I,1010
+VSCM 241,Production,0010
+VSCM 242,Typography II,0100
+VSCM 300,Computer Imaging III,0100
+VSCM 330,Visual Communication IV,1010
+VSCM 331,Visual Communication V,0101
+VSCM 340,Typography III,1010
+VSCM 350,Graphic Design 20th C & Beyond,0101
+VSCM 360,Design on Site,0001
+VSCM 430,Visual Communication VI,1000
+VSCM 440,Book Design,1000
+VSCM 450,Professional Portfolio,0110
+VSCM 460,Professional Practice,0010
+VSCM 477,Graphic Design Seminar,0010
+VSCM 478,GDS: Adv Techniques,0111
+VSCM 479,GDS: Adv Media,1111
+VSCM 480,GDS: Design Perceptions,0011
+VSCM 485,Annual Report Design,0100
+VSCM 496,Senior Thesis Graphic Design,0110
+VSST 101,Design I,1110
+VSST 102,Design II,1110
+VSST 103,Design III,1110
+VSST 104,Accelerated Design I,0001
+VSST 105,Accelerated Design II,0001
+VSST 106,Accelerated Design III,0001
+VSST 108,Design I for Media,1100
+VSST 109,Design II for Media,0110
+VSST 110,Introductory Drawing,1111
+VSST 111,Figure Drawing I,1111
+VSST 112,Figure Drawing II,0010
+VSST 201,Multimedia: Performance,1111
+VSST 202,Multimedia: Space,1111
+VSST 203,Multimedia: Materials,1111
+VSST 204,Materials Exploration,1000
+VSST 301,Painting I,1111
+VSST 302,Painting II,1110
+VSST 303,Painting III,0110
+VSST 311,Sculpture I,1111
+VSST 312,Sculpture II,1111
+VSST 313,Sculpture III,1010
+VSST 321,Screenprint I,1111
+VSST 322,Printmaking I,1100
+VSST 323,Printmaking II,1100
+VSST 324,Advanced Printmaking,0010
+VSST 325,Screenprint II,1100
+WMGD 210,Motion Graphics I,1010
+WMGD 220,Web Graphics,0101
+WMGD 320,Storyboarding,1000
+WMGD 421,Motion Graphics II,1000
+WMGD 496,Senior Thesis in WMGD,0110
+WMST 101,Intro Women's Studies,1111
+WMST 240,Women/Society Global Context,1010
+WMST 250,African American Herstories,0100
+WMST 275,Women's Health & Human Rights,0100
+WMST 301,Seminar in Feminist Theory,0000
+WMST 308,Queer Theory,0000
+WMST 320,Masculinities,0000
+WRIT 210,Writing & Peer Tutoring Wkshop,0000
+WRIT 220,Creative Nonfiction Writing,0000
+WRIT 225,Creative Writing,0000
+WRIT 301,Writing Poetry,0000
+WRIT 302,Writing Fiction,0100
+WRIT 303,Writing Humor and Comedy,0000
+WRIT 304,Special Topics in Writing,0000
+WRIT 306,Writing About the Media,0000
+WRIT 310,Literary Editing & Publication,0000
+WRIT 312,Practice of Prof'l Writing,0000
+WRIT 400,Writing in Cyberspace,0000
+WRIT 405,Intern in Literary Publishing,1111
+WRIT 302,Writing Fiction,0100
+WRIT 303,Writing Humor and Comedy,0000
+WRIT 304,Special Topics in Writing,0000
+WRIT 306,Writing About the Media,0000
+WRIT 310,Literary Editing & Publication,0000
+WRIT 312,Practice of Prof'l Writing,0000
+WRIT 400,Writing in Cyberspace,0000
+WRIT 405,Intern in Literary Publishing,1111

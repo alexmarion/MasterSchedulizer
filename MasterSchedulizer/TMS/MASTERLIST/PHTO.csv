@@ -1,0 +1,19 @@
+PHTO,110,Photography,3.00,,,1111,0
+PHTO,140,Digital Photography I,4.00,,,0010,0
+PHTO,210,Intermediate Photography,3.00,PHTO110,,1110,0
+PHTO,231,Color Photography,4.00,PHTO210,,0010,0
+PHTO,233,Large Format Photography,4.00,PHTO210,,1000,0
+PHTO,234,Studio Photography,4.00,PHTO231,,0001,0
+PHTO,236,Photojournalism,4.00,PHTO210,,0100,0
+PHTO,240,Digital Photography II,4.00,PHTO210,,0100,0
+PHTO,253,Fine Black & White Printing,3.00,PHTO210,,1000,0
+PHTO,275,History of Photography I,3.00,ARTH101,,0100,0
+PHTO,276,History of Photography II,3.00,PHTO275,,0010,0
+PHTO,334,Advanced Studio Photography,4.00,PHTO234,,1010,0
+PHTO,361,Advanced Photography,4.00,PHTO233 and PHTO253,,1001,0
+PHTO,392,Junior Project in Photography,3.00,PHTO234,,0110,0
+PHTO,451,Photography and Business,3.00,PHTO240,,1000,0
+PHTO,452,History of Contemporary Photography,3.00,PHTO275 and PHTO276,,1000,0
+PHTO,492,Senior Thesis in Photography I,3.00,PHTO392,,1000,0
+PHTO,493,Senior Thesis in Photography II,3.00,PHTO492,,0100,0
+PHTO,495,Senior Thesis in Photography III,3.00,PHTO492 and PHTO493,,0010,0

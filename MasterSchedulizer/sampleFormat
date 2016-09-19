@@ -1,0 +1,10 @@
+subjCode,courseNum,courseDescription,credits(double),preReqs,coReqs,termsOffered,termTaken
+CI,101,Computing and Informatics Design I,2.0,,,1000,0
+CI,102,Computing and Informatics Design II,2.0,CI101,,0100,0
+CI,103,Computing and Informatics Design III,2.0,CI102,,0010,0
+
+credits: must be a double with two decimal places (2.00, 3.00, 4.50, etc.)
+preReqs: courses without spaces separated by ' and ' or ' or '
+        ex: CS260 and CS270 or MATH221
+coReqs: courses without spaces separated by spaces
+        ex: EXAM080 CS172

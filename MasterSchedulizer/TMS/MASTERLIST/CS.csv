@@ -1,0 +1,48 @@
+CS,161,Introduction to Computing,3,,EXAM080,1111,0
+CS,164,Introduction to Computer Science,3,,EXAM080,1000,0
+CS,171,Computer Programming I,3,,EXAM080,1110,0
+CS,172,Computer Programming II,3,CS171,EXAM080,0111,0
+CS,175,Computer Programming I-II,3,,,0100,0
+CS,260,Data Structures,3,CS265,,0101,0
+CS,265,Advanced Programming Tools and Techniques,3,CS172 or SE103 or ECEC301,,1010,0
+CS,265,Advanced Programming Tools and Techniques,3,CS172 or CS175 or SE103 or ECEC301,,01010,0
+CS,270,Mathematical Foundations of Computer Science,3,CS172 or CS265 or SE103,,1010,0
+CS,270,Mathematical Foundations of Computer Science,3,CS172 or CS175 or CS265 or SE103 or ECEC301,,1010,0
+CS,281,Systems Architecture,4,ECE200 or CS270 and CS172 or SE103,,1010,0
+CS,281,Systems Architecture,4,CS270 or ECE200 and CS172 or CS175 or SE103,,1010,0
+CS,283,Systems Programming,3,CS265,,0101,0
+CS,300,Applied Symbolic Computation,3,CS260 and CS270 and MATH200 and MATH201,,1000,0
+CS,303,Algorithmic Number Theory and Cryptography,3,CS260 and MATH221 and MATH201 or MATH261 or ENGR231,,0010,0
+CS,337,The Psychology of Human-Computer Interaction,3,CS350,,1010,0
+CS,338,Graphical User Interfaces,3,CS350 or SE310,,0101,0
+CS,345,Computer Game Design and Development,3,GMAP260 and CS265,,0101,0
+CS,347,Experimental Game Development,3,CS345 or GMAP345,,1010,0
+CS,348,Serious Game Development,3,CS345 or GMAP345,,1010,0
+CS,350,Software Design,3,CS260 and CS265,,1010,0
+CS,352,Processor Architecture & Analysis,3,CS281 or ECEC355,,0101,0
+CS,360,Programming Language Concepts,3,CS260 and CS265 and CS270,,101,0
+CS,361,Concurrent Programming,3,CS281 and CS260,,1010,0
+CS,365,System Administration,3,CS260 and CS265,,1,0
+CS,370,Operating Systems,3,CS283 or CS361,,0101,0
+CS,380,Artificial Intelligence,3,CS260 and CS270,,1010,0
+CS,383,Machine Learning,3,CS260 and CS380,,0101,0
+CS,385,Evolutionary Computing,3,CS260 and CS380,,0100,0
+CS,387,Game AI Development,3,CS260 and CS380,,0010,0
+CS,430,Computer Graphics,3,MATH200 and MATH201 and CS350 or SE310,,1110,0
+CS,431,Advanced Rendering Techniques,3,CS430,,0010,0
+CS,432,Interactive Computer Graphics,3,CS260 and MATH201 or MATH261 or ENGR231,,0100,0
+CS,435,Computational Photography,3,CS260 and MATH201 or MATH261 or ENGR231,,0100,0
+CS,440,Theory of Computation,3,CS270 and MATH221,,0010,0
+CS,441,Compiler Workshop I,3,CS270 and CS283 and CS360 and CS440,,0101,0
+CS,442,Compiler Workshop II,3,CS441,,1010,0
+CS,445,Topics in Computer Gaming,3,CS345,,1010,0
+CS,451,Software Engineering,3,CS270 and MATH221 and CS350 or SE310,,0101,0
+CS,457,Data Structures and Algorithms I,3,CS260 and CS270 and MATH221,,1000,0
+CS,458,Data Structures and Algorithms II,3,CS457,,0100,0
+CS,461,Database Systems,3,CS260,,0101,0
+CS,472,"Computer Networks: Theory, Applications and Programming",3,CS361 or CS283,,1010,0
+CS,475,Computer and Network Security,3,CS472 or CS283,,0100,0
+CS,476,High Performance Computing,3,CS281 and CS283,,1010,0
+CS,481,Advanced Artificial Intelligence,3,CS380 and MATH311 or MATH410,,0101,0
+CS,485,ST:Autonomous Agents,3,CS260 and CS380,,0011,0
+CS,485,ST: Artificial Intelligence,3,CS260 and CS380,,0011,0

@@ -1,0 +1,47 @@
+CHEM,050,Prepatory Chemistry,0,,,1111,0
+CHEM,101,General Chemistry I,3.50,CHEM111,EXAM080,1101,0
+CHEM,102,General Chemistry II,4.50,CHEM101 or CHEM121 or CHEM161,EXAM080,0110,0
+CHEM,103,General Chemistry III,5.00,CHEM102 or CHEM122 or CHEM162 and CHEM164,EXAM080,1110,0
+CHEM,108,Health Chemistry I,3.00,,EXAM080,1000,0
+CHEM,111,General Chemistry I,4.00,,EXAM080,1000,0
+CHEM,112,General Chemistry II,4.00,CHEM111,,0100,0
+CHEM,113,General Chemistry I Laboratory,1.50,CHEM111,,1000,0
+CHEM,121,Majors Chemistry I,5,CHEM111,EXAM 080,1000,0
+CHEM,122,Majors Chemistry II,5,CHEM101,EXAM 080,0100,0
+CHEM,151,Applied Chemistry,3.00,,EXAM080,1111,0
+CHEM,161,General Chemistry I,3.00,,,1011,0
+CHEM,162,General Chemistry II,3,CHEM161 or CHEM101,,0001,0
+CHEM,163,General Chemistry III,3.00,CHEM164 and CHEM162,,0011,0
+CHEM,164,General Chemistry Laboratory I,2,CHEM162,,0001,0
+CHEM,165,General Chemistry Laboratory II,2.50,CHEM163,,0011,0
+CHEM,201,Why Things Work: Everyday Chemistry,3.00,,,0010,0
+CHEM,230,Quantitative Analysis,4.00,CHEM102 or CHEM122 or CHEM162 and CHEM164,,1011,0
+CHEM,230,Quantitative Analysis,4.00,CHEM102 or CHEM162 and CHEM164,,1011,0
+CHEM,231,Quantitative Analysis Laboratory,2.00,CHEM230,,1011,0
+CHEM,241,Organic Chemistry I,4.00,CHEM102 or CHEM122 or CHEM162 and CHEM164,,1011,0
+CHEM,241,Organic Chemistry I,4.00,CHEM102 or CHEM162 and CHEM164,,1011,0
+CHEM,242,Organic Chemistry II,4.00,CHEM241,,1101,0
+CHEM,242,2015-2016 Chem242 syllabus,4.00,CHEM241,,1101,0
+CHEM,243,Organic Chemistry III,3.00,CHEM242,,1110,0
+CHEM,244,Organic Chemistry Laboratory I,3.00,CHEM241,,1111,0
+CHEM,245,Organic Chemistry Laboratory II,3.00,CHEM242 and CHEM244,,1111,0
+CHEM,253,Thermodynamics and Kinetics,4,CHEM102,,1000,0
+CHEM,270,Software Skills for Chemists,3.00,CHEM102 or CHEM122 and PHYS201,,0100,0
+CHEM,346,Qualitative Organic Chemistry,5.50,CHEM243 and CHEM245,,1000,0
+CHEM,355,Physical Chemistry IV,3.00,CHEM253 and CHEM270 or PHYS160 and MATH201 or MATH210 and CHEC352,,1000,0
+CHEM,356,Physical Chemistry Laboratory,2.00,CHEM241,,1010,0
+CHEM,357,Physical Chemistry Laboratory I,2.50,CHEM253 and PHYS201 or CHEC352,,0100,0
+CHEM,358,Physical Chemistry Laboratory II,2.50,CHEM357 and CHEM253 or CHEC352,,1010,0
+CHEM,359,Atomic and Molecular Spectroscopy,3.00,CHEM355,,0100,0
+CHEM,364,Spectroscopic Analysis,3.00,CHEM243,,1000,0
+CHEM,367,Chemical Information Retrieval,3.00,,,1000,0
+CHEM,420,Molecular Symmetry and Group Theory Applied Chemistry,3.00,CHEM421,,0100,0
+CHEM,421,Inorganic Chemistry I,3.00,CHEM253 or ENGR210,,1000,0
+CHEM,422,Inorganic Chemistry II,3.00,CHEM420,,0010,0
+CHEM,425,Inorganic Chemistry Laboratory,4.00,CHEM422,,0010,0
+CHEM,430,Analytical Chemistry I,3.00,CHEM230 and CHEM242 and CHEM253 or CHEC352,,1000,0
+CHEM,431,Analytical Chemistry II,4.00,CHEM430 or ENGR210,,0100,0
+CHEM,465,Synthetic Polymer Chemistry,3.00,CHEM242,,1000,0
+CHEM,466,Physical Chemistry of Polymers,3.00,CHEM242 and CHEM253,,0100,0
+CHEM,493,Senior Research Project,0.50,,,1111,0
+CHEM,497,Research,0.50,,,1111,0

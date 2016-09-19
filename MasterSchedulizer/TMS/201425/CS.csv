@@ -1,0 +1,27 @@
+CS,140,Introduction to Multimedia Programming,3.00,,,TERMS-OFFERED,0
+CS,143,Computer Programming Fundamentals,3.00,,,TERMS-OFFERED,0
+CS,161,Introduction to Computing,3.00,,EXAM080,TERMS-OFFERED,0
+CS,171,Computer Programming I,3.00,,EXAM080,TERMS-OFFERED,0
+CS,172,Computer Programming II,3.00,CS171 or CS132,EXAM080,TERMS-OFFERED,0
+CS,260,Data Structures,3.00,CS265,,TERMS-OFFERED,0
+CS,275,Web and Mobile App Development,3.00,CS265,,TERMS-OFFERED,0
+CS,283,Systems Programming,3.00,CS265,,TERMS-OFFERED,0
+CS,345,Computer Game Design and Development,3.00,DIGM260 or GMAP260 and CS265 or DIGM141,,TERMS-OFFERED,0
+CS,360,Programming Language Concepts,3.00,CS260 and CS265 and CS270,,TERMS-OFFERED,0
+CS,370,Operating Systems,3.00,CS283 or CS361,,TERMS-OFFERED,0
+CS,385,Evolutionary Computing,3.00,CS260 and CS380,,TERMS-OFFERED,0
+CS,430,Computer Graphics,3.00,MATH200 and MATH201 and CS350 or SE310,,TERMS-OFFERED,0
+CS,451,Software Engineering,3.00,CS270 and MATH221 and CS350 or SE310,,TERMS-OFFERED,0
+CS,461,Database Systems,3.00,CS260,,TERMS-OFFERED,0
+CS,510,Introduction to Artificial Intelligence,3.00,,,TERMS-OFFERED,0
+CS,522,Data Structures and Algorithms II,3.00,CS521,,TERMS-OFFERED,0
+CS,525,Theory of Computation,3.00,CS521,,TERMS-OFFERED,0
+CS,543,Operating Systems,3.00,,,TERMS-OFFERED,0
+CS,613,Machine Learning,3.00,CS510,,TERMS-OFFERED,0
+CS,680,ST:Formal Methods,12.00,,,TERMS-OFFERED,0
+CS,997,Research in Computer Science,1.00 to 12.00,,,TERMS-OFFERED,0
+CS,175,Computer Programming I-II,3.00,,,TERMS-OFFERED,0
+CS,338,Graphical User Interfaces,3.00,CS350 or SE310,,TERMS-OFFERED,0
+CS,347,Experimental Game Development,3.00,CS345 or GMAP345,,TERMS-OFFERED,0
+CS,458,Data Structures and Algorithms II,3.00,CS457,,TERMS-OFFERED,0
+CS,690,BCIs for Education,1.00 to 6.00,,,TERMS-OFFERED,0

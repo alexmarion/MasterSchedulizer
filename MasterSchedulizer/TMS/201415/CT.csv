@@ -1,0 +1,25 @@
+CT,100,Microcomputer Hardware,3.00,,,TERMS-OFFERED,0
+CT,120,Microcomputer Operating System,3.00,CT100,,TERMS-OFFERED,0
+CT,140,Network Administration I,3.00,CT100,,TERMS-OFFERED,0
+CT,200,Server I,3.00,,CT100,TERMS-OFFERED,0
+CT,210,Linux I,3.00,,,TERMS-OFFERED,0
+CT,220,Database I,3.00,,,TERMS-OFFERED,0
+CT,230,Web Development I,3.00,,,TERMS-OFFERED,0
+CT,290,Client Side Programming,3.00,,,TERMS-OFFERED,0
+CT,312,Access Control and Intrusion Detection Technology,3.00,CT420,,TERMS-OFFERED,0
+CT,320,Server II,3.00,CT200,,TERMS-OFFERED,0
+CT,355,Wireless Network Security Technology,3.00,CT420,,TERMS-OFFERED,0
+CT,370,Object Oriented Systems Analysis,3.00,,,TERMS-OFFERED,0
+CT,393,Information Technology Security Risk Assessment,3.00,,,TERMS-OFFERED,0
+CT,395,Information Technology Security I,3.00,,,TERMS-OFFERED,0
+CT,410,Linux III,3.00,CT310,,TERMS-OFFERED,0
+CT,415,Disaster Recovery and Continuity Planning,3.00,,,TERMS-OFFERED,0
+CT,422,Incident Response Best Practices,3.00,,,TERMS-OFFERED,0
+CT,212,Computer Forensics I: Fundamentals,3.00,,,TERMS-OFFERED,0
+CT,222,Security and Information Warfare,3.00,,,TERMS-OFFERED,0
+CT,240,Web Development II,3.00,CT230,,TERMS-OFFERED,0
+CT,325,Operating System Security Architecture I,3.00,,,TERMS-OFFERED,0
+CT,360,Operating Systems Architecture II,3.00,CT320 and CT340,,TERMS-OFFERED,0
+CT,400,Network Security,3.00,CT350,,TERMS-OFFERED,0
+CT,412,Information Technology Security Policies,3.00,,,TERMS-OFFERED,0
+CT,432,Information Technology Security Systems Audits,3.00,CT420,,TERMS-OFFERED,0

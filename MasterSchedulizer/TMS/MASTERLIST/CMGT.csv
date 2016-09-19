@@ -1,0 +1,26 @@
+CMGT,101,Introduction to Construction Management,3.00,,,1100,0
+CMGT,161,Building Materials and Construction Methods I,3.00,,,1000,0
+CMGT,162,Building Materials and Construction Methods II,3.00,CMGT161,,0100,0
+CMGT,163,Building Materials and Construction Methods III,3.00,CMGT162,,0010,0
+CMGT,261,Construction Safety,3.00,,,1100,0
+CMGT,262,Building Codes,3.00,,,0110,0
+CMGT,263,Understanding Construction Drawings,3.00,CMGT161 and CMGT162,,1010,0
+CMGT,265,Information Technologies in Construction,3.00,,,1000,0
+CMGT,266,Building Systems I,3.00,PHYS182,,1000,0
+CMGT,267,Building Systems II,3.00,CMGT266,,0100,0
+CMGT,361,Contracts And Specifications I,3.00,,,1010,0
+CMGT,362,Contracts and Specifications II,3.00,CMGT361,,1100,0
+CMGT,363,Estimating I,3.00,MATH110 and CMGT263,,1010,0
+CMGT,364,Estimating II,3.00,CMGT363,,1100,0
+CMGT,365,Soil Mechanics in Construction,4.00,CMGT161 and MATH102 and PHYS182,,1100,0
+CMGT,365,Soil Mechanics in Construction,4.00,CMGT161 and MATH121 and PHYS182,,1100,0
+CMGT,371,Structural Aspects in Construction I,3.00,CMGT161 and MATH102 and PHYS182,,1100,0
+CMGT,372,Structural Aspects in Construction II,3.00,CMGT371,,0110,0
+CMGT,451,Heavy Construction Principles & Practices,3.00,,,0100,0
+CMGT,461,Construction Management,3.00,,,0110,0
+CMGT,463,Value Engineering,3.00,,,1010,0
+CMGT,465,Marketing Construction Services,3.00,,,0010,0
+CMGT,467,Techniques of Project Control,4.00,CMGT163 and CMGT263,,1100,0
+CMGT,467,Techniques of Project Control,4.00,,,1100,0
+CMGT,468,Real Estate,3.00,,,0000,0
+CMGT,469,Construction Seminar: Contemporary Issues,3.00,,,0000,0

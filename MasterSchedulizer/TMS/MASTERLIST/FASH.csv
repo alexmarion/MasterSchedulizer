@@ -1,0 +1,24 @@
+FASH,201,Survey of the Fashion Industry,3.00,,,1000,0
+FASH,210,Presentation Techniques in Fashion,3.00,VSST102 or VSST105 and FASH201,,1010,0
+FASH,211,Fashion Drawing I,3.00,VSST111,,1000,0
+FASH,212,Fashion Drawing II,3.00,FASH211,,0110,0
+FASH,220,Textile Design,3.00,VSST102 or VSST105,,1100,0
+FASH,230,Textiles for Fashion Design,3.00,,,0110,0
+FASH,241,Construction Skills,4.00,,,1100,0
+FASH,251,Fashion Design I,4.00,VSST204,,0110,0
+FASH,252,Fashion Design II,4.00,FASH251,,0011,0
+FASH,313,Fashion Drawing for Industry,3.00,FASH210,,0011,0
+FASH,314,Fashion Presentation Drawing,3.00,,,0101,0
+FASH,315,Computer Aided Design for Patternmaking,3.00,FASH342,,1110,0
+FASH,316,Computer Aided Design for Fashion Design,3.00,FASH313,,0100,0
+FASH,341,Flat Pattern Design,4.00,FASH241,,0110,0
+FASH,342,Draping Design,4,FASH341,,1000,0
+FASH,343,Tailoring and Design,4.00,FASH342,,1010,0
+FASH,351,Fashion Design III,4.00,FASH252 and FASH343,,0101,0
+FASH,352,Fashion Design IV,4.00,FASH351,,1000,0
+FASH,450,Machine Knitting,3.00,FASH241 and VSST112,,1110,0
+FASH,451,Accessory Design,3.00,FASH241,,0001,0
+FASH,464,Professional Portfolio,3.00,FASH314,,1000,0
+FASH,466,Business of Fashion,3.00,,,1000,0
+FASH,491,Senior Problem in Fashion Design I,4.00,FASH352,,0100,0
+FASH,492,Senior Problem in Fashion Design II,3.00,FASH491,,0010,0

@@ -1,0 +1,14 @@
+ACCT,115,Financial Accounting Foundations,4.00,,,TERMS-OFFERED,0
+ACCT,116,Managerial Accounting Foundations,4.00,ACCT115,,TERMS-OFFERED,0
+ACCT,321,Financial Reporting I,4.00,ACCT115,,TERMS-OFFERED,0
+ACCT,323,Financial Reporting III,4.00,ACCT322,,TERMS-OFFERED,0
+ACCT,341,Principles of Auditing,4.00,ACCT322,,TERMS-OFFERED,0
+ACCT,498,ST:Govt & Non Profit Tax,12.00,,,TERMS-OFFERED,0
+ACCT,601,Managerial Accounting,3.00,BUSN501 or BUSN505 and BUSN506,,TERMS-OFFERED,0
+ACCT,607,Forensic Investigation,3.00,,,TERMS-OFFERED,0
+ACCT,626,Financial Accounting Theory II,3.00,ACCT625,,TERMS-OFFERED,0
+ACCT,331,Cost Accounting,4.00,ACCT116,,TERMS-OFFERED,0
+ACCT,344,Internal Auditing,4.00,,,TERMS-OFFERED,0
+ACCT,603,Strategic Cost Management,3.00,,,TERMS-OFFERED,0
+ACCT,622,Advanced Financial Accounting,3.00,,,TERMS-OFFERED,0
+ACCT,990,ST:Managerial Acct Seminar,0.50 to 9.00,,,TERMS-OFFERED,0

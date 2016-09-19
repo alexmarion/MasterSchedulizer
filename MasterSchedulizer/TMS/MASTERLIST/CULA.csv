@@ -1,0 +1,21 @@
+CULA,115,Culinary Fundamentals,3.00,,,0110,0
+CULA,120,Techniques and Traditions I,3.00,,,0010,0
+CULA,121,Techniques and Traditions II,3.00,CULA120,,1000,0
+CULA,125,Foundations of Professional Baking,3.00,CULA120 or CULA115,,1000,0
+CULA,216,A la Carte,3.00,HRM215,,0010,0
+CULA,220,Patisserie I,2.00,CULA125,,0010,0
+CULA,225,Patisserie II,2.00,CULA220,,1000,0
+CULA,291,Culinary Arts Practicum II,6.00,CULA120,,0001,0
+CULA,300,Fundamentals of Vegetarian Cuisine,3.00,CULA120 or CULA115,,0001,0
+CULA,305,Fundamentals of Italian Cuisine,3.00,CULA120 or CULA115,,0001,0
+CULA,310,Fundamentals of French Cuisine,3.00,CULA120 or CULA115,,1000,0
+CULA,315,Fundamentals of American Cuisine,3,CULA120,,0100,0
+CULA,316,Butchery Laboratory,2.00,CULA115 or CULA120,,1000,0
+CULA,405,Culture and Gastronomy I,3.00,,,1000,0
+CULA,410,Culture and Gastronomy II,3.00,CULA405,,0100,0
+CULA,412,Food Writing for Culinary Professionals,3.00,,,0010,0
+CULA,415,Food Styling and Show Competition,3.00,CULA115 or CULA120,,1000,0
+CULA,420,Senior Design Project,3.00,CULA310 and CULA315,,0010,0
+CULA,425,The Kitchen Garden,3.00,,,0010,0
+CULA,426,The Kitchen Garden: Summer,3.00,,,0001,0
+CULA,427,The Kitchen Garden: Fall,3.00,,,1000,0

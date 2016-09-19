@@ -1,0 +1,42 @@
+CI,101,Computing and Informatics Design I,2.0,,,1000,201515
+CS,164,Introduction to Computer Science,3.0,,EXAM080,1100,201515
+MATH,121,Calculus I,4.0,MATH110 or APC070 or MATH050,EXAM080,1111,201515
+ENGL,101,Composition and Rhetoric I: Inquiry and Exploratory Research,2.0,,,1111,201515
+UNIV,101,The Drexel Experience,1,,,1111,201515
+CI,102,Computing and Informatics Design II,2.0,CI101,,0100,201525
+CIVC,101,Introduction to Civic Engagement,2.0,,,1111,201525
+COOP,101,Career Management and Professional Development,0.0,,,1111,201525
+CS,171,Computer Programming I,3.0,,EXAM080,1110,201525
+ENGL,102,Composition and Rhetoric II: Advanced Research and Evidence-Based Writing,4.0,ENGL 101,,1111,201525
+PHYS,101,Fundamentals of Physics I,4.0,,EXAM080,1111,201515
+PHYS,102,Fundamentals of Physics I II,4.0,PHYS101,EXAM080,1111,201525
+PHYS,201,Fundamentals of Physics I II,4.0,PHYS102,EXAM080,0111,201535
+MATH,122,Calculus II,3.0,MATH121,EXAM080,1111,201525
+CI,103,Computing and Informatics Design III,2.0,CI102,,0010,201535
+CS,172,Computer Programming II,3.0,CS171,EXAM080,0111,201535
+ENGL,103,Composition and Rhetoric III: Themes and Genres,3.0,ENGL102,,1111,201535
+MATH,123,Calculus III,3.0,MATH122,EXAM080,1111,201535
+SUMMER BREAK,,SUMMER BREAK,20.0,,,0001,201545
+CS,265,Advanced Programming Tools and Techniques,3.0,CS172 or CS175 or CS133 or SE103 or ECEC 301,,1010,201615
+CS,270,Mathematical Foundations of Computer Science,3.0,CS172 or CS175 or CS133 or SE103 or ECEC 301,,1010,201615
+MATH,201,Linear Algebra,3.0,MATH121,EXAM080,1111,201615
+CS,260,Data Structures,3.0,CS265,,0101,201625
+CS,275,Web and Mobile App Development,3.0,CS265,,0101,201625
+MATH,221,Discrete Mathematics,3.0,MATH220 or CS270 or ECE200,EXAM080,1111,201625
+COOP,1-1,Co-operative Ed,16.0,COOP101,,0011,201635
+COOP,1-2,Co-operative Ed,16.0,COOP101,,0011,201645
+COM,230,Techniques of Speaking,3.0,ENGL102,,1111,201715
+CS,281,Systems Architecture,4.0,CS270 or ECE200 and SE103 or CS172 or CS175 or SE103,,1010,201715
+CS,350,Software Design,3.0,CS260 and CS265,,0101,201715
+CS,283,Systems Programming,3.0,CS265,,0101,201725
+CS,360,Programming Language Concepts,3.0,CS260 and CS265 and CS270,,0101,201725
+COOP,2-1,Co-operative Ed,16.0,,,0011,201735
+COOP,2-2,Co-operative Ed,16.0,,,0011,201745
+MATH,311,Probability and Statistics I,3.0,MATH122,EXAM081,1111,201815
+PHIL,311,Computer Ethics,4.0,,,1111,201825
+CS,451,Software Engineering,3.0,CS270 and MATH221 and CS350 or SE310,,0101,201825
+COOP,3-1,Co-operative Ed,16.0,,,0011,201835
+COOP,3-2,Co-operative Ed,16.0,,,0011,201845
+CI,491,Senior Project I,3.0,CS451 or INFO324 or INFO420,,1000,201915
+CI,492,Senior Project II,3.0,CI491,,0100,201925
+CI,493,Senior Project III,3.0,CI492,,0010,201935

@@ -1,0 +1,19 @@
+SCRP,220,Playwriting I,3.00,ENGL101,,1000,0
+SCRP,220,Playwriting I,3.00,,,1000,0
+SCRP,225,Playwriting II,3.00,SCRP220,,0100,0
+SCRP,250,Creating Stand-up Comedy,3.00,,,0100,0
+SCRP,270,Screenwriting I,3.00,ENGL101,,1110,0
+SCRP,275,Screenwriting II,3.00,SCRP270,,1110,0
+SCRP,280,Writing the Short Film,3.00,SCRP270,,1110,0
+SCRP,310,Literature for Screenwriters,3.00,SCRP270,,0101,0
+SCRP,353,Writing the TV Drama Series,3.00,,,0010,0
+SCRP,353,TV Drama Practicum,3.00,,,0010,0
+SCRP,353,TV Drama Practicum,3.00,,,0010,0
+SCRP,370,Screenplay Story Development,3.00,SCRP275,,1010,0
+SCRP,370,Screenplay Story Development,3.00,SCRP270,,1010,0
+SCRP,380,Screenwriting Workshop I,3.00,SCRP275,,1111,0
+SCRP,381,Screenwriting Workshop II,3.00,SCRP380,,1111,0
+SCRP,382,Playwriting Workshop I,3.00,SCRP225,,0011,0
+SCRP,383,Playwriting Workshop II,3.00,SCRP382,,0011,0
+SCRP,495,Senior Project in Dramatic Writing I,3.00,SCRP381 or SCRP383,,1011,0
+SCRP,496,Senior Project in Dramatic Writing II,3.00,SCRP495,,1101,0

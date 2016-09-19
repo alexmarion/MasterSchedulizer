@@ -1,0 +1,16 @@
+EET,102,Introduction to Engineering Technology,3.00,,,0000,0
+EET,201,Circuit Analysis I,4.00,PHYS104 and MATH110,,0100,0
+EET,202,Circuit Analysis II,4.00,EET201,,1000,0
+EET,202,Circuit Analysis II,4.00,EET201 and MATH110,,1000,0
+EET,204,Introduction to Nanotechnology,3.00,CHEM111 and CHEM113,,0100,0
+EET,205,Digital Electronics,4.00,EET201,,1000,0
+EET,206,Analog Electronics I,4.00,EET201 and EET202,,0100,0
+EET,311,Modeling of Engineering Systems,4.00,MATH122 and EET201,,1000,0
+EET,313,Signals and Systems I,4.00,EET311,,0100,0
+EET,317,Analog Electronics II,4.00,EET206,,0100,0
+EET,319,PLC Fundamentals,4.00,EET205,,1000,0
+EET,322,Energy Conversion,4.00,EET202,,0100,0
+EET,323,Electrical Systems Design,3.00,EET202,,1000,0
+EET,324,Power Electronics,4.00,EET202,,0000,0
+EET,325,Microprocessors,3.00,EET205,,1100,0
+EET,401,Applied Microcontrollers,3.00,EET205,,0100,0

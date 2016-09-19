@@ -1,0 +1,43 @@
+MEM,201,Foundations of Computer Aided Design,3.00,,,1111,0
+MEM,202,Statics,3.00,PHYS185 or PHYS101,,1111,0
+MEM,202,Statics,3.00,PHYS185 or PHYS101,,1111,0
+MEM,220,Basic Fluid Mechanics,4.00,MATH200,,0101,0
+MEM,230,Mechanics of Materials I,4.00,MEM202,,1010,0
+MEM,238,Dynamics,4.00,MATH200 and PHYS185 or PHYS101,,0111,0
+MEM,238,Dynamics,4.00,MATH200 and MEM202,,0111,0
+MEM,255,Introduction to Controls,4.00,MEM238 and MATH201 or MATH261 or ENGR231 and MATH210 or MATH262 or ENGR232,,1101,0
+MEM,310,Thermodynamic Analysis I,4.00,ENGR210,,1110,0
+MEM,311,Thermal  Fluid Science Laboratory,2.00,MEM220 and MEM310,,1010,0
+MEM,320,Fluid Dynamics I,3.00,MEM220,,1010,0
+MEM,330,Mechanics of Materials II,4.00,MEM230,,0101,0
+MEM,331,Experimental Mechanics I,2.00,MEM230 and MEM238,,0101,0
+MEM,345,Heat Transfer,4.00,ENGR210 and MEM220 or CIVE320 and MATH210 or MATH262 or ENGR232,,1010,0
+MEM,351,Dynamic Systems Laboratory I,2.00,MEM255,,0101,0
+MEM,355,Performance Enhancement of Dynamic Systems,4.00,MEM255,,1110,0
+MEM,361,Engineering Reliability,3.00,MATH201 or MATH261 or ENGR231,,1101,0
+MEM,395,Hess Undergraduate Scholars Research,0.50,MEM310,,1111,0
+MEM,402,Power Plant Design,3.00,MEM310,,1000,0
+MEM,403,Gas Turbines & Jet Propulsion,3.00,MEM220 and MEM310,,0100,0
+MEM,410,Thermodynamic Analysis II,3.00,MEM310,,0101,0
+MEM,413,HVAC Loads,3.00,MEM345 and MEM310 or AE220,,1000,0
+MEM,414,HVAC Equipment,3.00,MEM345 and MEM310 or AE220,,0100,0
+MEM,417,Introduction to Microfabrication,3.00,,,0010,0
+MEM,419,Microfluidics and Lab-on-a-Chip,3.00,MEM417,,0001,0
+MEM,420,Aerodynamics,3.00,MEM220,,0010,0
+MEM,423,Mechanics of Vibration,4.00,MEM238 and ENGR232 or MATH210 or MATH262,,1011,0
+MEM,425,Aircraft Design & Performance,3.00,,,1000,0
+MEM,426,Aerospace Structures,3.00,MEM230,,0000,0
+MEM,427,Finite Element Methods,3.00,MEM230,,1000,0
+MEM,431,Machine Design I,3.00,MEM202 and MEM230 and MEM238,,1010,0
+MEM,435,Introduction to Computer-Aided Design and Manufacturing,4.00,MEM201,,1010,0
+MEM,437,Manufacturing Process I,3.00,MEM220 and MEM230,,1010,0
+MEM,438,Manufacturing Process II,3.00,MEM437,,0100,0
+MEM,440,Thermal Systems Design,3.00,MEM345,,0101,0
+MEM,444,Biofluid Mechanics,3.00,MEM220 or BMES451,,0010,0
+MEM,448,Applications of Thermal Plasmas,3.00,PHYS201,,0000,0
+MEM,449,Applications of Non-Thermal Plasmas,3.00,PHYS201,,0000,0
+MEM,453,Aircraft Flight Dynamics & Control I,3.00,MEM355,,0010,0
+MEM,462,Intro Engr Management,3.00,,,1010,0
+MEM,491,Senior Design Project I,3.00,MEM230 and MEM238 and MEM355 and MEM345,,1000,0
+MEM,492,Senior Design Project II,3.00,MEM491,,0100,0
+MEM,493,Senior Design Project III,3.00,MEM492,,0010,0

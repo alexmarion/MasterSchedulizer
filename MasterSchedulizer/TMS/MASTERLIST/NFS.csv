@@ -1,0 +1,30 @@
+NFS,100,"Nutrition, Foods, and Health",2.00,,,1111,0
+NFS,101,Introduction to Nutrition & Food,1.00,,,1111,0
+NFS,203,Nutrition II: Nutrition in the Lifecycle,4.00,BIO121 or NFS101 or NFS230,,0000,0
+NFS,203,Nutrition II: Nutrition in the Lifecycle,4.00,NFS101 or NFS230,,0000,0
+NFS,215,Nutritional Chemistry,3.00,,,1000,0
+NFS,215,Nutritional Chemistry,3.00,CHEM103,NFS217,1000,0
+NFS,217,Nutrient Quality & Composition,1.00,CHEM103,NFS215,1000,0
+NFS,220,Normal & Lifespan Nutrition,4.00,,,0101,0
+NFS,230,Intermediate Nutrition,4.00,BIO121 or NFS101,,1010,0
+NFS,265,Professional Issues in Nutrition and Foods,3.00,BIO121,,0010,0
+NFS,265,Professional Issues in Nutrition and Foods,3.00,NFS230,,0010,0
+NFS,315,Nutrition in Chronic Disease,4.00,NFS220 or NFS230,,0001,0
+NFS,320,Pediatric Nutrition,4.00,NFS101 or NFS220 or NFS230,,0100,0
+NFS,325,Nutrition & Exercise Physiology,3.00,NFS100 or NFS101 or NFS230,,0000,0
+NFS,345,Foods and Nutrition of World Cultures,3.00,COM345,,0010,0
+NFS,345,Foods and Nutrition of World Cultures,3.00,CULA115,,0010,0
+NFS,370,Foodservice Systems Management,4.00,HRM215 and HRMT323,,0010,0
+NFS,370,Foodservice Systems Management,4.00,HRM215,,0010,0
+NFS,391,Community Nutrition,4.00,NFS203 and PSY320,,1000,0
+NFS,415,Advanced Nutrition I: Macronutrition,4.00,NFS230 and NFS217 and NFS215,,1000,0
+NFS,416,Advanced Nutrition II: Micronutrients,4.00,NFS415,,0100,0
+NFS,431,Nutrition Counseling,4.00,NFS443 and PSY342,,0100,0
+NFS,431,Nutrition Counseling,4.00,NFS443,,0100,0
+NFS,443,Medical Nutrition Therapy I,3.00,NFS416,,1000,0
+NFS,444,Medical Nutrition Therapy II,3.00,NFS443,,0100,0
+NFS,445,Medical Nutrition Therapy III,3.00,NFS444,,0010,0
+NFS,475,Adv Seminar Dietetics Prof,3.00,NFS203 and NFS203,,0000,0
+NFS,494,Senior Project I,2.00,,,1000,0
+NFS,495,Senior Project II,2.00,NFS494,,0100,0
+NFS,496,Senior Project III,2.00,NFS495,,0010,0

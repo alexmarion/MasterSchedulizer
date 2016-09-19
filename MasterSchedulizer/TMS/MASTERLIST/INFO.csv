@@ -1,0 +1,34 @@
+INFO,101,Introduction to Information Technology,3.00,,,1110,0
+INFO,105,Introduction to Informatics,3.00,,,1010,0
+INFO,108,Foundations of Software,3.00,,,1110,0
+INFO,110,Human-Computer Interaction I,3.00,,,0111,0
+INFO,151,Web Systems and Services I,3.00,INFO108,,1110,0
+INFO,152,Web Systems and Services II,3.00,INFO151,,0111,0
+INFO,153,Applied Data Management,3.00,INFO108,,1010,0
+INFO,154,Software System Construction,3.00,INFO152,,0101,0
+INFO,200,Systems Analysis I,3.00,INFO101,,1010,0
+INFO,204,Nursing Informatics,3.00,CS161,NURS201 NURS200,1010,0
+INFO,205,Strategic Uses of Information Systems,3.00,INFO101,,0001,0
+INFO,210,Database Management Systems,3.00,INFO101,,1111,0
+INFO,215,Social Aspects of Information Systems,3.00,INFO105,,1111,0
+INFO,215,Social Aspects of Information Systems,3.00,,,1111,0
+INFO,300,Information Retrieval Systems,3.00,INFO105 and INFO110 and CS260 or INFO153 or SE103,,1010,0
+INFO,310,Human-Computer Interaction II,3.00,INFO110 and INFO200,,0101,0
+INFO,320,Server Technology I,4.00,INFO101 and CS164 or CS171 or SE101 or INFO151,,1111,0
+INFO,321,Server Technology II,4.00,INFO320,,0101,0
+INFO,322,Server Technology III,4.00,INFO321,,1010,0
+INFO,324,Team Process and Product,3.00,INFO153 and INFO200,,1010,0
+INFO,330,Computer Networking Technology I,4.00,CS171 or SE102 or INFO152,,1111,0
+INFO,331,Computer Networking Technology II,4.00,INFO330,,1010,0
+INFO,333,Introduction to Information Security,3.00,,,1010,0
+INFO,355,Systems Analysis II,3.00,INFO210 and INFO200,,1111,0
+INFO,365,Database Administration I,3.00,INFO210 and CS171 or INFO153 or SE102,,1010,0
+INFO,366,Database Administration II,3.00,INFO365,,0101,0
+INFO,370,Artificial Intelligence for Information Systems,3.00,INFO108,,0010,0
+INFO,373,Digital Forensics,3.00,INFO210 and INFO355,,0001,0
+INFO,375,Introduction to Information Systems Assurance,3.00,INFO200 and INFO330,,0101,0
+INFO,410,Information Technology Infrastructure,3.00,,,1010,0
+INFO,415,Information Technology Services,3.00,,,0101,0
+INFO,420,Software Project Management,3.00,INFO200 and CS172 or CS265 or INFO153 or SE103,,1111,0
+INFO,425,Design Problem I,3.00,INFO420,,1100,0
+INFO,426,Design Problem II,3.00,INFO425,,0110,0
